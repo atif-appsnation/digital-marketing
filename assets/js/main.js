@@ -102,7 +102,7 @@ CSS TABLE OF CONTENTS
 
                 breakpoints: {
                     1199: {
-                        slidesPerView: 4,
+                        slidesPerView: 8,
                     },
                     991: {
                         slidesPerView: 3,
@@ -483,7 +483,7 @@ $('.awards-slider').owlCarousel({
             items: 4
         },
         1600: {
-            items: 4
+            items: 5
         },
     }
 });

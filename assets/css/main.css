@@ -11,7 +11,7 @@
 	--second-color: #089674;
 	--third-color: #1EA29B;
 	--header: #17012C;
-	--text: #504E4E;
+	--text: #000;
 	--border: #E5E5E5;
 	--bg: #E8FFFF;
 	--box-shadow: 0px 4px 25px 0px rgba(0, 0, 0, 0.06);
@@ -136,7 +136,7 @@ h6 {
 }
 
 h1 {
-	font-size: 70px;
+	font-size: 50px;
 	font-weight: 800;
 	line-height: 125%;
 }
@@ -4006,7 +4006,7 @@ span {
 	font-size: 20px;
 	font-weight: 600;
 	letter-spacing: 4px;
-	text-transform: uppercase;
+	text-transform: capitalize;
 	color: var(--white);
 	display: inline-block;
 	margin-bottom: 10px;
@@ -4750,6 +4750,10 @@ span {
 	color: var(--header);
 }
 
+.cmn-textslide img {
+	height: 60px;
+}
+
 .scrolling-wrap.style-2 {
 	background-color: transparent;
 	padding: 0;
@@ -4810,8 +4814,8 @@ span {
 }
 
 .mycustom-marque.style-2 {
-	border: 1px solid var(--first-color);
-	background: var(--first-color);
+	border: 1px solid var(--white);
+	background: var(--white);
 	box-shadow: 0px 4px 30px 0px rgba(0, 0, 0, 0.1);
 	transform: rotate(1.913deg);
 	margin-top: -15px;
@@ -4847,7 +4851,7 @@ span {
 }
 
 .mycustom-marque.style-3 {
-	background: var(--black);
+	background: #f9f9f9;
 	transform: rotate(-2.772deg);
 	margin-top: -52px;
 	position: relative;
@@ -7049,6 +7053,11 @@ input.main-search-input::placeholder {
 	margin-bottom: 5px;
 }
 
+.service-box-items ul {
+	list-style-type: circle;
+	margin-left: 25px;
+}
+
 .service-section {
 	position: relative;
 }
@@ -8584,7 +8593,7 @@ footer {
 	background-image: url(../img/footer-background.webp);
 	background-size: cover;
 	background-repeat: no-repeat;
-	padding: 150px 0px;
+	padding: 250px 0px;
 }
 
 footer h2 {
@@ -8706,12 +8715,12 @@ footer h5 a {
     border-radius: 30px;
 }
 
-.award-item .card {
+/* .award-item .card {
     height: 330px;
-}
+} */
 
 .award-img {
-    width: 100px !important;
+    /* width: 100px !important; */
     display: block;
     margin: 0 auto;
 }
@@ -8842,4 +8851,40 @@ footer h5 a {
 .accordion-button:not(.collapsed) {
 	background-color: var(--first-color);
 	color: var(--white)
+}
+
+.brand-slider img {
+	width: 100px;
+}
+
+.industries {
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: flex-start;
+    margin: 0 auto 50px;
+}
+
+.industries-point li {
+    display: flex;
+    align-content: center;
+}
+
+.industries-point li {
+    flex-direction: column;
+    flex-wrap: nowrap;
+    justify-content: flex-start;
+    align-items: center;
+    padding-bottom: 20px;
+    color: var(--black);
+    font-weight: 600;
+}
+
+.industries-point li svg {
+    width: 55px;
+    height: auto;
+}
+
+.industries-point li svg path {
+    fill: var(--first-color);
 }
