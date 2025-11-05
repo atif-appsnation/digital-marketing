@@ -8877,3 +8877,22 @@ footer h5 a {
 		font-size: 11px;
 	}
 }
+
+.modal-dialog .modal-body {
+    padding: 0px;
+}
+
+.background {
+    background-color: #001921;
+    padding: 25px;
+    border-radius: 20px 0px 0px 20px;
+}
+
+.modal-dialog .modal-body .header-quote-form {
+    padding: 50px;
+}
+
+.modal-dialog .modal-content {
+    border: 1px solid transparent;
+    border-radius: 20px;
+}

@@ -23,7 +23,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
         // $mail->SMTPSecure = PHPMailer::ENCRYPTION_SMTPS;
         // $mail->Port       = 465;
 
-         $mail->isSMTP();
+        $mail->isSMTP();
         $mail->Host = 'smtp.hostinger.com';
         $mail->SMTPAuth = true;
         $mail->Username = 'leads@digitroopers.com';
@@ -34,7 +34,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
 
         // Recipients
         $mail->setFrom('leads@digitroopers.com', $userName);
-        $mail->addAddress('leads@digitroopers.com', 'AppsNation');
+        $mail->addAddress('leads@appsnation.co', 'AppsNation');
 
         // Email Content
         $mail->isHTML(true);
