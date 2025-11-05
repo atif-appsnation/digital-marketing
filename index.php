@@ -718,7 +718,7 @@
                     <div class="row g-4">
                         <div class="col-lg-6">
                             <div class="about-image">
-                                <iframe width="100%" height="500" src="https://www.youtube.com/embed/d7BDBcb5__4" data-wow-delay="0.3s" class="wow fadeInUp" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+                                <iframe width="100%" height="500" src="https://www.youtube.com/embed/djZV4wG8j_c" data-wow-delay="0.3s" class="wow fadeInUp" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
                                 <!-- <img src="assets/img/about/01.webp" alt="img" class="wow img-custom-anim-left" data-wow-duration="1.5s" data-wow-delay="0.3s"> -->
                                 <!-- <div class="bg-shape">
                                     <img src="assets/img/about/bg-shape.png" alt="img">
@@ -795,18 +795,18 @@
                                     <div class="post-box-items">
                                         <ul>
                                             <li>
-                                                <a href="project-details.html">AI-driven strategies <i class="fa-regular fa-arrow-up-right"></i></a>
+                                                <a href="project-details.html">AI-driven strategies</a>
                                             </li>
                                             <li>
-                                                <a href="project-details.html">Social & content campaigns<i class="fa-regular fa-arrow-up-right"></i></a>
+                                                <a href="project-details.html">Social & content campaigns</a>
                                             </li>
                                         </ul>
                                         <ul>
                                             <li>
-                                                <a href="project-details.html">Google Ads & PPC <i class="fa-regular fa-arrow-up-right"></i></a>
+                                                <a href="project-details.html">Google Ads & PPC</a>
                                             </li>
                                             <li>
-                                                <a href="project-details.html">Performance Tracking <i class="fa-regular fa-arrow-up-right"></i></a>
+                                                <a href="project-details.html">Performance Tracking</a>
                                             </li>
                                         </ul>
                                     </div>
@@ -968,18 +968,25 @@
 					</div>
 				</div>
 			</div>
-            <div class="d-flex justify-content-center wow fadeInUp mt-4" data-wow-delay=".7s">
-                <div class="main-button">
-                    <a href="tel:+97142415963" class="theme-btn">
-                        <span>Call: +971 4 241 5963 </span>
-                    </a>
-                </div>
-                <div class="main-button">
-                    <a data-bs-toggle="modal" data-bs-target="#myModal" class="ms-3">
-                        <span class="theme-btn">Request A Quote <i class="fa-solid fa-arrow-right ps-2"></i></span>
-                    </a>
+            <div class="container">
+                <div class="row">
+                    <div class="col-12">
+                        <div class="d-flex justify-content-center wow fadeInUp mt-4" data-wow-delay=".7s">
+                            <div class="main-button">
+                                <a href="tel:+97142415963" class="theme-btn">
+                                    <span>Call: +971 4 241 5963 </span>
+                                </a>
+                            </div>
+                            <div class="main-button">
+                                <a data-bs-toggle="modal" data-bs-target="#myModal" class="ms-3">
+                                    <span class="theme-btn">Request A Quote <i class="fa-solid fa-arrow-right ps-2"></i></span>
+                                </a>
+                            </div>
+                        </div>
+                    </div>
                 </div>
             </div>
+            
         </section>
         <!-- End Portfolio -->
         
@@ -1151,7 +1158,7 @@
                 <p class="mt-3 mt-md-0 wow fadeInUp" data-wow-delay=".5s">At <b>AppsNation</b>, we help businesses of all sizes and sectors grow online. From startups to established brands, our <b>AI-driven digital marketing services</b> deliver results across multiple industries.</p>
                 <div class="industries wow fadeInUp mt-4" data-wow-delay="0.7s">
                     <div class="row">
-                        <div class="col">
+                        <div class="col-6 col-md-4 col-lg">
                             <ul class="industries-point">
                                 <li>
                                     <svg xmlns="http://www.w3.org/2000/svg" id="Layer_1" data-name="Layer 1" viewBox="0 0 30 30">
@@ -1185,7 +1192,7 @@
                                 </li>
                             </ul>
                         </div>
-                        <div class="col">
+                        <div class="col-6 col-md-4 col-lg">
                             <ul class="industries-point">
                                 <li>
                                     <svg xmlns="http://www.w3.org/2000/svg" id="Layer_1" data-name="Layer 1" viewBox="0 0 30 30">
@@ -1219,7 +1226,7 @@
                                 </li>
                             </ul>
                         </div>
-                        <div class="col">
+                        <div class="col-6 col-md-4 col-lg mt-3 mt-md-0">
                             <ul class="industries-point">
                                 <li>
                                     <svg xmlns="http://www.w3.org/2000/svg" id="Layer_1" data-name="Layer 1" viewBox="0 0 30 30">
@@ -1253,7 +1260,7 @@
                                 </li>
                             </ul>
                         </div>
-                        <div class="col">
+                        <div class="col-6 col-md-4 col-lg mt-3 mt-lg-0">
                             <ul class="industries-point">
                                 <li>
                                     <svg xmlns="http://www.w3.org/2000/svg" id="Layer_1" data-name="Layer 1" viewBox="0 0 30 30">
@@ -1287,7 +1294,7 @@
                                 </li>
                             </ul>
                         </div>
-                        <div class="col">
+                        <div class="col-6 col-md-4 col-lg mt-3 mt-lg-0">
                             <ul class="industries-point">
                                 <li>
                                     <svg xmlns="http://www.w3.org/2000/svg" id="Layer_1" data-name="Layer 1" viewBox="0 0 30 30">
@@ -1665,7 +1672,7 @@
                         <div class="col-lg-7 my-auto">
                             <p class="text-center text-lg-start">Powered by AI, Driven by Results.</p>
                         </div>
-                        <div class="col-lg-5 text-center text-lg-start mt-5 mt-lg-0">
+                        <div class="col-lg-5 d-flex justify-content-center text-center text-lg-start mt-5 mt-lg-0">
                             <div class="main-button wow fadeInUp">
                                 <a data-bs-toggle="modal" data-bs-target="#myModal" class="main-button theme-btn">Let's Work Together
                                     <i class="fas fa-chevron-right fa-icon"></i>

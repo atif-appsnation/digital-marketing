@@ -114,7 +114,7 @@ CSS TABLE OF CONTENTS
                         slidesPerView: 2,
                     },
                     0: {
-                        slidesPerView: 1,
+                        slidesPerView: 3,
                     },
                 },
             });
@@ -488,13 +488,12 @@ $('.awards-slider').owlCarousel({
     }
 });
 
-var owl = $('.testimonial-card-a');
-owl.owlCarousel({
+$('.testimonial-card-a').owlCarousel({
     items: 4,
     loop: true,
     autoplay: true,
     centre: true,
-    margin: 15,
+    margin: 10,
     nav: false,
     dots: true,
     autoplayTimeout: 3000,
