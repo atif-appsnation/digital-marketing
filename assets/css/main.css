@@ -3078,7 +3078,7 @@ span {
 }
 
 .header-1 .header-right .main-button .theme-btn, .header-1 .header-right .main-button .arrow-btn {
-	background-color: var(--second-color);
+	background-color: var(--black);
 	color: var(--header);
 }
 
