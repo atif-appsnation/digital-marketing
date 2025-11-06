@@ -203,10 +203,6 @@ span {
 	transition: all 0.4s ease-in-out;
 }
 
-.about-wrapper {
-	margin-top: 155px;
-}
-
 @media (max-width: 1899px) {
 	.about-wrapper {
 		margin-top: 0;
@@ -4747,7 +4743,7 @@ span {
 	border: 1px solid var(--white);
 	background: var(--white);
 	box-shadow: 0px 4px 30px 0px rgba(0, 0, 0, 0.1);
-	transform: rotate(1.913deg);
+	/* transform: rotate(1.913deg); */
 	margin-top: -15px;
 	position: relative;
 	z-index: 9;
@@ -8523,7 +8519,7 @@ footer {
 	background-image: url(../img/footer-background.webp);
 	background-size: cover;
 	background-repeat: no-repeat;
-	padding: 250px 0px;
+	/* padding: 250px 0px; */
 }
 
 footer h2 {
@@ -8895,4 +8891,50 @@ footer h5 a {
 .modal-dialog .modal-content {
     border: 1px solid transparent;
     border-radius: 20px;
+}
+
+.bg-white.gp {
+    border: 1px solid #E1DEDE;
+    padding: 20px 50px 10px 20px;
+    position: relative;
+    border-radius: 10px;
+}
+
+.bg-white.gp:hover {
+	background-color: var(--first-color) !important;
+}
+
+.bg-white.gp:hover * {
+	color: var(--white);
+}
+
+.owl-theme .owl-nav [class*=owl-] {
+	color: var(--second-color) !important;
+	font-size: 50px !important;
+}
+
+.whatsapp-sticky {
+	position: fixed;
+	bottom: 20px;
+	right: 20px;
+	background-color: #25D366;
+	color: white;
+	width: 60px;
+	height: 60px;
+	border-radius: 50%;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	box-shadow: 0 4px 10px rgba(0, 0, 0, 0.3);
+	z-index: 1000;
+	transition: all 0.3s ease;
+}
+
+.whatsapp-sticky i {
+	font-size: 35px;
+}
+
+.whatsapp-sticky:hover {
+	transform: scale(1.1);
+	background-color: #128C7E;
 }
