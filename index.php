@@ -90,7 +90,7 @@
                             </ul>
                             <div class="main-button mt-2">
                                 <a data-bs-toggle="modal" data-bs-target="#myModal" class="theme-btn">
-                                    <span class="text-white">Request A Quote <i class="fa-solid fa-arrow-right ps-2"></i></span>
+                                    <span class="text-white">Schedule A Call</span>
                                 </a>
                             </div>
                             <div class="social-icon d-flex align-items-center">
@@ -126,12 +126,12 @@
                                     <div class="d-flex gap-2">
                                         <div class="main-button">
                                             <a href="tel:+97142415963" class="theme-btn">
-                                                <span class="text-white">Call: +971 4 241 5963 </span>
+                                                <span class="text-white">Call Us</span>
                                             </a>
                                         </div>
                                         <div class="main-button">
                                             <a data-bs-toggle="modal" data-bs-target="#myModal" class="theme-btn">
-                                                <span class="text-white">Request A Quote <i class="fa-solid fa-arrow-right ps-2"></i></span>
+                                                <span class="text-white">Schedule A Call</span>
                                             </a>
                                         </div>
                                         <div class="main-button">
@@ -217,7 +217,6 @@
                             <img src="assets/img/hero/hero-text.png" alt="img">      
                         </div> -->
                         <div class="hero-content">
-                            <span class="wow img-custom-anim-left" data-wow-duration="1.5s" data-wow-delay="0.2s">Drive Real Growth with Proven Online Marketing Strategies</span>
                             <h1 class="wow img-custom-anim-right" data-wow-duration="1.5s" data-wow-delay="0.2s">Best Digital Marketing Agency in Dubai</h1>
                             <p class="wow fadeInUp" data-wow-delay=".3s">Partner with the leading digital marketing agency in UAE offering SEO, Google Ads, Social Media Management, Content Creation, and Online Advertising — all under one roof.</p>
                         </div>
@@ -230,7 +229,7 @@
                             </div>
                         </div>
                     </div>
-                    <div class="col-xl-4 col-lg-6">
+                    <div class="col-xl-4 col-lg-6 mt-n4 mt-lg-0">
                         <div class="video-right">
                             <div class="niwax23form shadow">
                                 <div class="common-heading text-l">
@@ -406,12 +405,12 @@
                         <div class="d-flex justify-content-center mt-4 wow fadeInUp" data-wow-delay=".7s">
                             <div class="main-button">
                                 <a href="tel:+97142415963" class="theme-btn">
-                                    <span>Call: +971 4 241 5963 </span>
+                                    <span>Call Us</span>
                                 </a>
                             </div>
                             <div class="main-button">
                                 <a data-bs-toggle="modal" data-bs-target="#myModal" class="ms-3">
-                                    <span class="theme-btn">Request A Quote <i class="fa-solid fa-arrow-right ps-2"></i></span>
+                                    <span class="theme-btn">Schedule A Call</span>
                                 </a>
                             </div>
                         </div>
@@ -446,12 +445,12 @@
                                 <div class="d-flex mt-4 wow fadeInUp" data-wow-delay=".7s">
                                     <div class="main-button">
                                         <a href="tel:+97142415963" class="theme-btn">
-                                            <span>Call: +971 4 241 5963 </span>
+                                            <span>Call Us</span>
                                         </a>
                                     </div>
                                     <div class="main-button">
                                         <a data-bs-toggle="modal" data-bs-target="#myModal" class="ms-3">
-                                            <span class="theme-btn">Request A Quote <i class="fa-solid fa-arrow-right ps-2"></i></span>
+                                            <span class="theme-btn">Schedule A Call</span>
                                         </a>
                                     </div>
                                 </div>
@@ -581,12 +580,12 @@
                 <div class="d-flex justify-content-center wow fadeInUp mt-4" data-wow-delay=".7s">
                     <div class="main-button">
                         <a href="tel:+97142415963" class="theme-btn">
-                            <span>Call: +971 4 241 5963 </span>
+                            <span>Call Us</span>
                         </a>
                     </div>
                     <div class="main-button">
                         <a data-bs-toggle="modal" data-bs-target="#myModal" class="ms-3">
-                            <span class="theme-btn">Request A Quote <i class="fa-solid fa-arrow-right ps-2"></i></span>
+                            <span class="theme-btn">Schedule A Call</span>
                         </a>
                     </div>
                 </div>
@@ -598,10 +597,10 @@
         <section class="portfolio">
             <div class="scrollHalf">
 				<div class="scrollHalf__grupo row h-100" data-scroll>
-					<div class="scrollHalf__grupo__imagen col-12 col-sm-12 col-md-6 col-lg-6 col-xl-6 mt-auto mb-auto website-first-cs">
+					<div class="scrollHalf__grupo__imagen col-12 col-sm-12 col-md-12 col-lg-6 col-xl-6 mt-auto mb-auto website-first-cs">
 						<img src="assets/img/case-studies/1.webp" class="img-fluid" alt="Case Study" />
 					</div>
-					<div class="scrollHalf__grupo__contenido col-12 col-sm-12 col-md-6 col-lg-6 col-xl-4 offset-xl-1 mt-auto mb-auto">
+					<div class="scrollHalf__grupo__contenido col-12 col-sm-12 col-md-12 col-lg-6 col-xl-4 offset-xl-1 mt-auto mb-auto">
 						<h4 class="pt-3 case-study-heading">How Our Google Ads Delivered 168 Qualified Leads for AED 8M+ Properties</h4>
 						<p class="pt-3 case-study-text">Apps Nation helped a luxury real estate developer in Dubai generate <b>168 high-quality leads</b> through a Google Ads campaign targeting properties starting from <b>AED 8 million</b>. With a total spend of <b>AED 129K</b> and a <b>CPL of AED 773</b>, the campaign achieved exceptional ROI through data-driven targeting, Smart Bidding, and premium ad creatives tailored for affluent buyers.</p>
                         <table class="table table-bordered mt-3">
@@ -633,10 +632,10 @@
 					</div>
 				</div>
 				<div class="scrollHalf__grupo row h-100" data-scroll>
-					<div class="scrollHalf__grupo__imagen col-12 col-sm-12 col-md-6 col-lg-6 col-xl-6 mt-auto mb-auto website-second-cs">
+					<div class="scrollHalf__grupo__imagen col-12 col-sm-12 col-md-12 col-lg-6 col-xl-6 mt-auto mb-auto website-second-cs">
                         <img src="assets/img/case-studies/2.webp" class="img-fluid" alt="Case Study" />
 					</div>
-					<div class="scrollHalf__grupo__contenido col-12 col-sm-12 col-md-6 col-lg-6 col-xl-4 offset-xl-1 mt-auto mb-auto">
+					<div class="scrollHalf__grupo__contenido col-12 col-sm-12 col-md-12 col-lg-6 col-xl-4 offset-xl-1 mt-auto mb-auto">
 						<h4 class="pt-3 case-study-heading">33 Quality Leads Generated for Luxury Real Estate with Minimal Spend</h4>
 						<p class="pt-3 case-study-text">Through precise audience targeting and performance optimization, Apps Nation achieved <b>33 qualified property inquiries</b> for Danube Properties with a limited budget of <b>AED 5.63K</b>. Focused on <b>luxury real estate buyers in Dubai</b>, the campaign maintained a <b>CPL under AED 175</b>, leveraging Smart Bidding and strategic demographic insights to maximize ROI.</p>
                         <table class="table table-bordered mt-3">
@@ -668,10 +667,10 @@
 					</div>
 				</div>
                 <div class="scrollHalf__grupo row h-100" data-scroll>
-					<div class="scrollHalf__grupo__imagen col-12 col-sm-12 col-md-6 col-lg-6 col-xl-6 mt-auto mb-auto website-third-cs">
+					<div class="scrollHalf__grupo__imagen col-12 col-sm-12 col-md-12 col-lg-6 col-xl-6 mt-auto mb-auto website-third-cs">
 						<img src="assets/img/case-studies/3.webp" class="img-fluid" alt="Case Study" />
 					</div>
-					<div class="scrollHalf__grupo__contenido col-12 col-sm-12 col-md-6 col-lg-6 col-xl-4 offset-xl-1 mt-auto mb-auto">
+					<div class="scrollHalf__grupo__contenido col-12 col-sm-12 col-md-12 col-lg-6 col-xl-4 offset-xl-1 mt-auto mb-auto">
 						<h4 class="pt-3 case-study-heading">How Apps Nation Generated 567+ Leads for an Aesthetic Clinic in Dubai</h4>
 						<p class="pt-3 case-study-text">AppsNation ran multiple Meta ad campaigns for treatments like <b>BBL Moxi, Ultherapy, EMS, and Chemical Peel</b>, driving strong engagement and consistent conversions. Through targeted creatives and data-driven optimization, the campaigns delivered <b>567+ leads</b> at an average <b>cost per lead between AED 75–130</b>, achieving excellent ROI for high-intent audiences.</p>
                         <table class="table table-bordered mt-3">
@@ -703,10 +702,10 @@
 					</div>
 				</div>
 				<div class="scrollHalf__grupo row h-100" data-scroll>
-					<div class="scrollHalf__grupo__imagen col-12 col-sm-12 col-md-6 col-lg-6 col-xl-6 mt-auto mb-auto website-fourth-cs">
+					<div class="scrollHalf__grupo__imagen col-12 col-sm-12 col-md-12 col-lg-6 col-xl-6 mt-auto mb-auto website-fourth-cs">
                         <img src="assets/img/case-studies/4.webp" class="img-fluid" alt="Case Study" />
 					</div>
-					<div class="scrollHalf__grupo__contenido col-12 col-sm-12 col-md-6 col-lg-6 col-xl-4 offset-xl-1 mt-auto mb-auto">
+					<div class="scrollHalf__grupo__contenido col-12 col-sm-12 col-md-12 col-lg-6 col-xl-4 offset-xl-1 mt-auto mb-auto">
 						<h4 class="pt-3 case-study-heading">152K+ Conversions for a Rent-a-Car Company in Dubai</h4>
 						<p class="pt-3 case-study-text">Quick Digital Solutions successfully managed a large-scale Google Ads campaign for a Dubai-based rent-a-car company. The campaigns focused on maximizing lead generation through Search, Display, and Performance Max strategies — ensuring high visibility, strong engagement, and cost-efficient conversions across multiple ad groups.</p>
                         <table class="table table-bordered mt-3">
@@ -738,10 +737,10 @@
 					</div>
 				</div>
                 <div class="scrollHalf__grupo row h-100" data-scroll>
-					<div class="scrollHalf__grupo__imagen col-12 col-sm-12 col-md-6 col-lg-6 col-xl-6 mt-auto mb-auto website-fifth-cs">
+					<div class="scrollHalf__grupo__imagen col-12 col-sm-12 col-md-12 col-lg-6 col-xl-6 mt-auto mb-auto website-fifth-cs">
 						<img src="assets/img/case-studies/5.webp" class="img-fluid" alt="Case Study" />
 					</div>
-					<div class="scrollHalf__grupo__contenido col-12 col-sm-12 col-md-6 col-lg-6 col-xl-4 offset-xl-1 mt-auto mb-auto">
+					<div class="scrollHalf__grupo__contenido col-12 col-sm-12 col-md-12 col-lg-6 col-xl-4 offset-xl-1 mt-auto mb-auto">
 						<h4 class="pt-3 case-study-heading">73+ Leads Generated for a Spa in Dubai via Meta Ads</h4>
 						<p class="pt-3 case-study-text">Quick Digital Solutions managed targeted Meta (Facebook & Instagram) campaigns for a <b>spa brand in Dubai</b>, focused on generating <b>WhatsApp and Messenger inquiries</b> for treatments and services. By optimizing creatives, audience segments, and delivery strategy, the campaigns delivered consistent conversions at a strong cost efficiency.</p>
                         <table class="table table-bordered mt-3">
@@ -779,12 +778,12 @@
                         <div class="d-flex justify-content-center wow fadeInUp mt-4" data-wow-delay=".7s">
                             <div class="main-button">
                                 <a href="tel:+97142415963" class="theme-btn">
-                                    <span>Call: +971 4 241 5963 </span>
+                                    <span>Call Us</span>
                                 </a>
                             </div>
                             <div class="main-button">
                                 <a data-bs-toggle="modal" data-bs-target="#myModal" class="ms-3">
-                                    <span class="theme-btn">Request A Quote <i class="fa-solid fa-arrow-right ps-2"></i></span>
+                                    <span class="theme-btn">Schedule A Call</span>
                                 </a>
                             </div>
                         </div>
@@ -963,7 +962,7 @@
                 <p class="mt-3 mt-md-0 wow fadeInUp" data-wow-delay=".5s">At <b>AppsNation</b>, we help businesses of all sizes and sectors grow online. From startups to established brands, our <b>AI-driven digital marketing services</b> deliver results across multiple industries.</p>
                 <div class="industries wow fadeInUp mt-4" data-wow-delay="0.7s">
                     <div class="row">
-                        <div class="col-6 col-md-4 col-lg">
+                        <div class="col-6 col-md-4 col-lg-3">
                             <ul class="industries-point">
                                 <li>
                                     <svg xmlns="http://www.w3.org/2000/svg" id="Layer_1" data-name="Layer 1" viewBox="0 0 30 30">
@@ -985,9 +984,14 @@
                                         <path d="M13.2,16.77a4,4,0,0,1,.8,2.4v3.75a.25.25,0,0,1-.25.25h-.5a.25.25,0,0,1-.25-.25V19.17a3,3,0,0,0-.61-1.82l-1.32-1.82a.5.5,0,0,0-.81.59l1,1.32,0,0C12,18.7,10.17,20.17,9,18.79L7,16.36V11.69a.5.5,0,1,0-1,0V17a.51.51,0,0,0,.11.31l3.34,4.18A2.77,2.77,0,0,1,10,22.89a.25.25,0,0,1-.25.27h-.5A.24.24,0,0,1,9,23a1.86,1.86,0,0,0-.32-.85L5.33,17.93A1.48,1.48,0,0,1,5,17V11.66a1.49,1.49,0,0,1,1.52-1.49A1.55,1.55,0,0,1,8,11.72V16l1.94,2.3a.27.27,0,0,0,.42-.34l-.89-1.23a1.52,1.52,0,0,1,.07-1.91,1.5,1.5,0,0,1,2.33.12Zm5.6-5.35L15.39,15a.54.54,0,0,1-.79,0l-3.4-3.57a2.59,2.59,0,0,1,.17-3.71,2.18,2.18,0,0,1,1.45-.55,2.61,2.61,0,0,1,1.83.8l.35.36L15.34,8a2.64,2.64,0,0,1,1.83-.79,2.16,2.16,0,0,1,1.45.55A2.58,2.58,0,0,1,18.8,11.42ZM18,8.47a1.22,1.22,0,0,0-.82-.31,1.61,1.61,0,0,0-1.11.49L15,9.75,14,8.65a1.61,1.61,0,0,0-1.12-.48,1.19,1.19,0,0,0-.82.31,1.58,1.58,0,0,0-.11,2.25L15,14l3.09-3.24A1.58,1.58,0,0,0,18,8.47ZM25,17a1.43,1.43,0,0,1-.33.93L21.33,22.1A1.82,1.82,0,0,0,21,23a.24.24,0,0,1-.25.21h-.5a.25.25,0,0,1-.25-.27,2.77,2.77,0,0,1,.54-1.41l3.34-4.18A.51.51,0,0,0,24,17V11.66a.5.5,0,1,0-1,0v4.68l-2,2.42c-1.15,1.39-3-.08-2.21-1.32,0,0,0,0,0,0l.95-1.32a.48.48,0,0,0-.11-.69.49.49,0,0,0-.7.11l-1.32,1.82A3,3,0,0,0,17,19.16v3.75a.25.25,0,0,1-.25.25h-.5a.25.25,0,0,1-.25-.25V19.16a4,4,0,0,1,.8-2.4l1.32-1.82a1.51,1.51,0,0,1,2.33-.13,1.52,1.52,0,0,1,.08,1.92L19.64,18a.27.27,0,0,0,.42.33L22,16V11.72a1.56,1.56,0,0,1,1.47-1.56A1.51,1.51,0,0,1,25,11.66Z"></path>
                                     </svg> Health Care
                                 </li>
+                                <li>
+                                    <svg xmlns="http://www.w3.org/2000/svg" id="Layer_1" data-name="Layer 1" viewBox="0 0 30 30">
+                                        <path d="M13.75,18.36a3.43,3.43,0,0,0,.48.93l-3.18,3.18a2.39,2.39,0,0,1-3.36,0,2.39,2.39,0,0,1,0-3.36l4.57-4.57.71.71L8.4,19.82a1.38,1.38,0,0,0,0,1.94,1.4,1.4,0,0,0,1.94,0Zm9,2.39-2.12,2.12a1,1,0,0,1-1.42,0L15.28,19A2.49,2.49,0,0,1,15,15.84l-2.68-2.68H10l-3-4,2-2,4,3v2.3l2.67,2.67a2.48,2.48,0,0,1,3.15.32l3.89,3.89A1,1,0,0,1,22.71,20.75ZM12,10.66,9.09,8.49l-.77.77,2.18,2.9H12v-1.5Zm-2.5,9.5a.51.51,0,0,1,.5.5.5.5,0,0,1-1,0A.51.51,0,0,1,9.5,20.16Zm5.19-7.43L14,12V9.92a4.67,4.67,0,0,1,5.42-2.61.84.84,0,0,1,.61.6.86.86,0,0,1-.22.83l-2,2,.23,1.38,1.38.23,2-2a.87.87,0,0,1,.84-.22.88.88,0,0,1,.6.61,4.7,4.7,0,0,1-1.24,4.48,4.61,4.61,0,0,1-.91.7L20,15.19a3.88,3.88,0,0,0,.94-.68,3.66,3.66,0,0,0,1-3.26l-2.16,2.16L17.18,13l-.43-2.59,2.17-2.17a3.68,3.68,0,0,0-4.23,4.51ZM22,20l-3.89-3.89a1.5,1.5,0,0,0-2.12,0,1.52,1.52,0,0,0-.44,1.06A1.5,1.5,0,0,0,16,18.27l3.89,3.89Z"></path>
+                                    </svg> Facility Management
+                                </li>
                             </ul>
                         </div>
-                        <div class="col-6 col-md-4 col-lg">
+                        <div class="col-6 col-md-4 col-lg-3">
                             <ul class="industries-point">
                                 <li>
                                     <svg xmlns="http://www.w3.org/2000/svg" id="Layer_1" data-name="Layer 1" viewBox="0 0 30 30">
@@ -1010,9 +1014,13 @@
                                     </svg> Law Firm
                                 </li>
                                 <li>
+                                    <svg xmlns="http://www.w3.org/2000/svg" id="Layer_1" data-name="Layer 1" viewBox="0 0 30 30">
+                                        <path d="M23,12.66v8a1.5,1.5,0,0,1-1.5,1.5H8.5A1.5,1.5,0,0,1,7,20.66v-8a1.5,1.5,0,0,1,1.5-1.5H12V8.91a.76.76,0,0,1,.75-.75h4.5a.75.75,0,0,1,.75.75v2.25h3.5A1.5,1.5,0,0,1,23,12.66Zm-1,0a.5.5,0,0,0-.5-.5H8.5a.5.5,0,0,0-.5.5v2.5H22Zm0,3.5H17v1.25a.75.75,0,0,1-.75.75h-2.5a.75.75,0,0,1-.75-.75V16.16H8v4.5a.5.5,0,0,0,.5.5h13a.5.5,0,0,0,.5-.5Zm-9-5h4v-2H13Zm3,6v-1H14v1Z"></path>
+                                    </svg> Business Setup
+                                </li>
                             </ul>
                         </div>
-                        <div class="col-6 col-md-4 col-lg mt-3 mt-md-0">
+                        <div class="col-6 col-md-4 col-lg-3 mt-3 mt-md-0">
                             <ul class="industries-point">
                                 <li>
                                     <svg xmlns="http://www.w3.org/2000/svg" id="Layer_1" data-name="Layer 1" viewBox="0 0 30 30">
@@ -1034,9 +1042,14 @@
                                         <path d="M23,10.66v3a1.5,1.5,0,0,1-1.5,1.5H15a.5.5,0,0,0-.5.5v1.5H15a1,1,0,0,1,1,1v4a1,1,0,0,1-1,1H13a1,1,0,0,1-1-1v-4a1,1,0,0,1,1-1h.5v-1.5a1.5,1.5,0,0,1,1.5-1.5h6.5a.5.5,0,0,0,.5-.5v-3a.5.5,0,0,0-.5-.5H20v.5a1.5,1.5,0,0,1-1.5,1.5H8.5A1.5,1.5,0,0,1,7,10.66v-2a1.5,1.5,0,0,1,1.5-1.5h10A1.5,1.5,0,0,1,20,8.66v.5h1.5A1.5,1.5,0,0,1,23,10.66Zm-4-2a.5.5,0,0,0-.5-.5H8.5a.5.5,0,0,0-.5.5v2a.5.5,0,0,0,.5.5h10a.5.5,0,0,0,.5-.5v-2Zm-4,9.5H13v4h2Z"></path>
                                     </svg> E-commerce
                                 </li>
+                                <li>
+                                    <svg xmlns="http://www.w3.org/2000/svg" id="Layer_1" data-name="Layer 1" viewBox="0 0 30 30">
+                                        <path d="M24,10.51v1.15a.5.5,0,0,1-.5.5H6.5a.5.5,0,0,1-.5-.5V10.51A.56.56,0,0,1,6.32,10l8.33-2.81a.91.91,0,0,1,.7,0L23.68,10A.51.51,0,0,1,24,10.51Zm0,11.9v.5a.25.25,0,0,1-.25.25H6.25A.25.25,0,0,1,6,22.91v-.5a.25.25,0,0,1,.25-.25H7v-2a1.08,1.08,0,0,1,1.14-1H8.5v-6h1v6h3v-6h1v6h3v-6h1v6h3v-6h1v6h.36a1.08,1.08,0,0,1,1.14,1v2h.75A.25.25,0,0,1,24,22.41ZM23,10.87,15,8.16,7,10.87v.29H23ZM22,20.2a.29.29,0,0,0-.14,0H8.14a.29.29,0,0,0-.14,0v2H22Z"></path>
+                                    </svg> Governments
+                                </li>
                             </ul>
                         </div>
-                        <div class="col-6 col-md-4 col-lg mt-3 mt-lg-0">
+                        <div class="col-6 col-md-4 col-lg-3 mt-3 mt-lg-0">
                             <ul class="industries-point">
                                 <li>
                                     <svg xmlns="http://www.w3.org/2000/svg" id="Layer_1" data-name="Layer 1" viewBox="0 0 30 30">
@@ -1060,25 +1073,6 @@
                                         </g>
                                     </svg> Sports
                                 </li>
-                            </ul>
-                        </div>
-                        <div class="col-6 col-md-4 col-lg mt-3 mt-lg-0">
-                            <ul class="industries-point">
-                                <li>
-                                    <svg xmlns="http://www.w3.org/2000/svg" id="Layer_1" data-name="Layer 1" viewBox="0 0 30 30">
-                                        <path d="M13.75,18.36a3.43,3.43,0,0,0,.48.93l-3.18,3.18a2.39,2.39,0,0,1-3.36,0,2.39,2.39,0,0,1,0-3.36l4.57-4.57.71.71L8.4,19.82a1.38,1.38,0,0,0,0,1.94,1.4,1.4,0,0,0,1.94,0Zm9,2.39-2.12,2.12a1,1,0,0,1-1.42,0L15.28,19A2.49,2.49,0,0,1,15,15.84l-2.68-2.68H10l-3-4,2-2,4,3v2.3l2.67,2.67a2.48,2.48,0,0,1,3.15.32l3.89,3.89A1,1,0,0,1,22.71,20.75ZM12,10.66,9.09,8.49l-.77.77,2.18,2.9H12v-1.5Zm-2.5,9.5a.51.51,0,0,1,.5.5.5.5,0,0,1-1,0A.51.51,0,0,1,9.5,20.16Zm5.19-7.43L14,12V9.92a4.67,4.67,0,0,1,5.42-2.61.84.84,0,0,1,.61.6.86.86,0,0,1-.22.83l-2,2,.23,1.38,1.38.23,2-2a.87.87,0,0,1,.84-.22.88.88,0,0,1,.6.61,4.7,4.7,0,0,1-1.24,4.48,4.61,4.61,0,0,1-.91.7L20,15.19a3.88,3.88,0,0,0,.94-.68,3.66,3.66,0,0,0,1-3.26l-2.16,2.16L17.18,13l-.43-2.59,2.17-2.17a3.68,3.68,0,0,0-4.23,4.51ZM22,20l-3.89-3.89a1.5,1.5,0,0,0-2.12,0,1.52,1.52,0,0,0-.44,1.06A1.5,1.5,0,0,0,16,18.27l3.89,3.89Z"></path>
-                                    </svg> Facility Management
-                                </li>
-                                <li>
-                                    <svg xmlns="http://www.w3.org/2000/svg" id="Layer_1" data-name="Layer 1" viewBox="0 0 30 30">
-                                        <path d="M23,12.66v8a1.5,1.5,0,0,1-1.5,1.5H8.5A1.5,1.5,0,0,1,7,20.66v-8a1.5,1.5,0,0,1,1.5-1.5H12V8.91a.76.76,0,0,1,.75-.75h4.5a.75.75,0,0,1,.75.75v2.25h3.5A1.5,1.5,0,0,1,23,12.66Zm-1,0a.5.5,0,0,0-.5-.5H8.5a.5.5,0,0,0-.5.5v2.5H22Zm0,3.5H17v1.25a.75.75,0,0,1-.75.75h-2.5a.75.75,0,0,1-.75-.75V16.16H8v4.5a.5.5,0,0,0,.5.5h13a.5.5,0,0,0,.5-.5Zm-9-5h4v-2H13Zm3,6v-1H14v1Z"></path>
-                                    </svg> Business Setup
-                                </li>
-                                <li>
-                                    <svg xmlns="http://www.w3.org/2000/svg" id="Layer_1" data-name="Layer 1" viewBox="0 0 30 30">
-                                        <path d="M24,10.51v1.15a.5.5,0,0,1-.5.5H6.5a.5.5,0,0,1-.5-.5V10.51A.56.56,0,0,1,6.32,10l8.33-2.81a.91.91,0,0,1,.7,0L23.68,10A.51.51,0,0,1,24,10.51Zm0,11.9v.5a.25.25,0,0,1-.25.25H6.25A.25.25,0,0,1,6,22.91v-.5a.25.25,0,0,1,.25-.25H7v-2a1.08,1.08,0,0,1,1.14-1H8.5v-6h1v6h3v-6h1v6h3v-6h1v6h3v-6h1v6h.36a1.08,1.08,0,0,1,1.14,1v2h.75A.25.25,0,0,1,24,22.41ZM23,10.87,15,8.16,7,10.87v.29H23ZM22,20.2a.29.29,0,0,0-.14,0H8.14a.29.29,0,0,0-.14,0v2H22Z"></path>
-                                    </svg> Governments
-                                </li>
                                 <li>
                                     <svg xmlns="http://www.w3.org/2000/svg" id="Layer_1" data-name="Layer 1" viewBox="0 0 30 30">
                                         <path d="M23,12.66a2,2,0,0,1-2,2H20v7.5a1,1,0,0,1-1,1H17a1,1,0,0,1-1-1v-3H13v3a1,1,0,0,1-1,1H10a1,1,0,0,1-1-1v-5a3.45,3.45,0,0,1,.42-1.5A2.53,2.53,0,0,1,7,13.16a.5.5,0,0,1,1,0,1.5,1.5,0,0,0,1.5,1.5h.85a3.54,3.54,0,0,1,1.65-.5h2.5L7.09,8A.28.28,0,0,1,7,7.8a.31.31,0,0,1,.06-.16l.32-.39a.28.28,0,0,1,.19-.09.31.31,0,0,1,.16.06L15.5,13.7v-5a.5.5,0,0,1,.5-.5h0a.56.56,0,0,1,.35.15l.86.85h2.17a1.11,1.11,0,0,1,.9.56l.22.44h2a.5.5,0,0,1,.5.5Zm-11,2.5a2,2,0,0,0-2,2v5h2v-4h3v-3Zm4,.08v2.92h1v4h2V16Zm3.88-4.08-.5-1H16.79l-.29-.29v4.47L19,15v-1.3h2a1,1,0,0,0,1-1v-1.5Zm-1.38.5a.5.5,0,0,1-.5-.5.5.5,0,0,1,1,0A.5.5,0,0,1,18.5,11.66Z"></path>
@@ -1086,20 +1080,28 @@
                                 </li>
                             </ul>
                         </div>
+                        </div>
                     </div>
                 </div>
-                <div class="d-flex justify-content-center wow fadeInUp mt-4" data-wow-delay=".7s">
-                    <div class="main-button">
-                        <a href="tel:+97142415963" class="theme-btn">
-                            <span>Call: +971 4 241 5963 </span>
-                        </a>
-                    </div>
-                    <div class="main-button">
-                        <a data-bs-toggle="modal" data-bs-target="#myModal" class="ms-3">
-                            <span class="theme-btn">Request A Quote <i class="fa-solid fa-arrow-right ps-2"></i></span>
-                        </a>
+                <div class="container">
+                    <div class="row">
+                        <div class="col-12">
+                            <div class="d-flex justify-content-center wow fadeInUp mt-4" data-wow-delay=".7s">
+                                <div class="main-button">
+                                    <a href="tel:+97142415963" class="theme-btn">
+                                        <span>Call Us</span>
+                                    </a>
+                                </div>
+                                <div class="main-button">
+                                    <a data-bs-toggle="modal" data-bs-target="#myModal" class="ms-3">
+                                        <span class="theme-btn">Schedule A Call</span>
+                                    </a>
+                                </div>
+                            </div>
+                        </div>
                     </div>
                 </div>
+                
             </div>
         </section>
         <!-- End Industries -->
@@ -1162,12 +1164,12 @@
                                 <div class="d-flex">
                                     <div class="main-button wow fadeInUp" data-wow-delay=".3s">
                                         <a href="tel:+97142415963" class="theme-btn">
-                                            <span>Call: +971 4 241 5963 </span>
+                                            <span>Call Us</span>
                                         </a>
                                     </div>
                                     <div class="main-button wow fadeInUp" data-wow-delay=".3s">
                                         <a data-bs-toggle="modal" data-bs-target="#myModal" class="ms-3">
-                                            <span class="theme-btn">Request A Quote <i class="fa-solid fa-arrow-right ps-2"></i></span>
+                                            <span class="theme-btn">Schedule A Call</span>
                                         </a>
                                     </div>
                                 </div>
@@ -1416,12 +1418,12 @@
                 <div class="d-flex justify-content-center wow fadeInUp mt-4" data-wow-delay=".7s">
                     <div class="main-button">
                         <a href="tel:+97142415963" class="theme-btn">
-                            <span>Call: +971 4 241 5963 </span>
+                            <span>Call Us</span>
                         </a>
                     </div>
                     <div class="main-button">
                         <a data-bs-toggle="modal" data-bs-target="#myModal" class="ms-3">
-                            <span class="theme-btn">Request A Quote <i class="fa-solid fa-arrow-right ps-2"></i></span>
+                            <span class="theme-btn">Schedule A Call</span>
                         </a>
                     </div>
                 </div>
@@ -1508,37 +1510,23 @@
         <!--Start Footer -->
         <footer>
             <div class="container">
-                <div class="row wow fadeInUp pt-5" data-wow-delay=".3s">
-                    <div class="col-lg-6">
-                        <h4 class="pt-4 text-white">California, USA</h4>
-                        <p class="pt-3 text-white">3415 S Sepulveda Blvd, Los Angeles, CA, USA</p>
-                        <h4 class="pt-4 text-white">Montana, USA</h4>
-                        <p class="pt-3 text-white">1001 S Main St, Kalispell, MT 59901, USA</p>
-                    </div>
-                    <div class="col-lg-6 mt-4 mt-lg-0">
-                        <h4 class="pt-4 text-white text-lg-end">Dubai, UAE</h4>
-                        <p class="pt-3 text-white text-lg-end">Level 23, Boulevard Plaza, Downtown Dubai, UAE</p>
-                        <h4 class="pt-4 text-white text-lg-end">Riyadh, KSA</h4>
-                        <p class="pt-3 text-white text-lg-end">Floor 3, Building 7264, Ibn Al Fourat, Riyadh, KSA</p>
-                    </div>
-                </div>
-                <div class="row mt-4 pb-5 justify-content-center">
+                <div class="row justify-content-center">
                     <div class="col-lg-6 text-center">
-                        <h2 class="wow fadeInUp" data-wow-delay=".5s">Contact Us</h2>
+                        <h2 class="wow fadeInUp" data-wow-delay=".3s">Contact Us</h2>
                         <div class="d-flex justify-content-center mt-5">
-                            <div class="main-button wow fadeInUp" data-wow-delay=".5s">
+                            <div class="main-button wow fadeInUp" data-wow-delay=".3s">
                                 <a data-bs-toggle="modal" data-bs-target="#myModal" class="ms-3">
-                                    <span class="theme-btn">Request A Quote <i class="fa-solid fa-arrow-right ps-2"></i></span>
+                                    <span class="theme-btn">Schedule A Call</span>
                                 </a>
                             </div>
                         </div>
-                        <div class="row mt-5 wow fadeInUp" data-wow-delay=".7s">
-                            <div class="col-lg-6">
+                        <div class="row mt-5 wow fadeInUp" data-wow-delay=".5s">
+                            <div class="col-md-6">
                                 <h5>Call Us At <br>
                                     <a href="tel:+97142415963">+971 4 241 5963</a>
                                 </h5>
                             </div>
-                            <div class="col-lg-6">
+                            <div class="col-md-6">
                                 <h5>24/7 Support <br>
                                     <a href="mailto:sales@appsnation.co">sales@appsnation.co</a>
                                 </h5>
@@ -1546,6 +1534,21 @@
                         </div>
                     </div>
                 </div>
+                <div class="row wow mt-3 fadeInUp" data-wow-delay=".7s">
+                    <div class="col-lg-6">
+                        <h4 class="pt-4 text-white text-center text-lg-start">Dubai, UAE</h4>
+                        <p class="pt-3 text-white text-center text-lg-start">Level 23, Boulevard Plaza, Downtown Dubai, UAE</p>
+                        <h4 class="pt-4 text-white text-center text-lg-start">Riyadh, KSA</h4>
+                        <p class="pt-3 text-white text-center text-lg-start">Floor 3, Building 7264, Ibn Al Fourat, Riyadh, KSA</p>
+                    </div>
+                    <div class="col-lg-6 mt-4 mt-lg-0">
+                        <h4 class="pt-4 text-white text-center text-lg-end">California, USA</h4>
+                        <p class="pt-3 text-white text-center text-lg-end">3415 S Sepulveda Blvd, Los Angeles, CA, USA</p>
+                        <h4 class="pt-4 text-white text-center text-lg-end">Montana, USA</h4>
+                        <p class="pt-3 text-white text-center text-lg-end">1001 S Main St, Kalispell, MT 59901, USA</p>
+                    </div>
+                </div>
+                
             </div>
         </footer>
         <!-- End Footer -->
