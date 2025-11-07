@@ -372,7 +372,7 @@
                     <p class="wow fadeInUp" data-wow-delay=".5s">We’re a full-service digital marketing agency in Dubai, helping businesses grow with SEO, Google Ads, social media marketing, and content creation. From startups and e-commerce stores to clinics, interior design, real estate and more, we turn traffic into revenue.</p>
                 </div>
                 <div class="row">
-                    <div class="col-xl-6 wow fadeInUp" data-wow-delay=".3s">
+                    <div class="col-xl-6 mt-4 mt-xl-0 wow fadeInUp" data-wow-delay=".3s">
                         <div class="bg-white gp">
                             <h3>Search Engine Optimization</h3>
                             <p>Rank higher and attract organic traffic.</p>                    
@@ -434,7 +434,7 @@
                                 <iframe width="100%" height="500" src="https://www.youtube.com/embed/djZV4wG8j_c" data-wow-delay="0.3s" class="wow fadeInUp" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
                             </div>
                         </div>
-                        <div class="col-lg-6">
+                        <div class="col-lg-6 mt-4 mt-lg-0">
                             <div class="about-content">
                                 <div class="section-title">
                                     <div class="sub-title bg-color-2 wow fadeInUp">
@@ -1117,7 +1117,7 @@
                                 </div>
                             </div>
                         </div>
-                        <div class="col-lg-6">
+                        <div class="col-lg-6 mt-4 mt-lg-0">
                             <div class="team-content">
                                 <div class="section-title">
                                     <div class="sub-title wow fadeInUp">
@@ -1385,7 +1385,20 @@
         <section class="testimonial-section fix section-padding">
             <div class="container">
                 <div class="testimonial-wrapper">
-                    <div class="row wow fadeInUp" data-wow-delay=".5s">
+                    <div class="section-title-area">
+                        <div class="section-title">
+                            <div class="sub-title bg-color-2 wow fadeInUp">
+                                <span>TESTIMONILAS</span>
+                            </div>
+                            <h2 class="wow fadeInUp" data-wow-delay=".3s">
+                                What our awesome <br> customers say
+                            </h2>
+                        </div>
+                        <p class="wow fadeInUp" data-wow-delay=".3s">
+                            The a long established fact that a reader will be distracted <br> the readable content of page when looking at layout the <br> point of using lorem Ipsum
+                        </p>
+                    </div>
+                    <div class="row mt-4 mt-lg-0 wow fadeInUp" data-wow-delay=".5s">
                         <div class="col-md-6 col-lg-3">
                             <iframe width="100%" height="500" src="https://www.youtube.com/embed/fOcCXiQw3Nw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
                         </div>
@@ -1503,10 +1516,10 @@
                         <p class="pt-3 text-white">1001 S Main St, Kalispell, MT 59901, USA</p>
                     </div>
                     <div class="col-lg-6 mt-4 mt-lg-0">
-                        <h4 class="pt-4 text-white text-end">Dubai, UAE</h4>
-                        <p class="pt-3 text-white text-end">Level 23, Boulevard Plaza, Downtown Dubai, UAE</p>
-                        <h4 class="pt-4 text-white text-end">Riyadh, KSA</h4>
-                        <p class="pt-3 text-white text-end">Floor 3, Building 7264, Ibn Al Fourat, Riyadh, KSA</p>
+                        <h4 class="pt-4 text-white text-lg-end">Dubai, UAE</h4>
+                        <p class="pt-3 text-white text-lg-end">Level 23, Boulevard Plaza, Downtown Dubai, UAE</p>
+                        <h4 class="pt-4 text-white text-lg-end">Riyadh, KSA</h4>
+                        <p class="pt-3 text-white text-lg-end">Floor 3, Building 7264, Ibn Al Fourat, Riyadh, KSA</p>
                     </div>
                 </div>
                 <div class="row mt-4 pb-5 justify-content-center">
