@@ -521,4 +521,12 @@ $('.testimonial-card-a').owlCarousel({
             items: 2
         },
     }
+
+
+
+    
 });
+// created by hassan
+
+// card gifs
+//End card gifs

@@ -350,7 +350,7 @@
         <!-- End Marquee -->
 
         <!-- Start Services -->
-        <section class="service-section fix section-padding">
+        <!-- <section class="service-section fix section-padding">
             <div class="left-shape float-bob-y">
                 <img src="assets/img/service/left-shape.png" alt="img">
             </div>
@@ -417,52 +417,12 @@
                     </div>
                 </div>
             </div>
-        </section>
+        </section> -->
         <!-- End Services -->
 
-        <!-- Start About -->
-        <section class="about-section fix section-padding" style="background-image: url('assets/img/about/about-bg.png');">
-            <div class="left-shape float-bob-y">
-                <img src="assets/img/about/left-shape.png" alt="img">
-            </div>
-            <div class="container">
-                <div class="about-wrapper">
-                    <div class="row">
-                        <div class="col-lg-6">
-                            <div class="about-image">
-                                <iframe width="100%" height="500" src="https://www.youtube.com/embed/djZV4wG8j_c" data-wow-delay="0.3s" class="wow fadeInUp" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-                            </div>
-                        </div>
-                        <div class="col-lg-6 mt-4 mt-lg-0">
-                            <div class="about-content">
-                                <div class="section-title">
-                                    <div class="sub-title bg-color-2 wow fadeInUp">
-                                        <span>ABOUT COMPANY</span>
-                                    </div>
-                                    <h2 class="wow fadeInUp" data-wow-delay=".3s">Your AI-Powered Digital Marketing Agency in Dubai</h2>
-                                </div>
-                                <p class="mt-3 mt-md-0 wow fadeInUp" data-wow-delay=".5s">At <b>AppsNation</b>, we combine creativity, strategy, and AI-driven marketing to help businesses grow online. From <b>SEO and Google Ads</b> to <b>social media marketing, content creation, and video campaigns</b>, we deliver measurable results for <b>startups, e-commerce stores, clinics, interior design brands, and more</b>.</p>
-                                <div class="d-flex mt-4 wow fadeInUp" data-wow-delay=".7s">
-                                    <div class="main-button">
-                                        <a href="tel:+97142415963" class="theme-btn">
-                                            <span>Call Us</span>
-                                        </a>
-                                    </div>
-                                    <div class="main-button">
-                                        <a data-bs-toggle="modal" data-bs-target="#myModal" class="ms-3">
-                                            <span class="theme-btn">Schedule A Call</span>
-                                        </a>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </section>
-        <!-- End About -->
 
-        <!-- Start Services -->
+
+     <!-- Start Services -->
         <section class="case-study-section fix section-padding">
             <div class="overlay-shape">
                 <img src="assets/img/case-studies/overlay-shape.png" alt="img">
@@ -593,12 +553,59 @@
         </section>
         <!-- End Services -->
 
+
+
+
+
+        <!-- Start About -->
+        <section class="about-section fix section-padding" style="background-image: url('assets/img/about/about-bg.png');">
+            <div class="left-shape float-bob-y">
+                <img src="assets/img/about/left-shape.png" alt="img">
+            </div>
+            <div class="container">
+                <div class="about-wrapper">
+                    <div class="row">
+                        <div class="col-lg-6">
+                            <div class="about-image">
+                                <iframe width="100%" height="500" src="https://www.youtube.com/embed/djZV4wG8j_c" data-wow-delay="0.3s" class="wow fadeInUp" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+                            </div>
+                        </div>
+                        <div class="col-lg-6 mt-4 mt-lg-0">
+                            <div class="about-content">
+                                <div class="section-title">
+                                    <div class="sub-title bg-color-2 wow fadeInUp">
+                                        <span>ABOUT COMPANY</span>
+                                    </div>
+                                    <h2 class="wow fadeInUp" data-wow-delay=".3s">Your AI-Powered Digital Marketing Agency in Dubai</h2>
+                                </div>
+                                <p class="mt-3 mt-md-0 wow fadeInUp" data-wow-delay=".5s">At <b>AppsNation</b>, we combine creativity, strategy, and AI-driven marketing to help businesses grow online. From <b>SEO and Google Ads</b> to <b>social media marketing, content creation, and video campaigns</b>, we deliver measurable results for <b>startups, e-commerce stores, clinics, interior design brands, and more</b>.</p>
+                                <div class="d-flex mt-4 wow fadeInUp" data-wow-delay=".7s">
+                                    <div class="main-button">
+                                        <a href="tel:+97142415963" class="theme-btn">
+                                            <span>Call Us</span>
+                                        </a>
+                                    </div>
+                                    <div class="main-button">
+                                        <a data-bs-toggle="modal" data-bs-target="#myModal" class="ms-3">
+                                            <span class="theme-btn">Schedule A Call</span>
+                                        </a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <!-- End About -->
+
+       
         <!-- Start Portfolio -->
         <section class="portfolio">
             <div class="scrollHalf">
 				<div class="scrollHalf__grupo row h-100" data-scroll>
 					<div class="scrollHalf__grupo__imagen col-12 col-sm-12 col-md-12 col-lg-6 col-xl-6 mt-auto mb-auto website-first-cs">
-						<img src="assets/img/case-studies/1.webp" class="img-fluid" alt="Case Study" />
+						<img src="assets/img/case-studies/new-case studay/1.jpg" class="img-fluid" alt="Case Study" />
 					</div>
 					<div class="scrollHalf__grupo__contenido col-12 col-sm-12 col-md-12 col-lg-6 col-xl-4 offset-xl-1 mt-auto mb-auto">
 						<h4 class="pt-3 case-study-heading">How Our Google Ads Delivered 168 Qualified Leads for AED 8M+ Properties</h4>
@@ -633,7 +640,7 @@
 				</div>
 				<div class="scrollHalf__grupo row h-100" data-scroll>
 					<div class="scrollHalf__grupo__imagen col-12 col-sm-12 col-md-12 col-lg-6 col-xl-6 mt-auto mb-auto website-second-cs">
-                        <img src="assets/img/case-studies/2.webp" class="img-fluid" alt="Case Study" />
+                        <img src="assets/img/case-studies/new-case studay/2.jpg" class="img-fluid" alt="Case Study" />
 					</div>
 					<div class="scrollHalf__grupo__contenido col-12 col-sm-12 col-md-12 col-lg-6 col-xl-4 offset-xl-1 mt-auto mb-auto">
 						<h4 class="pt-3 case-study-heading">33 Quality Leads Generated for Luxury Real Estate with Minimal Spend</h4>
@@ -668,7 +675,7 @@
 				</div>
                 <div class="scrollHalf__grupo row h-100" data-scroll>
 					<div class="scrollHalf__grupo__imagen col-12 col-sm-12 col-md-12 col-lg-6 col-xl-6 mt-auto mb-auto website-third-cs">
-						<img src="assets/img/case-studies/3.webp" class="img-fluid" alt="Case Study" />
+						<img src="assets/img/case-studies/new-case studay/3.jpg" class="img-fluid" alt="Case Study" />
 					</div>
 					<div class="scrollHalf__grupo__contenido col-12 col-sm-12 col-md-12 col-lg-6 col-xl-4 offset-xl-1 mt-auto mb-auto">
 						<h4 class="pt-3 case-study-heading">How Apps Nation Generated 567+ Leads for an Aesthetic Clinic in Dubai</h4>
@@ -703,7 +710,7 @@
 				</div>
 				<div class="scrollHalf__grupo row h-100" data-scroll>
 					<div class="scrollHalf__grupo__imagen col-12 col-sm-12 col-md-12 col-lg-6 col-xl-6 mt-auto mb-auto website-fourth-cs">
-                        <img src="assets/img/case-studies/4.webp" class="img-fluid" alt="Case Study" />
+                        <img src="assets/img/case-studies/new-case studay/4.jpg" class="img-fluid" alt="Case Study" />
 					</div>
 					<div class="scrollHalf__grupo__contenido col-12 col-sm-12 col-md-12 col-lg-6 col-xl-4 offset-xl-1 mt-auto mb-auto">
 						<h4 class="pt-3 case-study-heading">152K+ Conversions for a Rent-a-Car Company in Dubai</h4>
@@ -738,7 +745,7 @@
 				</div>
                 <div class="scrollHalf__grupo row h-100" data-scroll>
 					<div class="scrollHalf__grupo__imagen col-12 col-sm-12 col-md-12 col-lg-6 col-xl-6 mt-auto mb-auto website-fifth-cs">
-						<img src="assets/img/case-studies/5.webp" class="img-fluid" alt="Case Study" />
+						<img src="assets/img/case-studies/new-case studay/5.jpg" class="img-fluid" alt="Case Study" />
 					</div>
 					<div class="scrollHalf__grupo__contenido col-12 col-sm-12 col-md-12 col-lg-6 col-xl-4 offset-xl-1 mt-auto mb-auto">
 						<h4 class="pt-3 case-study-heading">73+ Leads Generated for a Spa in Dubai via Meta Ads</h4>
@@ -1181,6 +1188,81 @@
         </section>
         <!-- End Team -->
 
+               <!-- gifs cards -->
+                  <div class="container">
+                <div class="row ">
+              
+              <div class="col-md-4 Our-Creative-Process">
+                <p>Our</p>
+                <p>Creative</p>
+                <p>Products</p>
+              </div>
+              <div class="col-md-8 pb-5">
+                <div class="row wow fadeInUp mt-5" data-wow-delay=".5s">
+                    <div class="col-12">
+                        <div class="awards-slider owl-carousel owl-theme owl-loaded owl-drag">
+                            <div class="award-item">
+                                <div class="item">
+                                    <div class="card">
+                                        <div class="card-body"> 
+                                            <img src="assets/img/gifs/1.gif" class="award-img" width="auto" height="auto">
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="award-item">
+                                <div class="item">
+                                    <div class="card">
+                                        <div class="card-body"> 
+                                            <img src="assets/img/gifs/2.gif" class="award-img" width="auto" height="auto">
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="award-item">
+                                <div class="item">
+                                    <div class="card">
+                                        <div class="card-body"> 
+                                            <img src="assets/img/gifs/3.gif" class="award-img" width="auto" height="auto">
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="award-item">
+                                <div class="item">
+                                    <div class="card">
+                                        <div class="card-body"> 
+                                            <img src="assets/img/gifs/4.gif" class="award-img" width="auto" height="auto">
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="award-item">
+                                <div class="item">
+                                    <div class="card">
+                                        <div class="card-body"> 
+                                            <img src="assets/img/gifs/5.gif" class="award-img" width="auto" height="auto">
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            
+                            
+                        </div>
+                    </div>
+                </div>
+              </div>
+
+
+    </div>
+    </div>
+         
+
+
+     
+               <!--End gifs cards -->
+
+        
         <!-- Start Badges -->
         <section class="badges-section pt-5 section-padding">
             <div class="container">
@@ -1512,42 +1594,34 @@
             <div class="container">
                 <div class="row justify-content-center">
                     <div class="col-lg-6 text-center">
-                        <h2 class="wow fadeInUp" data-wow-delay=".3s">Contact Us</h2>
-                        <div class="d-flex justify-content-center mt-5">
-                            <div class="main-button wow fadeInUp" data-wow-delay=".3s">
-                                <a data-bs-toggle="modal" data-bs-target="#myModal" class="ms-3">
-                                    <span class="theme-btn">Schedule A Call</span>
-                                </a>
-                            </div>
-                        </div>
-                        <div class="row mt-5 wow fadeInUp" data-wow-delay=".5s">
-                            <div class="col-md-6">
-                                <h5>Call Us At <br>
-                                    <a href="tel:+97142415963">+971 4 241 5963</a>
-                                </h5>
-                            </div>
-                            <div class="col-md-6">
-                                <h5>24/7 Support <br>
-                                    <a href="mailto:sales@appsnation.co">sales@appsnation.co</a>
-                                </h5>
-                            </div>
-                        </div>
+                        <h2 class="wow fadeInUp mb-4" data-wow-delay=".3s">Contact Us</h2>
+                         
+                        
                     </div>
                 </div>
                 <div class="row wow mt-3 fadeInUp" data-wow-delay=".7s">
-                    <div class="col-lg-6">
+                   
+                    <div class="col-lg-4">
                         <h4 class="pt-4 text-white text-center text-lg-start">Dubai, UAE</h4>
                         <p class="pt-3 text-white text-center text-lg-start">Level 23, Boulevard Plaza, Downtown Dubai, UAE</p>
                         <h4 class="pt-4 text-white text-center text-lg-start">Riyadh, KSA</h4>
                         <p class="pt-3 text-white text-center text-lg-start">Floor 3, Building 7264, Ibn Al Fourat, Riyadh, KSA</p>
                     </div>
-                    <div class="col-lg-6 mt-4 mt-lg-0">
+                     <div class="col-lg-4 mt-md-5 mt-sm-5">
+                                <h5 class="text-center">Call Us At <br>
+                                    <a href="tel:+97142415963">+971 4 241 5963</a>
+                                </h5>
+                                <h5 class="text-center my-3">24/7 Support <br>
+                                    <a href="mailto:sales@appsnation.co">sales@appsnation.co</a>
+                                </h5>
+                    </div>
+                    <div class="col-lg-4 mt-4 mt-lg-0">
                         <h4 class="pt-4 text-white text-center text-lg-end">California, USA</h4>
                         <p class="pt-3 text-white text-center text-lg-end">3415 S Sepulveda Blvd, Los Angeles, CA, USA</p>
                         <h4 class="pt-4 text-white text-center text-lg-end">Montana, USA</h4>
                         <p class="pt-3 text-white text-center text-lg-end">1001 S Main St, Kalispell, MT 59901, USA</p>
                     </div>
-                </div>
+                </div>  
                 
             </div>
         </footer>
