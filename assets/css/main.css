@@ -8509,7 +8509,7 @@ html .mb0 {
     }
 }
 
-@media only screen and (min-width: 1920px) {
+@media only screen and (max-width: 1920px) {
     .side-menu.-right {
         right: 0px;
     }
@@ -9118,6 +9118,7 @@ footer h5 a {
       border-radius: 1rem;
     }
 
+ 
     .carousel-indicators [data-bs-target] {
       background-color: #009291;
       width: 12px;
