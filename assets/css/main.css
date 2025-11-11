@@ -6865,7 +6865,7 @@ input.main-search-input::placeholder {
 }
 
 .section-title .sub-title span {
-	background: linear-gradient(90deg, #240CF2 0%, #00A9B5 100%);
+	background:linear-gradient(90deg, #000000 0%, #000000 100%);
 	display: inline-block;
 	font-weight: 700;
 	text-transform: uppercase;
@@ -6876,11 +6876,11 @@ input.main-search-input::placeholder {
 }
 
 .section-title .sub-title.bg-color-2 {
-	background: rgba(56, 75, 255, 0.1);
+	background: rgba(253, 253, 255, 0.1);
 }
 
 .section-title .sub-title.bg-color-3 {
-	background: rgba(246, 243, 254, 0.1);
+	background: rgba(0, 0, 0, 0.884);
 }
 
 .section-title .sub-title.bg-color-3 span {
@@ -8861,8 +8861,8 @@ footer h5 a {
 
 .whatsapp-sticky {
 	position: fixed;
-	bottom: 20px;
-	right: 20px;
+	bottom: 100px;
+	right: 25px;
 	background-color: #25D366;
 	color: white;
 	width: 60px;
@@ -8970,6 +8970,9 @@ footer h5 a {
 }
 
      /*by hassan gifs cards */
+	 .card-body img{
+		border-radius: 18px;
+	 }
 	.Our-Creative-Process {
 		line-height: 122px;
 		
@@ -8979,4 +8982,83 @@ footer h5 a {
 		font-size: 101px;
 		border-right: 2px solid green;
 	}
+
+
+	@media (max-width: 1400px) {
+ .Our-Creative-Process {
+		line-height: 122px;
+		margin-top: 22px;
+		
+	}
+	
+	.Our-Creative-Process p{
+		font-size: 91px;
+		border-right: 2px solid green;
+	}
+}
+	@media (max-width: 1200px) {
+ .Our-Creative-Process {
+		line-height: 122px;
+		margin-top: 92px;
+		
+	}
+	
+	.Our-Creative-Process p{
+		font-size: 61px;
+		border-right: 2px solid green;
+	}
+}
+	@media (max-width: 992px) {
+ .Our-Creative-Process {
+		line-height: 122px;
+		margin-top: 92px;
+		
+	}
+	
+	.Our-Creative-Process p{
+		font-size: 41px;
+		border-right: 2px solid green;
+	}
+}
+	@media (max-width: 767px) {
+ .Our-Creative-Process {
+		line-height:92px;
+		letter-spacing: 15px;
+		text-align: center;
+		border-bottom: 2px solid black;
+		
+	}
+	
+	.Our-Creative-Process p{
+		font-size: 41px;
+		border: none;
+	}
+}
      /*end gifs cards */
+
+
+
+	 /* by hassan portfolio */
+	 .stats-container {
+            background-color: #e0f2f1; /* Light teal background */
+            border-radius: 15px;
+            padding: 30px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+            max-width: 600px;
+            width: 100%;
+        }
+        .stat-item {
+            padding: 15px 0;
+        }
+        .stat-number {
+			text-align: center;
+            font-size: 1.5em;
+            font-weight: bold;
+            color: #212529; /* Dark text for numbers */
+        }
+        .stat-description {
+			text-align: center;
+            font-size: 1.1em;
+            color: #495057; /* Slightly lighter text for description */
+        }
+	 /*end by hassan portfolio */

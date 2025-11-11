@@ -134,11 +134,7 @@
                                                 <span class="text-white">Schedule A Call</span>
                                             </a>
                                         </div>
-                                        <div class="main-button">
-                                            <a href="mailto:sales@appsnation.co" class="theme-btn">
-                                                <span class="text-white">Email: sales@appsnation.co</span>
-                                            </a>
-                                        </div>
+                                         
                                     </div>
                                 </div>
                             </div>
@@ -558,7 +554,7 @@
 
 
         <!-- Start About -->
-        <section class="about-section fix section-padding" style="background-image: url('assets/img/about/about-bg.png');">
+        <section class="about-section fix section-padding" style="background-image: url('assets/img/hero/hero-bg.webp');">
             <div class="left-shape float-bob-y">
                 <img src="assets/img/about/left-shape.png" alt="img">
             </div>
@@ -601,7 +597,7 @@
 
        
         <!-- Start Portfolio -->
-        <section class="portfolio">
+        <!-- <section class="portfolio">
             <div class="scrollHalf">
 				<div class="scrollHalf__grupo row h-100" data-scroll>
 					<div class="scrollHalf__grupo__imagen col-12 col-sm-12 col-md-12 col-lg-6 col-xl-6 mt-auto mb-auto website-first-cs">
@@ -798,7 +794,230 @@
                 </div>
             </div>
             
-        </section>
+        </section> -->
+         
+        <div class="container py-5">
+     
+
+    <div id="animalCarousel" class="carousel slide" data-bs-ride="carousel" data-bs-interval="4000">
+
+      <!-- Indicators -->
+      <div class="carousel-indicators">
+        <button type="button" data-bs-target="#animalCarousel" data-bs-slide-to="0" class="active"></button>
+        <button type="button" data-bs-target="#animalCarousel" data-bs-slide-to="1"></button>
+        <button type="button" data-bs-target="#animalCarousel" data-bs-slide-to="2"></button>
+        <button type="button" data-bs-target="#animalCarousel" data-bs-slide-to="3"></button>
+        <button type="button" data-bs-target="#animalCarousel" data-bs-slide-to="4"></button>
+      </div>
+
+      <!-- Slides -->
+      <div class="carousel-inner rounded-4 shadow-lg overflow-hidden">
+
+        <!-- Slide 1 -->
+        <div class="carousel-item active">
+          <div class="row align-items-center bg-white">
+            <div class="col-md-6 text-center p-4">
+              <img src="assets/img/case-studies/new-case studay/1.jpg"
+                   class="img-fluid rounded-3 shadow" alt="Tiger">
+            </div>
+            <div class="col-md-6 p-4">
+             <h4 class="pt-3 case-study-heading">How Our Google Ads Delivered 168 Qualified Leads for AED 8M+ Properties</h4>
+             <hr>
+						<p class="pt-3 case-study-text">Apps Nation helped a luxury real estate developer in Dubai generate <b>168 high-quality leads</b> through a Google Ads campaign targeting properties starting from <b>AED 8 million</b>. With a total spend of <b>AED 129K</b> and a <b>CPL of AED 773</b>, the campaign achieved exceptional ROI through data-driven targeting, Smart Bidding, and premium ad creatives tailored for affluent buyers.</p>
+                        
+                        <div class="stats-container my-5">
+                            <div class="row">
+                                <div class="col-6 stat-item">
+                                    <div class="stat-number">AED 129,000</div>
+                                    <div class="stat-description">Total Spend</div>
+                                </div>
+                                <div class="col-6 stat-item">
+                                    <div class="stat-number">168</div>
+                             <div class="stat-description">Conversions (Leads)</div>
+            </div>
+            <div class="col-6 stat-item">
+                <div class="stat-number">AED 773.65</div>
+                <div class="stat-description">Cost per Lead (CPL)</div>
+            </div>
+            <div class="col-6 stat-item">
+                <div class="stat-number">2.7</div>
+                <div class="stat-description">Conversion Rate</div>
+            </div>
+        </div>
+    </div>
+    
+            </div>
+          </div>
+        </div>
+
+        <!-- Slide 2 -->
+        <div class="carousel-item">
+          <div class="row align-items-center bg-white">
+            <div class="col-md-6 text-center p-4">
+              <img src="assets/img/case-studies/new-case studay/2.jpg"
+                   class="img-fluid rounded-3 shadow" alt="Lion">
+            </div>
+            <div class="col-md-6 p-4">
+             	<h4 class="pt-3 case-study-heading">33 Quality Leads Generated for Luxury Real Estate with Minimal Spend</h4>
+                <hr>
+						<p class="pt-3 case-study-text">Through precise audience targeting and performance optimization, Apps Nation achieved <b>33 qualified property inquiries</b> for Danube Properties with a limited budget of <b>AED 5.63K</b>. Focused on <b>luxury real estate buyers in Dubai</b>, the campaign maintained a <b>CPL under AED 175</b>, leveraging Smart Bidding and strategic demographic insights to maximize ROI.</p>
+                         <div class="stats-container my-5">
+                            <div class="row">
+                                <div class="col-6 stat-item">
+                                    <div class="stat-number">AED 5,630</div>
+                                    <div class="stat-description">Total Spend</div>
+                                </div>
+                                <div class="col-6 stat-item">
+                                    <div class="stat-number">33</div>
+                             <div class="stat-description">Leads</div>
+            </div>
+            <div class="col-6 stat-item">
+                <div class="stat-number">AED 170.62</div>
+                <div class="stat-description">Cost per Lead (CPL)</div>
+            </div>
+            <div class="col-6 stat-item">
+                <div class="stat-number">1,393</div>
+                <div class="stat-description">Clicks</div>
+            </div>
+        </div>
+    </div>
+    
+                      
+            </div>
+          </div>
+        </div>
+
+        <!-- Slide 3 -->
+        <div class="carousel-item">
+          <div class="row align-items-center bg-white">
+            <div class="col-md-6 text-center p-4">
+              <img src="assets/img/case-studies/new-case studay/3.jpg"
+                   class="img-fluid rounded-3 shadow" alt="Rat">
+            </div>
+            <div class="col-md-6 p-4">
+             <h4 class="pt-3 case-study-heading">How Apps Nation Generated 567+ Leads for an Aesthetic Clinic in Dubai</h4>
+             <hr>
+						<p class="pt-3 case-study-text">AppsNation ran multiple Meta ad campaigns for treatments like <b>BBL Moxi, Ultherapy, EMS, and Chemical Peel</b>, driving strong engagement and consistent conversions. Through targeted creatives and data-driven optimization, the campaigns delivered <b>567+ leads</b> at an average <b>cost per lead between AED 75–130</b>, achieving excellent ROI for high-intent audiences.</p>
+                        <div class="stats-container my-5">
+                            <div class="row">
+                                <div class="col-6 stat-item">
+                                    <div class="stat-number">187K+</div>
+                                    <div class="stat-description">Combined Reach</div>
+                                </div>
+                                <div class="col-6 stat-item">
+                                    <div class="stat-number">567+</div>
+                             <div class="stat-description">Total Leads</div>
+            </div>
+            <div class="col-6 stat-item">
+                <div class="stat-number">AED 75–130</div>
+                <div class="stat-description">Avg. Cost per Lead</div>
+            </div>
+            <div class="col-6 stat-item">
+                <div class="stat-number">AED 39,400+</div>
+                <div class="stat-description">Total Spend</div>
+            </div>
+        </div>
+    </div>
+                        
+            </div>
+          </div>
+        </div>
+
+        <!-- Slide 4 -->
+        <div class="carousel-item">
+          <div class="row align-items-center bg-white">
+            <div class="col-md-6 text-center p-4">
+              <img src="assets/img/case-studies/new-case studay/4.jpg"
+                   class="img-fluid rounded-3 shadow" alt="Owl">
+            </div>
+            <div class="col-md-6 p-4">
+             	<h4 class="pt-3 case-study-heading">152K+ Conversions for a Rent-a-Car Company in Dubai</h4>
+                <hr>
+						<p class="pt-3 case-study-text">Quick Digital Solutions successfully managed a large-scale Google Ads campaign for a Dubai-based rent-a-car company. The campaigns focused on maximizing lead generation through Search, Display, and Performance Max strategies — ensuring high visibility, strong engagement, and cost-efficient conversions across multiple ad groups.</p>
+                         <div class="stats-container my-5">
+                            <div class="row">
+                                <div class="col-6 stat-item">
+                                    <div class="stat-number">738K+</div>
+                                    <div class="stat-description">Total Clicks</div>
+                                </div>
+                                <div class="col-6 stat-item">
+                                    <div class="stat-number">152K+</div>
+                             <div class="stat-description">Total Conversions</div>
+            </div>
+            <div class="col-6 stat-item">
+                <div class="stat-number">AED 75–130</div>
+                <div class="stat-description">Average Cost per Conversion</div>
+            </div>
+            <div class="col-6 stat-item">
+                <div class="stat-number">AED 1.25M+</div>
+                <div class="stat-description">Total Spend</div>
+            </div>
+        </div>
+    </div>
+                     
+            </div>
+          </div>
+        </div>
+        <!-- Slide 5 -->
+        <div class="carousel-item">
+          <div class="row align-items-center bg-white">
+            <div class="col-md-6 text-center p-4">
+              <img src="assets/img/case-studies/new-case studay/5.jpg"
+                   class="img-fluid rounded-3 shadow" alt="Owl">
+            </div>
+            <div class="col-md-6 p-4">
+             <h4 class="pt-3 case-study-heading">73+ Leads Generated for a Spa in Dubai via Meta Ads</h4>
+             <hr> 
+						<p class="pt-3 case-study-text">Quick Digital Solutions managed targeted Meta (Facebook & Instagram) campaigns for a <b>spa brand in Dubai</b>, focused on generating <b>WhatsApp and Messenger inquiries</b> for treatments and services. By optimizing creatives, audience segments, and delivery strategy, the campaigns delivered consistent conversions at a strong cost efficiency.</p>
+                        <div class="stats-container my-5">
+                            <div class="row">
+                                <div class="col-6 stat-item">
+                                    <div class="stat-number">73+</div>
+                                    <div class="stat-description">Total Messaging Conversions</div>
+                                </div>
+                                <div class="col-6 stat-item">
+                                    <div class="stat-number">7,172+</div>
+                             <div class="stat-description">Total Reach</div>
+            </div>
+            <div class="col-6 stat-item">
+                <div class="stat-number">AED 18.27</div>
+                <div class="stat-description">Average Cost per Result</div>
+            </div>
+            <div class="col-6 stat-item">
+                <div class="stat-number">AED 1,333+</div>
+                <div class="stat-description">Total Spend</div>
+            </div>
+        </div>
+    </div>
+                     
+                        
+            </div>
+          </div>
+        </div>
+
+      </div>
+
+      <!-- Controls -->
+    <button class="carousel-control-prev" type="button" data-bs-target="#animalCarousel" data-bs-slide="prev">
+  <span class="carousel-control-prev-icon" aria-hidden="true">
+    <svg xmlns="http://www.w3.org/2000/svg" width="30" height="30" fill="black" viewBox="0 0 16 16">
+      <path d="M11 1 3 8l8 7V1z"/>
+    </svg>
+  </span>
+</button>
+
+<button class="carousel-control-next" type="button" data-bs-target="#animalCarousel" data-bs-slide="next">
+  <span class="carousel-control-next-icon" aria-hidden="true">
+    <svg xmlns="http://www.w3.org/2000/svg" width="30" height="30" fill="black" viewBox="0 0 16 16">
+      <path d="M5 1l8 7-8 7V1z"/>
+    </svg>
+  </span>
+</button>   
+
+    </div>
+  </div>
+
+
         <!-- End Portfolio -->
         
         <!-- Start Client -->
@@ -1197,7 +1416,7 @@
                 <p>Creative</p>
                 <p>Products</p>
               </div>
-              <div class="col-md-8 pb-5">
+              <div class="col-md-8 pb-5 ps-4">
                 <div class="row wow fadeInUp mt-5" data-wow-delay=".5s">
                     <div class="col-12">
                         <div class="awards-slider owl-carousel owl-theme owl-loaded owl-drag">
