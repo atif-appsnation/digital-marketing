@@ -8815,7 +8815,7 @@ footer h5 a {
     width: 55px;
     height: auto;
 }
-
+ 
 .industries-point li svg path {
     fill: var(--first-color);
 }
@@ -9062,3 +9062,74 @@ footer h5 a {
             color: #495057; /* Slightly lighter text for description */
         }
 	 /*end by hassan portfolio */
+	 /* by hassan contact box */
+	 .theme-btn {
+            /* Assuming some default styling for theme-btn to make it look like a button or clickable area */
+            display: inline-flex; /* Use flex to align content within the button */
+            align-items: center; /* Vertically center content */
+            padding: .5rem 1rem;
+            border-radius: .3rem;
+            text-decoration: none;
+            color: inherit; /* Inherit color from parent or set explicitly */
+            /* You might have a background color for your theme-btn */
+            /* background-color: #007bff; */
+            /* color: white; */
+        }
+        /* Styles to prevent SVG from shrinking too much on smaller screens if needed */
+        .icon-wrapper svg {
+            flex-shrink: 0;
+        }
+        /* Specific styling for the first button if it needs to be different */
+        .let-s-talk-btn {
+             background-color: #009291; /* Example background color */
+             color: white; /* Example text color */
+             border: 1px solid #fcfcfc;
+        }
+        /* Ensure text within theme-btn spans are white as specified */
+        .theme-btn span {
+            color: white !important; /* !important to override potential bootstrap defaults */
+        }
+        /* Adjust column text alignment for smaller screens to be centered */
+        .custom-col-content {
+            display: flex;
+            flex-direction: column; /* Stack content vertically by default */
+            align-items: center; /* Center horizontally in column */
+            text-align: center;
+        }
+        /* Adjust for medium screens and up */
+        @media (min-width: 768px) {
+            .custom-col-content {
+                flex-direction: row; /* Layout content horizontally */
+                justify-content: flex-start; /* Align to start of column */
+                text-align: left;
+            }
+            .first-col-content {
+                justify-content: flex-end; /* Align the first button to the right on md screens and up */
+                text-align: right;
+            }
+        }
+
+
+
+
+		
+    .carousel-inner {
+      background: #fff;
+      border-radius: 1rem;
+    }
+
+    .carousel-indicators [data-bs-target] {
+      background-color: #009291;
+      width: 12px;
+      height: 12px;
+      border-radius: 50%;
+      opacity: 0.4;
+      transition: all 0.3s ease;
+    }
+
+    .carousel-indicators .active {
+      opacity: 1;
+      width: 14px;
+      height: 14px;
+    }
+	 /*End by hassan contact box */
