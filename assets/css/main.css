@@ -6866,7 +6866,9 @@ input.main-search-input::placeholder {
 }
 
 .section-title .sub-title span {
-	background:linear-gradient(90deg, #000000 0%, #000000 100%);
+	background:linear-gradient(90deg, #ffffff 0%, #ffffff 100%);
+	/* color: white; */
+	/* background-color: white; */
 	display: inline-block;
 	font-weight: 700;
 	text-transform: uppercase;

@@ -125,9 +125,10 @@
                         </a>
                     </div>
                     <div class="mobile-version     main-button ">
-                        <a href="tel:+971551135229" class="theme-btn">
-                            <span class="text-white"> <i class="fa-solid fa-phone fa-beat fa-lg" style="color: #ffffff; padding-right: 12px"></i>
-                                Call Us</span>
+                        <a href="tel:+971551135229" class="theme-btn" style="background-color:#000000; ">
+                            <span class="text-white">
+                                 <!-- <i class="fa-solid fa-phone fa-beat fa-lg" style="color: #ffffff; "></i> -->
+                              Call Us </span>
                         </a>
                     </div>
                     <div class="header-right d-flex justify-content-end align-items-center">
@@ -583,7 +584,7 @@
                         <div class="about-content">
                             <div class="section-title">
                                 <div class="sub-title bg-color-2 wow fadeInUp">
-                                    <span>ABOUT COMPANY</span>
+                                    <span class="text-white">ABOUT COMPANY</span>
                                 </div>
                                 <h2 class="wow fadeInUp text-white" data-wow-delay=".3s">Your AI-Powered Digital Marketing Agency in Dubai</h2>
                             </div>
@@ -1920,10 +1921,7 @@
             </div>
         </div>
     </div> -->
-    <!-- Modal Trigger Button (Example) -->
-    <button type="button" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#myModal">
-        Open Modal
-    </button>
+   
 
     <!-- Modal -->
     <div class="modal fade" id="myModal" tabindex="-1" aria-hidden="true">
