@@ -22,6 +22,8 @@
     <link href="assets/css/owl.carousel.min.css" rel="stylesheet">
     <link href="assets/css/owl.theme.default.min.css" rel="stylesheet">
     <link rel="stylesheet" href="assets/css/main.css">
+
+
 </head>
 
 <body>
@@ -122,18 +124,26 @@
                             <img src="assets/img/logo/appsnation-black-logo.webp" alt="logo-img">
                         </a>
                     </div>
+                    <div class="mobile-version     main-button ">
+                        <a href="tel:+971551135229" class="theme-btn">
+                            <span class="text-white"> <i class="fa-solid fa-phone fa-beat fa-lg" style="color: #ffffff; padding-right: 12px"></i>
+                                Call Us</span>
+                        </a>
+                    </div>
                     <div class="header-right d-flex justify-content-end align-items-center">
                         <div class="mean__menu-wrapper">
                             <div class="main-menu">
                                 <div class="d-flex gap-2">
                                     <div class="main-button">
-                                        <a href="tel:+97142415963" class="theme-btn">
-                                            <span class="text-white">Call Us</span>
+                                        <a href="tel:+971551135229" class="theme-btn">
+                                            <span class="text-white"> <i class="fa-solid fa-phone fa-beat fa-lg" style="color: #ffffff; padding-right: 12px"></i>
+                                                Call Us</span>
                                         </a>
                                     </div>
                                     <div class="main-button">
                                         <a data-bs-toggle="modal" data-bs-target="#myModal" class="theme-btn">
-                                            <span class="text-white">Schedule A Call</span>
+                                            <span class="text-white">Request A Quote
+                                            </span>
                                         </a>
                                     </div>
 
@@ -164,11 +174,11 @@
                 </a>
             </li>
             <li class="sm-item">
-                <a href="tel:+97142415963" class="white black">
+                <a href="tel:+971551135229" class="white black">
                     <span class="sm-icon">
                         <i class="fas fa-phone-alt"></i>
                     </span>
-                    <span class="sm-label"> +97 142 415963</span>
+                    <span class="sm-label"> +971551135229</span>
                 </a>
             </li>
             <li class="sm-item">
@@ -179,14 +189,7 @@
                     <span class="sm-label">Get a Quote</span>
                 </a>
             </li>
-            <li class="sm-item">
-                <a data-bs-toggle="modal" data-bs-target="#myModal" class="white black">
-                    <span class="sm-icon">
-                        <i class="fas fa-calculator"></i>
-                    </span>
-                    <span class="sm-label">Cost Calculator</span>
-                </a>
-            </li>
+
         </ul>
     </div>
     <!-- End Header -->
@@ -452,23 +455,23 @@
                                 <div class="post-box-items">
                                     <ul>
                                         <li>
-                                            <a  >AI-driven strategies</a>
+                                            <a>AI-driven strategies</a>
                                         </li>
                                         <li>
-                                            <a >Social & content campaigns</a>
+                                            <a>Social & content campaigns</a>
                                         </li>
                                     </ul>
                                     <ul>
                                         <li>
-                                            <a >Google Ads & PPC</a>
+                                            <a>Google Ads & seo</a>
                                         </li>
                                         <li>
-                                            <a >Performance Tracking</a>
+                                            <a>Performance Tracking</a>
                                         </li>
                                     </ul>
                                 </div>
                                 <h3 class="project-title">
-                                    <a >
+                                    <a>
                                         <img src="assets/img/case-studies/icon.png" alt="img">
                                         Digital Marketing
                                     </a>
@@ -537,7 +540,7 @@
             </div>
             <div class="d-flex justify-content-center wow fadeInUp mt-4" data-wow-delay=".7s">
                 <div class="main-button">
-                    <a href="tel:+97142415963" class="theme-btn">
+                    <a href="tel:+971551135229" class="theme-btn">
                         <span>Call Us</span>
                     </a>
                 </div>
@@ -565,7 +568,15 @@
                 <div class="row">
                     <div class="col-lg-6">
                         <div class="about-image">
-                            <iframe width="100%" height="500" src="https://www.youtube.com/embed/djZV4wG8j_c" data-wow-delay="0.3s" class="wow fadeInUp" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+                            <div class="video-container">
+                                <iframe
+                                    src="https://www.youtube.com/embed/djZV4wG8j_c?autoplay=1&loop=1&mute=1&playlist=djZV4wG8j_c"
+                                    title="YouTube video"
+                                    frameborder="0"
+                                    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+                                    allowfullscreen>
+                                </iframe>
+                            </div>
                         </div>
                     </div>
                     <div class="col-lg-6 mt-4 mt-lg-0">
@@ -574,12 +585,12 @@
                                 <div class="sub-title bg-color-2 wow fadeInUp">
                                     <span>ABOUT COMPANY</span>
                                 </div>
-                                <h2 class="wow fadeInUp" data-wow-delay=".3s">Your AI-Powered Digital Marketing Agency in Dubai</h2>
+                                <h2 class="wow fadeInUp text-white" data-wow-delay=".3s">Your AI-Powered Digital Marketing Agency in Dubai</h2>
                             </div>
-                            <p class="mt-3 mt-md-0 wow fadeInUp" data-wow-delay=".5s">At <b>AppsNation</b>, we combine creativity, strategy, and AI-driven marketing to help businesses grow online. From <b>SEO and Google Ads</b> to <b>social media marketing, content creation, and video campaigns</b>, we deliver measurable results for <b>startups, e-commerce stores, clinics, interior design brands, and more</b>.</p>
+                            <p class="mt-3 mt-md-0 wow fadeInUp text-white" data-wow-delay=".5s">At <b>AppsNation</b>, we combine creativity, strategy, and AI-driven marketing to help businesses grow online. From <b>SEO and Google Ads</b> to <b>social media marketing, content creation, and video campaigns</b>, we deliver measurable results for <b>startups, e-commerce stores, clinics, interior design brands, and more</b>.</p>
                             <div class="d-flex mt-4 wow fadeInUp" data-wow-delay=".7s">
                                 <div class="main-button">
-                                    <a href="tel:+97142415963" class="theme-btn">
+                                    <a href="tel:+971551135229" class="theme-btn">
                                         <span>Call Us</span>
                                     </a>
                                 </div>
@@ -801,40 +812,41 @@
     <div class="container py-5">
 
 
-        <div id="animalCarousel" class="carousel slide" data-bs-ride="carousel" data-bs-interval="4000">
+        <div id="animalCarousel" class="carousel slide" data-bs-ride="carousel" data-bs-interval="2000">
 
 
             <!-- Slides -->
-             <div class="container my-3">
-            <div class="section-title-area">
-                <div class="section-title">
-                    <div class="sub-title wow fadeInUp">
-                        <span>Our Case Studys</span>
+            <div class="container my-2">
+                <div class="section-title-area">
+                    <div class="section-title">
+                        <div class="sub-title wow fadeInUp">
+                            <span>Our Case Studys</span>
+                        </div>
+                        <h2 class="wow fadeInUp" data-wow-delay=".3s">Results That Speak: <br> <span style="color:#009291">Our Client Success Stories</span></h2>
+                        <p class="mt-3 mt-md-0 wow fadeInUp" data-wow-delay=".5s">
+                            Discover how our data-driven marketing strategies helped businesses across Dubai achieve real growth through Meta and Google Ads. </p>
                     </div>
-                    <h2 class="wow fadeInUp" data-wow-delay=".3s">Results That Speak: <br > <span style="color:#009291">Our Client Success Stories</span></h2>
-                     <p class="mt-3 mt-md-0 wow fadeInUp" data-wow-delay=".5s">
-                Discover how our data-driven marketing strategies helped businesses across Dubai achieve real growth through Meta and Google Ads. </p>
                 </div>
             </div>
-            </div>
-           
- 
-            <div class="carousel-inner rounded-4 shadow-lg overflow-hidden">
-               
+
+
+            <div class="carousel-inner rounded-4   overflow-hidden">
+
 
                 <!-- Slide 1 -->
                 <div class="carousel-item active">
                     <div class="row align-items-center bg-white">
                         <div class="col-md-6 text-center p-4">
-                            <img src="assets/img/case-studies/new-case studay/1.jpg"
-                                class="img-fluid rounded-3 shadow" alt="Tiger">
+                            <img src="assets/img/case-studies/new-case studay/1.png"
+                                class="img-fluid rounded-3 " alt="Tiger">
                         </div>
                         <div class="col-md-6 p-4">
-                            <h4 class="pt-3 case-study-heading">How Our Google Ads Delivered 168 Qualified Leads for AED 8M+ Properties</h4>
-                            <hr>
+                            <h4 class="pt-3 case-study-heading">How Our <span style="color:#009291">Google Ads</span> Delivered 168 Qualified Leads for AED 8M+ Properties</h4>
                             <p class="pt-3 case-study-text">Apps Nation helped a luxury real estate developer in Dubai generate <b>168 high-quality leads</b> through a Google Ads campaign targeting properties starting from <b>AED 8 million</b>. With a total spend of <b>AED 129K</b> and a <b>CPL of AED 773</b>, the campaign achieved exceptional ROI through data-driven targeting, Smart Bidding, and premium ad creatives tailored for affluent buyers.</p>
+                            <hr class="w-4" style="color:#009291">
+                            <p class="pt-3 case-study-heading fs-5" style="color:gray"> 2 month progress</p>
 
-                            <div class="stats-container my-5">
+                            <div class="stats-container my-5 md-ms-5">
                                 <div class="row">
                                     <div class="col-6 stat-item">
                                         <div class="stat-number">AED 129,000</div>
@@ -857,21 +869,22 @@
 
                         </div>
                     </div>
-                    
+
                 </div>
 
                 <!-- Slide 2 -->
                 <div class="carousel-item">
                     <div class="row align-items-center bg-white">
                         <div class="col-md-6 text-center p-4">
-                            <img src="assets/img/case-studies/new-case studay/2.jpg"
-                                class="img-fluid rounded-3 shadow" alt="Lion">
+                            <img src="assets/img/case-studies/new-case studay/2.png"
+                                class="img-fluid rounded-3" alt="Lion">
                         </div>
                         <div class="col-md-6 p-4">
-                            <h4 class="pt-3 case-study-heading">33 Quality Leads Generated for Luxury Real Estate with Minimal Spend</h4>
-                            <hr>
+                            <h4 class="pt-3 case-study-heading">33 Quality Leads Generated for Luxury <span style="color:#009291"> Real Estate</span> with Minimal Spend</h4>
                             <p class="pt-3 case-study-text">Through precise audience targeting and performance optimization, Apps Nation achieved <b>33 qualified property inquiries</b> for Danube Properties with a limited budget of <b>AED 5.63K</b>. Focused on <b>luxury real estate buyers in Dubai</b>, the campaign maintained a <b>CPL under AED 175</b>, leveraging Smart Bidding and strategic demographic insights to maximize ROI.</p>
-                            <div class="stats-container my-5">
+                            <hr style="color:#009291">
+                            <p class="pt-3 case-study-heading fs-5" style="color:gray"> 2 month progress</p>
+                            <div class="stats-container my-5 md-ms-5">
                                 <div class="row">
                                     <div class="col-6 stat-item">
                                         <div class="stat-number">AED 5,630</div>
@@ -901,14 +914,15 @@
                 <div class="carousel-item">
                     <div class="row align-items-center bg-white">
                         <div class="col-md-6 text-center p-4">
-                            <img src="assets/img/case-studies/new-case studay/3.jpg"
-                                class="img-fluid rounded-3 shadow" alt="Rat">
+                            <img src="assets/img/case-studies/new-case studay/3.png"
+                                class="img-fluid rounded-3  " alt="Rat">
                         </div>
                         <div class="col-md-6 p-4">
-                            <h4 class="pt-3 case-study-heading">How Apps Nation Generated 567+ Leads for an Aesthetic Clinic in Dubai</h4>
-                            <hr>
+                            <h4 class="pt-3 case-study-heading">How Apps Nation Generated 567+ Leads for an <span style="color:#009291">Aesthetic Clinic in Dubai</span> </h4>
                             <p class="pt-3 case-study-text">AppsNation ran multiple Meta ad campaigns for treatments like <b>BBL Moxi, Ultherapy, EMS, and Chemical Peel</b>, driving strong engagement and consistent conversions. Through targeted creatives and data-driven optimization, the campaigns delivered <b>567+ leads</b> at an average <b>cost per lead between AED 75–130</b>, achieving excellent ROI for high-intent audiences.</p>
-                            <div class="stats-container my-5">
+                            <hr>
+                            <p class="pt-3 case-study-heading fs-5" style="color:gray"> 2 month progress</p>
+                            <div class="stats-container my-5 md-ms-5">
                                 <div class="row">
                                     <div class="col-6 stat-item">
                                         <div class="stat-number">187K+</div>
@@ -937,14 +951,15 @@
                 <div class="carousel-item">
                     <div class="row align-items-center bg-white">
                         <div class="col-md-6 text-center p-4">
-                            <img src="assets/img/case-studies/new-case studay/4.jpg"
-                                class="img-fluid rounded-3 shadow" alt="Owl">
+                            <img src="assets/img/case-studies/new-case studay/4.png"
+                                class="img-fluid rounded-3 " alt="Owl">
                         </div>
                         <div class="col-md-6 p-4">
-                            <h4 class="pt-3 case-study-heading">152K+ Conversions for a Rent-a-Car Company in Dubai</h4>
-                            <hr>
+                            <h4 class="pt-3 case-study-heading">152K+ Conversions for a <span style="color:#009291"> Rent-a-Car Company in Dubai</span> </h4>
                             <p class="pt-3 case-study-text">Quick Digital Solutions successfully managed a large-scale Google Ads campaign for a Dubai-based rent-a-car company. The campaigns focused on maximizing lead generation through Search, Display, and Performance Max strategies — ensuring high visibility, strong engagement, and cost-efficient conversions across multiple ad groups.</p>
-                            <div class="stats-container my-5">
+                            <hr style="color:#009291">
+                            <p class="pt-3 case-study-heading fs-5" style="color:gray"> 2 month progress</p>
+                            <div class="stats-container my-5 md-ms-5">
                                 <div class="row">
                                     <div class="col-6 stat-item">
                                         <div class="stat-number">738K+</div>
@@ -972,14 +987,15 @@
                 <div class="carousel-item">
                     <div class="row align-items-center bg-white">
                         <div class="col-md-6 text-center p-4">
-                            <img src="assets/img/case-studies/new-case studay/5.jpg"
-                                class="img-fluid rounded-3 shadow" alt="Owl">
+                            <img src="assets/img/case-studies/new-case studay/5.png"
+                                class="img-fluid rounded-3" alt="Owl">
                         </div>
                         <div class="col-md-6 p-4">
-                            <h4 class="pt-3 case-study-heading">73+ Leads Generated for a Spa in Dubai via Meta Ads</h4>
-                            <hr>
+                            <h4 class="pt-3 case-study-heading">73+ Leads Generated for a <span style="color:#009291"> Spa in Dubai </span> via Meta Ads</h4>
                             <p class="pt-3 case-study-text">Quick Digital Solutions managed targeted Meta (Facebook & Instagram) campaigns for a <b>spa brand in Dubai</b>, focused on generating <b>WhatsApp and Messenger inquiries</b> for treatments and services. By optimizing creatives, audience segments, and delivery strategy, the campaigns delivered consistent conversions at a strong cost efficiency.</p>
-                            <div class="stats-container my-5">
+                            <hr style="color:#009291">
+                            <p class="pt-3 case-study-heading fs-5" style="color:gray"> 2 month progress</p>
+                            <div class="stats-container my-5 md-ms-5">
                                 <div class="row">
                                     <div class="col-6 stat-item">
                                         <div class="stat-number">73+</div>
@@ -1003,15 +1019,15 @@
 
                         </div>
                     </div>
-                     <!-- ✅ Indicators (Dots at Bottom) -->
-     
+                    <!-- ✅ Indicators (Dots at Bottom) -->
+
                 </div>
-  
 
-             
 
-        </div>
-    
+
+
+            </div>
+
             <!-- Indicators -->
             <div class="carousel-indicators ps-5 ">
                 <button type="button" data-bs-target="#animalCarousel" data-bs-slide-to="0" class="active"></button>
@@ -1020,322 +1036,399 @@
                 <button type="button" data-bs-target="#animalCarousel" data-bs-slide-to="3"></button>
                 <button type="button" data-bs-target="#animalCarousel" data-bs-slide-to="4"></button>
             </div>
+        </div>
+
+
+        <!-- End Portfolio -->
+
+        <!-- Start Client -->
+        <section class="clients section-padding">
+            <div class="container">
+                <div class="section-title-area">
+                    <div class="section-title">
+                        <div class="sub-title wow fadeInUp">
+                            <span>Clients</span>
+                        </div>
+                        <h2 class="wow fadeInUp" data-wow-delay=".3s">
+                            Some of Our Clients
+                        </h2>
+                    </div>
+                </div>
+                <div class="row justify-content-center wow fadeInUp" data-wow-delay=".5s">
+                    <div class="col-lg-12">
+                        <div class="client-logo set">
+                            <div class="row">
+                                <div class="col-lg-2 col-md-3 col-sm-4 col-6 mt-4">
+                                    <div class="brand-logo hoshd">
+                                        <img src="assets/img/clients/icons-01.png" alt="Client Logo" class="img-fluid d-block mx-auto" width="auto" height="auto">
+                                    </div>
+                                </div>
+                                <div class="col-lg-2 col-md-3 col-sm-4 col-6 mt-4">
+                                    <div class="brand-logo hoshd">
+                                        <img src="assets/img/clients/icons-02.png" alt="Client Logo" class="img-fluid d-block mx-auto" width="auto" height="auto">
+                                    </div>
+                                </div>
+                                <div class="col-lg-2 col-md-3 col-sm-4 col-6 mt-4">
+                                    <div class="brand-logo hoshd">
+                                        <img src="assets/img/clients/icons-03.png" alt="Client Logo" class="img-fluid d-block mx-auto" width="auto" height="auto">
+                                    </div>
+                                </div>
+                                <div class="col-lg-2 col-md-3 col-sm-4 col-6 mt-4">
+                                    <div class="brand-logo hoshd">
+                                        <img src="assets/img/clients/icons-04.png" alt="Client Logo" class="img-fluid d-block mx-auto" width="auto" height="auto">
+                                    </div>
+                                </div>
+                                <div class="col-lg-2 col-md-3 col-sm-4 col-6 mt-4">
+                                    <div class="brand-logo hoshd">
+                                        <img src="assets/img/clients/icons-05.png" alt="Client Logo" class="img-fluid d-block mx-auto" width="auto" height="auto">
+                                    </div>
+                                </div>
+                                <div class="col-lg-2 col-md-3 col-sm-4 col-6 mt-4">
+                                    <div class="brand-logo hoshd">
+                                        <img src="assets/img/clients/icons-06.png" alt="Client Logo" class="img-fluid d-block mx-auto" width="auto" height="auto">
+                                    </div>
+                                </div>
+                                <div class="col-lg-2 col-md-3 col-sm-4 col-6 mt-4">
+                                    <div class="brand-logo hoshd">
+                                        <img src="assets/img/clients/icons-07.png" alt="Client Logo" class="img-fluid d-block mx-auto" width="auto" height="auto">
+                                    </div>
+                                </div>
+                                <div class="col-lg-2 col-md-3 col-sm-4 col-6 mt-4">
+                                    <div class="brand-logo hoshd">
+                                        <img src="assets/img/clients/icons-08.png" alt="Client Logo" class="img-fluid d-block mx-auto" width="auto" height="auto">
+                                    </div>
+                                </div>
+                                <div class="col-lg-2 col-md-3 col-sm-4 col-6 mt-4">
+                                    <div class="brand-logo hoshd">
+                                        <img src="assets/img/clients/icons-09.png" alt="Client Logo" class="img-fluid d-block mx-auto" width="auto" height="auto">
+                                    </div>
+                                </div>
+                                <div class="col-lg-2 col-md-3 col-sm-4 col-6 mt-4">
+                                    <div class="brand-logo hoshd">
+                                        <img src="assets/img/clients/icons-10.png" alt="Client Logo" class="img-fluid d-block mx-auto" width="auto" height="auto">
+                                    </div>
+                                </div>
+                                <div class="col-lg-2 col-md-3 col-sm-4 col-6 mt-4">
+                                    <div class="brand-logo hoshd">
+                                        <img src="assets/img/clients/icons-11.png" alt="Client Logo" class="img-fluid d-block mx-auto" width="auto" height="auto">
+                                    </div>
+                                </div>
+                                <div class="col-lg-2 col-md-3 col-sm-4 col-6 mt-4">
+                                    <div class="brand-logo hoshd">
+                                        <img src="assets/img/clients/icons-12.png" alt="Client Logo" class="img-fluid d-block mx-auto" width="auto" height="auto">
+                                    </div>
+                                </div>
+                                <div class="col-lg-2 col-md-3 col-sm-4 col-6 mt-4">
+                                    <div class="brand-logo hoshd">
+                                        <img src="assets/img/clients/icons-13.png" alt="Client Logo" class="img-fluid d-block mx-auto" width="auto" height="auto">
+                                    </div>
+                                </div>
+                                <div class="col-lg-2 col-md-3 col-sm-4 col-6 mt-4">
+                                    <div class="brand-logo hoshd">
+                                        <img src="assets/img/clients/icons-14.png" alt="Client Logo" class="img-fluid d-block mx-auto" width="auto" height="auto">
+                                    </div>
+                                </div>
+                                <div class="col-lg-2 col-md-3 col-sm-4 col-6 mt-4">
+                                    <div class="brand-logo hoshd">
+                                        <img src="assets/img/clients/icons-15.png" alt="Client Logo" class="img-fluid d-block mx-auto" width="auto" height="auto">
+                                    </div>
+                                </div>
+                                <div class="col-lg-2 col-md-3 col-sm-4 col-6 mt-4">
+                                    <div class="brand-logo hoshd">
+                                        <img src="assets/img/clients/icons-16.png" alt="Client Logo" class="img-fluid d-block mx-auto" width="auto" height="auto">
+                                    </div>
+                                </div>
+                                <div class="col-lg-2 col-md-3 col-sm-4 col-6 mt-4">
+                                    <div class="brand-logo hoshd">
+                                        <img src="assets/img/clients/icons-17.png" alt="Client Logo" class="img-fluid d-block mx-auto" width="auto" height="auto">
+                                    </div>
+                                </div>
+                                <div class="col-lg-2 col-md-3 col-sm-4 col-6 mt-4">
+                                    <div class="brand-logo hoshd">
+                                        <img src="assets/img/clients/icons-18.png" alt="Client Logo" class="img-fluid d-block mx-auto" width="auto" height="auto">
+                                    </div>
+                                </div>
+                                <div class="col-lg-2 col-md-3 col-sm-4 col-6 mt-4">
+                                    <div class="brand-logo hoshd">
+                                        <img src="assets/img/clients/icons-19.png" alt="Client Logo" class="img-fluid d-block mx-auto" width="auto" height="auto">
+                                    </div>
+                                </div>
+                                <div class="col-lg-2 col-md-3 col-sm-4 col-6 mt-4">
+                                    <div class="brand-logo hoshd">
+                                        <img src="assets/img/clients/icons-20.png" alt="Client Logo" class="img-fluid d-block mx-auto" width="auto" height="auto">
+                                    </div>
+                                </div>
+                                <div class="col-lg-2 col-md-3 col-sm-4 col-6 mt-4">
+                                    <div class="brand-logo hoshd">
+                                        <img src="assets/img/clients/icons-21.png" alt="Client Logo" class="img-fluid d-block mx-auto" width="auto" height="auto">
+                                    </div>
+                                </div>
+                                <div class="col-lg-2 col-md-3 col-sm-4 col-6 mt-4">
+                                    <div class="brand-logo hoshd">
+                                        <img src="assets/img/clients/icons-22.png" alt="Client Logo" class="img-fluid d-block mx-auto" width="auto" height="auto">
+                                    </div>
+                                </div>
+                                <div class="col-lg-2 col-md-3 col-sm-4 col-6 mt-4">
+                                    <div class="brand-logo hoshd">
+                                        <img src="assets/img/clients/icons-23.png" alt="Client Logo" class="img-fluid d-block mx-auto" width="auto" height="auto">
+                                    </div>
+                                </div>
+                                <div class="col-lg-2 col-md-3 col-sm-4 col-6 mt-4">
+                                    <div class="brand-logo hoshd">
+                                        <img src="assets/img/clients/icons-24.png" alt="Client Logo" class="img-fluid d-block mx-auto" width="auto" height="auto">
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <!-- End Client -->
+
+        <!-- Start Industries -->
+        <section class="case-study-section fix section-padding">
+
+            <div class="left-shape float-bob-x">
+                <img src="assets/img/case-studies/left-shape.png" alt="img">
+            </div>
+            <div class="right-shape float-bob-x">
+                <img src="assets/img/case-studies/right-shaape.png" alt="img">
+            </div>
+            <div class="container">
+                <div class="section-title-area">
+                    <div class="section-title">
+                        <div class="sub-title wow fadeInUp">
+                            <span>Industries We Serve</span>
+                        </div>
+                        <h2 class="wow fadeInUp" data-wow-delay=".3s">Digital Marketing Solutions for Every Industry</h2>
+                    </div>
+                </div>
+                <p class="mt-3 mt-md-0 wow fadeInUp" data-wow-delay=".5s">At <b>AppsNation</b>, we help businesses of all sizes and sectors grow online. From startups to established brands, our <b>AI-driven digital marketing services</b> deliver results across multiple industries.</p>
+                <div class="industries wow fadeInUp mt-4" data-wow-delay="0.7s">
+
+                    <div class="row">
+                        <div class="col-6 col-md-4 col-lg-3">
+                            <ul class="industries-point">
+                                <li>
+                                    <svg xmlns="http://www.w3.org/2000/svg" id="Layer_1" data-name="Layer 1" viewBox="0 0 30 30">
+                                        <path d="M9.12,16.27a1.22,1.22,0,0,0-.5-.11H7.38A1.45,1.45,0,0,0,6,17.66a.5.5,0,0,1-1,0,2.45,2.45,0,0,1,2.38-2.5H8.62a2.22,2.22,0,0,1,1.29.41A4,4,0,0,0,9.12,16.27ZM5.5,11.66A2.5,2.5,0,1,1,8,14.16,2.5,2.5,0,0,1,5.5,11.66Zm1,0A1.5,1.5,0,1,0,8,10.16,1.5,1.5,0,0,0,6.5,11.66Zm9.17,9.5a5.82,5.82,0,0,0,1.36,1H10.5A1.5,1.5,0,0,1,9,20.66v-1.4a3.58,3.58,0,0,1,.61-2,3.46,3.46,0,0,1,2.88-1.46,4.34,4.34,0,0,1,1.29.21,4.54,4.54,0,0,0,0,1,5.15,5.15,0,0,0-1.28-.22,2.44,2.44,0,0,0-2.05,1A2.6,2.6,0,0,0,10,19.26v1.4a.5.5,0,0,0,.5.5Zm-4.17-9.5a3.49,3.49,0,0,1,6.83-1,5.28,5.28,0,0,0-.94.34,2.49,2.49,0,1,0-3.07,3.07A5.83,5.83,0,0,0,14,15,3.5,3.5,0,0,1,11.5,11.66ZM25,18.21a5.36,5.36,0,0,1-1.14,2,.73.73,0,0,1-.9.13L22.4,20a4.76,4.76,0,0,1-.69.4V21a.73.73,0,0,1-.57.71,5.45,5.45,0,0,1-1.14.12,5.54,5.54,0,0,1-1.15-.12.74.74,0,0,1-.57-.71v-.59a4.76,4.76,0,0,1-.69-.4l-.51.29a.74.74,0,0,1-.91-.13,5.36,5.36,0,0,1-1.14-2,.73.73,0,0,1,.33-.85l.52-.29a3.57,3.57,0,0,1,0-.8l-.52-.3a.72.72,0,0,1-.33-.85,5.24,5.24,0,0,1,1.14-2,.73.73,0,0,1,.9-.14l.52.3a3.65,3.65,0,0,1,.69-.4v-.6a.72.72,0,0,1,.57-.7,5.21,5.21,0,0,1,2.29,0,.71.71,0,0,1,.57.7v.6a4,4,0,0,1,.69.4l.52-.3a.73.73,0,0,1,.9.14,5.26,5.26,0,0,1,1.15,2,.74.74,0,0,1-.33.85l-.52.29a5.34,5.34,0,0,1,0,.8l.51.3A.72.72,0,0,1,25,18.21ZM23,15.74l.92-.53A4.2,4.2,0,0,0,23.23,14l-.92.53a3.51,3.51,0,0,0-1.6-.92V12.52a4.83,4.83,0,0,0-1.42,0v1.07a3.58,3.58,0,0,0-1.6.92L16.77,14a4.2,4.2,0,0,0-.71,1.23l.92.53a3.74,3.74,0,0,0,0,1.85l-.92.53a4.33,4.33,0,0,0,.71,1.23l.92-.53a3.51,3.51,0,0,0,1.6.92V20.8a3.77,3.77,0,0,0,1.42,0V19.74a3.58,3.58,0,0,0,1.6-.92l.92.53a4.43,4.43,0,0,0,.71-1.23L23,17.59A3.74,3.74,0,0,0,23,15.74Zm-1,.92a2,2,0,1,1-2-2A2,2,0,0,1,22,16.66Zm-1,0a1,1,0,1,0-1,1A1,1,0,0,0,21,16.66Z"></path>
+                                    </svg> Engineering
+                                </li>
+                                <li>
+                                    <svg xmlns="http://www.w3.org/2000/svg" id="Layer_1" data-name="Layer 1" viewBox="0 0 30 30">
+                                        <path d="M25,21.67a1.73,1.73,0,0,1-.18.7,1.68,1.68,0,0,1-1.35.79H6.53a1.68,1.68,0,0,1-1.35-.79,1.45,1.45,0,0,1,.06-1.5l8.47-13a1.6,1.6,0,0,1,2.58,0l8.47,13.05A1.74,1.74,0,0,1,25,21.67Zm-1,0a.61.61,0,0,0-.08-.26l-8.46-13a.56.56,0,0,0-.92,0L6.08,21.41a.45.45,0,0,0,0,.48.57.57,0,0,0,.46.27h17a.57.57,0,0,0,.46-.27A.6.6,0,0,0,24,21.67Zm-9.5-2h0v1a.5.5,0,0,1-1,0v-1l-1.45-.94-.57,2.1a.53.53,0,0,1-.48.37h0l-.13,0a.53.53,0,0,1-.37-.48.51.51,0,0,1,0-.13l.93-3.42L14,18.79A1.09,1.09,0,0,1,14.5,19.63Zm7.22.76a.65.65,0,0,1,.08.27.5.5,0,0,1-.5.5H15.5L16,19.83a.65.65,0,0,1,.56-.39h.68L15,18.08h0l-3.25-2a.56.56,0,0,1-.24-.42.6.6,0,0,1,.1-.3l.36-.49a1.7,1.7,0,0,1,1.2-.6,1.84,1.84,0,0,1,.33,0l.77.23a1.5,1.5,0,0,1,1.11,1.17l.33,1.65,2.48,1.53.89-1.33a.46.46,0,0,1,.18-.16l.23-.06h0a.75.75,0,0,1,.16,0,.36.36,0,0,1,.26.19Zm-7.19-3.77-.14-.74A.5.5,0,0,0,14,15.5H14l-.73-.21h-.08a.57.57,0,0,0-.4.2l0,0ZM13.75,13h0a.88.88,0,1,1,.88.88h0A.87.87,0,0,1,13.75,13Zm6.63,7.15-.91-1.42L18.63,20l-.11.16Z"></path>
+                                    </svg> Construction
+                                </li>
+                                <li>
+                                    <svg xmlns="http://www.w3.org/2000/svg" id="Layer_1" data-name="Layer 1" viewBox="0 0 30 30">
+                                        <path d="M12.21,22.16a3.84,3.84,0,0,0,.63,1H8a1,1,0,0,1-1-.92l-1-10v-.06H5.25A.25.25,0,0,1,5,11.91v-.5a.25.25,0,0,1,.25-.25h5.36l.81-3.24a1,1,0,0,1,1-.76h1.36a.25.25,0,0,1,.25.25v.5a.25.25,0,0,1-.25.25H12.39l-.75,3h4.11a.25.25,0,0,1,.25.25v.5a.25.25,0,0,1-.25.25H7l1,10Zm12.36-2.11A1.52,1.52,0,0,1,25,21a2.13,2.13,0,0,1-2.13,2.12H15.12A2.12,2.12,0,0,1,13,21a1.52,1.52,0,0,1,.43-1A2,2,0,0,1,13,18.91a2,2,0,0,1,.58-1.29A2.06,2.06,0,0,1,13,16.28a2.11,2.11,0,0,1,.36-1.08A7,7,0,0,1,19,12.66a7,7,0,0,1,5.65,2.54A2.19,2.19,0,0,1,25,16.28a2.1,2.1,0,0,1-.58,1.34A2,2,0,0,1,25,18.91,2,2,0,0,1,24.57,20.05Zm-9.68-2.89h8.22a.87.87,0,0,0,.72-1.38A6,6,0,0,0,19,13.66a6.05,6.05,0,0,0-4.84,2.12A.88.88,0,0,0,14.89,17.16ZM24,18.91a.76.76,0,0,0-.75-.75h-8.5a.75.75,0,1,0,0,1.5h8.5A.75.75,0,0,0,24,18.91ZM24,21a.38.38,0,0,0-.38-.38H14.37A.38.38,0,0,0,14,21a1.12,1.12,0,0,0,1.12,1.12h7.75A1.13,1.13,0,0,0,24,21Zm-8-5.38a.5.5,0,0,1,.5-.5.51.51,0,0,1,.5.5.5.5,0,0,1-.5.5A.5.5,0,0,1,16,15.66Zm2.5-.5a.5.5,0,0,1,.5-.5.51.51,0,0,1,.5.5.5.5,0,0,1-.5.5A.5.5,0,0,1,18.5,15.16Zm2.5.5a.5.5,0,0,1,.5-.5.51.51,0,0,1,.5.5.5.5,0,0,1-.5.5A.5.5,0,0,1,21,15.66Z"></path>
+                                    </svg> Food &amp; Beverage
+                                </li>
+                                <li>
+                                    <svg xmlns="http://www.w3.org/2000/svg" id="Layer_1" data-name="Layer 1" viewBox="0 0 30 30">
+                                        <path d="M13.2,16.77a4,4,0,0,1,.8,2.4v3.75a.25.25,0,0,1-.25.25h-.5a.25.25,0,0,1-.25-.25V19.17a3,3,0,0,0-.61-1.82l-1.32-1.82a.5.5,0,0,0-.81.59l1,1.32,0,0C12,18.7,10.17,20.17,9,18.79L7,16.36V11.69a.5.5,0,1,0-1,0V17a.51.51,0,0,0,.11.31l3.34,4.18A2.77,2.77,0,0,1,10,22.89a.25.25,0,0,1-.25.27h-.5A.24.24,0,0,1,9,23a1.86,1.86,0,0,0-.32-.85L5.33,17.93A1.48,1.48,0,0,1,5,17V11.66a1.49,1.49,0,0,1,1.52-1.49A1.55,1.55,0,0,1,8,11.72V16l1.94,2.3a.27.27,0,0,0,.42-.34l-.89-1.23a1.52,1.52,0,0,1,.07-1.91,1.5,1.5,0,0,1,2.33.12Zm5.6-5.35L15.39,15a.54.54,0,0,1-.79,0l-3.4-3.57a2.59,2.59,0,0,1,.17-3.71,2.18,2.18,0,0,1,1.45-.55,2.61,2.61,0,0,1,1.83.8l.35.36L15.34,8a2.64,2.64,0,0,1,1.83-.79,2.16,2.16,0,0,1,1.45.55A2.58,2.58,0,0,1,18.8,11.42ZM18,8.47a1.22,1.22,0,0,0-.82-.31,1.61,1.61,0,0,0-1.11.49L15,9.75,14,8.65a1.61,1.61,0,0,0-1.12-.48,1.19,1.19,0,0,0-.82.31,1.58,1.58,0,0,0-.11,2.25L15,14l3.09-3.24A1.58,1.58,0,0,0,18,8.47ZM25,17a1.43,1.43,0,0,1-.33.93L21.33,22.1A1.82,1.82,0,0,0,21,23a.24.24,0,0,1-.25.21h-.5a.25.25,0,0,1-.25-.27,2.77,2.77,0,0,1,.54-1.41l3.34-4.18A.51.51,0,0,0,24,17V11.66a.5.5,0,1,0-1,0v4.68l-2,2.42c-1.15,1.39-3-.08-2.21-1.32,0,0,0,0,0,0l.95-1.32a.48.48,0,0,0-.11-.69.49.49,0,0,0-.7.11l-1.32,1.82A3,3,0,0,0,17,19.16v3.75a.25.25,0,0,1-.25.25h-.5a.25.25,0,0,1-.25-.25V19.16a4,4,0,0,1,.8-2.4l1.32-1.82a1.51,1.51,0,0,1,2.33-.13,1.52,1.52,0,0,1,.08,1.92L19.64,18a.27.27,0,0,0,.42.33L22,16V11.72a1.56,1.56,0,0,1,1.47-1.56A1.51,1.51,0,0,1,25,11.66Z"></path>
+                                    </svg> Health Care
+                                </li>
+                                <li>
+                                    <svg xmlns="http://www.w3.org/2000/svg" id="Layer_1" data-name="Layer 1" viewBox="0 0 30 30">
+                                        <path d="M13.75,18.36a3.43,3.43,0,0,0,.48.93l-3.18,3.18a2.39,2.39,0,0,1-3.36,0,2.39,2.39,0,0,1,0-3.36l4.57-4.57.71.71L8.4,19.82a1.38,1.38,0,0,0,0,1.94,1.4,1.4,0,0,0,1.94,0Zm9,2.39-2.12,2.12a1,1,0,0,1-1.42,0L15.28,19A2.49,2.49,0,0,1,15,15.84l-2.68-2.68H10l-3-4,2-2,4,3v2.3l2.67,2.67a2.48,2.48,0,0,1,3.15.32l3.89,3.89A1,1,0,0,1,22.71,20.75ZM12,10.66,9.09,8.49l-.77.77,2.18,2.9H12v-1.5Zm-2.5,9.5a.51.51,0,0,1,.5.5.5.5,0,0,1-1,0A.51.51,0,0,1,9.5,20.16Zm5.19-7.43L14,12V9.92a4.67,4.67,0,0,1,5.42-2.61.84.84,0,0,1,.61.6.86.86,0,0,1-.22.83l-2,2,.23,1.38,1.38.23,2-2a.87.87,0,0,1,.84-.22.88.88,0,0,1,.6.61,4.7,4.7,0,0,1-1.24,4.48,4.61,4.61,0,0,1-.91.7L20,15.19a3.88,3.88,0,0,0,.94-.68,3.66,3.66,0,0,0,1-3.26l-2.16,2.16L17.18,13l-.43-2.59,2.17-2.17a3.68,3.68,0,0,0-4.23,4.51ZM22,20l-3.89-3.89a1.5,1.5,0,0,0-2.12,0,1.52,1.52,0,0,0-.44,1.06A1.5,1.5,0,0,0,16,18.27l3.89,3.89Z"></path>
+                                    </svg> Facility Management
+                                </li>
+                            </ul>
+                        </div>
+                        <div class="col-6 col-md-4 col-lg-3">
+                            <ul class="industries-point">
+                                <li>
+                                    <svg xmlns="http://www.w3.org/2000/svg" id="Layer_1" data-name="Layer 1" viewBox="0 0 30 30">
+                                        <path d="M11,22.66a.5.5,0,0,1-1,0,1.45,1.45,0,0,0-1.38-1.5H7.38A1.45,1.45,0,0,0,6,22.66a.5.5,0,0,1-1,0,2.45,2.45,0,0,1,2.38-2.5H8.62A2.45,2.45,0,0,1,11,22.66Zm-5.5-6A2.5,2.5,0,1,1,8,19.16,2.5,2.5,0,0,1,5.5,16.66ZM7,13.33a3.53,3.53,0,0,0-1,.47V8.66a1.5,1.5,0,0,1,1.5-1.5h15A1.5,1.5,0,0,1,24,8.66V13.8a3.53,3.53,0,0,0-1-.47V8.66a.5.5,0,0,0-.5-.5H7.5a.5.5,0,0,0-.5.5Zm-.5,3.33A1.5,1.5,0,1,0,8,15.16,1.5,1.5,0,0,0,6.5,16.66Zm11.5,6a.5.5,0,0,1-1,0,1.45,1.45,0,0,0-1.38-1.5H14.38A1.45,1.45,0,0,0,13,22.66a.5.5,0,0,1-1,0,2.45,2.45,0,0,1,2.38-2.5h1.24A2.45,2.45,0,0,1,18,22.66Zm-3-8.5a2.5,2.5,0,1,1-2.5,2.5A2.5,2.5,0,0,1,15,14.16Zm0,1a1.5,1.5,0,1,0,1.5,1.5A1.5,1.5,0,0,0,15,15.16Zm10,7.5a.5.5,0,0,1-1,0,1.45,1.45,0,0,0-1.38-1.5H21.38A1.45,1.45,0,0,0,20,22.66a.5.5,0,0,1-1,0,2.45,2.45,0,0,1,2.38-2.5h1.24A2.45,2.45,0,0,1,25,22.66Zm-.5-6a2.5,2.5,0,1,1-2.5-2.5A2.49,2.49,0,0,1,24.5,16.66Zm-1,0a1.5,1.5,0,1,0-1.5,1.5A1.5,1.5,0,0,0,23.5,16.66Z"></path>
+                                    </svg> Human Resource
+                                </li>
+                                <li>
+                                    <svg xmlns="http://www.w3.org/2000/svg" id="Layer_1" data-name="Layer 1" viewBox="0 0 30 30">
+                                        <path d="M23,20a3.28,3.28,0,0,1-3.43,3.12H10.43A3.28,3.28,0,0,1,7,20c0-.61-.29-5.36,5.53-9.07L11.17,8.72A1,1,0,0,1,12,7.16h6a1,1,0,0,1,.83,1.56L17.47,11C23.26,14.66,23,19.44,23,20ZM22,20c0-1.88-.64-5.43-5.28-8.29H13.28C8.63,14.53,8,18.06,8,19.93V20a2.29,2.29,0,0,0,2.43,2.12h9.14A2.29,2.29,0,0,0,22,20Zm-8.46-9.29h2.92L18,8.16H12ZM17,18.33a1.51,1.51,0,0,1-1.46,1.52v.54a.27.27,0,0,1-.27.27h-.54a.27.27,0,0,1-.27-.27v-.54a2.28,2.28,0,0,1-1.07-.39.27.27,0,0,1-.11-.21.28.28,0,0,1,.09-.19l.4-.38a.32.32,0,0,1,.19-.07.3.3,0,0,1,.15.05,1,1,0,0,0,.44.12h.95a.43.43,0,0,0,.41-.44.45.45,0,0,0-.3-.43l-1.53-.45A1.52,1.52,0,0,1,13,16a1.51,1.51,0,0,1,1.45-1.52v-.55a.28.28,0,0,1,.27-.27h.55a.27.27,0,0,1,.27.27v.55a2.42,2.42,0,0,1,1.07.38.3.3,0,0,1,.1.22.33.33,0,0,1-.08.19l-.4.38a.32.32,0,0,1-.19.07.3.3,0,0,1-.15-.05,1.11,1.11,0,0,0-.44-.12H14.5a.42.42,0,0,0-.4.44.44.44,0,0,0,.29.43l1.54.45A1.53,1.53,0,0,1,17,18.33Z"></path>
+                                    </svg> Banking &amp; Finance
+                                </li>
+                                <li>
+                                    <svg xmlns="http://www.w3.org/2000/svg" id="Layer_1" data-name="Layer 1" viewBox="0 0 30 30">
+                                        <path d="M23,14.52a.31.31,0,0,1-.06.16l-.31.39a.29.29,0,0,1-.2.09.28.28,0,0,1-.15-.06l-1.28-1v7.59a.5.5,0,0,1-.5.5h-4a.5.5,0,0,1-.5-.5v-4H14v4a.5.5,0,0,1-.5.5h-4a.5.5,0,0,1-.5-.5V14.06l-1.28,1a.25.25,0,0,1-.15.06.26.26,0,0,1-.2-.1l-.31-.38A.31.31,0,0,1,7,14.52a.26.26,0,0,1,.09-.19l7.28-5.94A1.09,1.09,0,0,1,15,8.17a1.12,1.12,0,0,1,.63.22l7.28,5.94A.26.26,0,0,1,23,14.52Zm-3-1.28L15,9.16l-5,4.08v7.92h3v-4a.5.5,0,0,1,.5-.5h3a.5.5,0,0,1,.5.5v4h3Z"></path>
+                                    </svg> Real Estate
+                                </li>
+                                <li>
+                                    <svg xmlns="http://www.w3.org/2000/svg" id="Layer_1" data-name="Layer 1" viewBox="0 0 30 30">
+                                        <path d="M9,20.16A4,4,0,0,1,5,16.5a1,1,0,0,1,.17-.61l3.41-5.5a.5.5,0,0,1,.84,0l3.41,5.5a1,1,0,0,1,.17.61A4,4,0,0,1,9,20.16Zm0-1a3,3,0,0,0,2.83-2H6.16A3,3,0,0,0,9,19.16Zm-2.82-3h5.66L9,11.61ZM22,22.41v.5a.25.25,0,0,1-.25.25H8.25A.25.25,0,0,1,8,22.91v-.5a.25.25,0,0,1,.25-.25H14.5V11.09A2,2,0,0,1,13,9.16H8.25A.25.25,0,0,1,8,8.91v-.5a.25.25,0,0,1,.25-.25h5a1.76,1.76,0,0,1,.6-.65,2,2,0,0,1,2.24,0,1.76,1.76,0,0,1,.6.65h5a.25.25,0,0,1,.25.25v.5a.25.25,0,0,1-.25.25H17a2,2,0,0,1-1.5,1.93V22.16h6.25A.25.25,0,0,1,22,22.41ZM15,10.16a1,1,0,1,0-1-1A1,1,0,0,0,15,10.16ZM25,16.5a4,4,0,0,1-8,0,1,1,0,0,1,.17-.61l3.41-5.5a.5.5,0,0,1,.84,0l3.41,5.5A1,1,0,0,1,25,16.5Zm-1.17.66H18.16a3,3,0,0,0,5.67,0Zm0-1L21,11.61l-2.82,4.55Z"></path>
+                                    </svg> Law Firm
+                                </li>
+                                <li>
+                                    <svg xmlns="http://www.w3.org/2000/svg" id="Layer_1" data-name="Layer 1" viewBox="0 0 30 30">
+                                        <path d="M23,12.66v8a1.5,1.5,0,0,1-1.5,1.5H8.5A1.5,1.5,0,0,1,7,20.66v-8a1.5,1.5,0,0,1,1.5-1.5H12V8.91a.76.76,0,0,1,.75-.75h4.5a.75.75,0,0,1,.75.75v2.25h3.5A1.5,1.5,0,0,1,23,12.66Zm-1,0a.5.5,0,0,0-.5-.5H8.5a.5.5,0,0,0-.5.5v2.5H22Zm0,3.5H17v1.25a.75.75,0,0,1-.75.75h-2.5a.75.75,0,0,1-.75-.75V16.16H8v4.5a.5.5,0,0,0,.5.5h13a.5.5,0,0,0,.5-.5Zm-9-5h4v-2H13Zm3,6v-1H14v1Z"></path>
+                                    </svg> Business Setup
+                                </li>
+                            </ul>
+                        </div>
+                        <div class="col-6 col-md-4 col-lg-3 mt-3 mt-md-0">
+                            <ul class="industries-point">
+                                <li>
+                                    <svg xmlns="http://www.w3.org/2000/svg" id="Layer_1" data-name="Layer 1" viewBox="0 0 30 30">
+                                        <path d="M24,15.16c0,1.48-2,2-3.55,2H17.06l-1,2a.38.38,0,0,1,.37.38v1.25a.37.37,0,0,1-.38.37H15l-.83,1.59a.86.86,0,0,1-.73.41H11.7a.86.86,0,0,1-.83-1l.88-5c-.65,0-1.28-.09-1.84-.16l-1,1.81a.88.88,0,0,1-.73.41H6.93a.86.86,0,0,1-.84-1l.42-2.09A1.15,1.15,0,0,1,6,15.16a1.14,1.14,0,0,1,.51-.9l-.42-2.09a.86.86,0,0,1,.84-1H8.18a.88.88,0,0,1,.73.41v0l1,1.79c.56-.07,1.19-.13,1.84-.16l-.88-5a.86.86,0,0,1,.83-1.05h1.7a.86.86,0,0,1,.74.44L15,9.16h1a.38.38,0,0,1,.38.38v1.25a.38.38,0,0,1-.37.37l1,2h3.39C21.94,13.17,24,13.68,24,15.16Zm-1,0c0-.65-1.53-1-2.55-1h-4l-3.13-6H11.88l1,6a24.26,24.26,0,0,0-3.55.29L8.09,12.15h-1l.61,3-.61,3h1l1.29-2.31a23.93,23.93,0,0,0,3.55.29l-1,6h1.43l3.13-6h4C21.25,16.15,23,15.89,23,15.16Z"></path>
+                                    </svg> Travel &amp; Tourism
+                                </li>
+                                <li>
+                                    <svg xmlns="http://www.w3.org/2000/svg" id="Layer_1" data-name="Layer 1" viewBox="0 0 30 30">
+                                        <path d="M25,20.41v.5a.25.25,0,0,1-.25.25H21.91a1.7,1.7,0,0,1,.09.5,1.5,1.5,0,0,1-3,0,1.7,1.7,0,0,1,.09-.5H12.91a1.7,1.7,0,0,1,.09.5,1.5,1.5,0,0,1-3,0,1.7,1.7,0,0,1,.09-.5H8.25A.25.25,0,0,1,8,20.91V8.16H5.25A.25.25,0,0,1,5,7.91v-.5a.25.25,0,0,1,.25-.25h3.5A.25.25,0,0,1,9,7.41V20.16H24.75A.25.25,0,0,1,25,20.41ZM11,17.16v-6a1,1,0,0,1,1-1h2V8.66a1.5,1.5,0,0,1,1.5-1.5h3A1.5,1.5,0,0,1,20,8.66v1.5h2a1,1,0,0,1,1,1v6a1,1,0,0,1-1,1H12A1,1,0,0,1,11,17.16Zm1,4.5a.5.5,0,1,0-1,0,.5.5,0,0,0,1,0Zm0-4.5h2v-6H12Zm3-7h4V8.66a.5.5,0,0,0-.5-.5h-3a.5.5,0,0,0-.5.5Zm0,7h4v-6H15Zm5,0h2v-6H20Zm1,4.5a.5.5,0,1,0-1,0,.5.5,0,0,0,1,0Z"></path>
+                                    </svg> Hospitality
+                                </li>
+                                <li>
+                                    <svg xmlns="http://www.w3.org/2000/svg" id="Layer_1" data-name="Layer 1" viewBox="0 0 30 30">
+                                        <path d="M22.87,13.47l-.18.36a1.49,1.49,0,0,1-.53.58,2.54,2.54,0,0,1,.34,1.25v4a1.5,1.5,0,0,1-1.5,1.5h-.5a1.5,1.5,0,0,1-1.5-1.5v-.5H11v.5a1.5,1.5,0,0,1-1.5,1.5H9a1.5,1.5,0,0,1-1.5-1.5v-4a2.45,2.45,0,0,1,.35-1.25,1.38,1.38,0,0,1-.54-.58l-.18-.36a1.24,1.24,0,0,1,.06-1.21,1.22,1.22,0,0,1,1.06-.6H9.8l.26-.77a2.49,2.49,0,0,1,2.37-1.73h5.14A2.51,2.51,0,0,1,20,10.89l.25.77h1.55a1.26,1.26,0,0,1,1.12,1.81Zm-14.31.17a3,3,0,0,1,.72-.36l.2-.62H8.25A.25.25,0,0,0,8,13l.18.36A.51.51,0,0,0,8.56,13.64Zm12.94,2a1.5,1.5,0,0,0-1.5-1.5H10a1.5,1.5,0,0,0-1.5,1.5v2.5h13v-2.5ZM10,19.16H8.5v.5a.5.5,0,0,0,.5.5h.5a.5.5,0,0,0,.5-.5Zm2.5-2.75c0,.38-.18,1-1.41,1h-.31a1.26,1.26,0,1,1,0-2.5A1.82,1.82,0,0,1,12.5,16.41Zm-.75,0c0-.3-.58-.75-1-.75s-.65.2-.65.5.26.5.65.5h.31C11.42,16.66,11.75,16.64,11.75,16.41Zm-1.38-3.25h9.26l-.64-2a1.49,1.49,0,0,0-1.42-1H12.43a1.49,1.49,0,0,0-1.42,1Zm10.25,3a1.28,1.28,0,0,1-1.4,1.25h-.31c-1.23,0-1.41-.62-1.41-1a1.82,1.82,0,0,1,1.72-1.5A1.29,1.29,0,0,1,20.62,16.16Zm-.74,0c0-.3-.26-.5-.66-.5s-1,.45-1,.75.33.25.66.25h.31C19.62,16.66,19.88,16.46,19.88,16.16Zm1.62,3H20v.5a.5.5,0,0,0,.5.5H21a.5.5,0,0,0,.5-.5ZM22,12.78a.25.25,0,0,0-.21-.12H20.52l.2.62a2.32,2.32,0,0,1,.72.36.51.51,0,0,0,.35-.25L22,13A.25.25,0,0,0,22,12.78Z"></path>
+                                    </svg> Automotive
+                                </li>
+                                <li>
+                                    <svg xmlns="http://www.w3.org/2000/svg" id="Layer_1" data-name="Layer 1" viewBox="0 0 30 30">
+                                        <path d="M23,10.66v3a1.5,1.5,0,0,1-1.5,1.5H15a.5.5,0,0,0-.5.5v1.5H15a1,1,0,0,1,1,1v4a1,1,0,0,1-1,1H13a1,1,0,0,1-1-1v-4a1,1,0,0,1,1-1h.5v-1.5a1.5,1.5,0,0,1,1.5-1.5h6.5a.5.5,0,0,0,.5-.5v-3a.5.5,0,0,0-.5-.5H20v.5a1.5,1.5,0,0,1-1.5,1.5H8.5A1.5,1.5,0,0,1,7,10.66v-2a1.5,1.5,0,0,1,1.5-1.5h10A1.5,1.5,0,0,1,20,8.66v.5h1.5A1.5,1.5,0,0,1,23,10.66Zm-4-2a.5.5,0,0,0-.5-.5H8.5a.5.5,0,0,0-.5.5v2a.5.5,0,0,0,.5.5h10a.5.5,0,0,0,.5-.5v-2Zm-4,9.5H13v4h2Z"></path>
+                                    </svg> E-commerce
+                                </li>
+                                <li>
+                                    <svg xmlns="http://www.w3.org/2000/svg" id="Layer_1" data-name="Layer 1" viewBox="0 0 30 30">
+                                        <path d="M24,10.51v1.15a.5.5,0,0,1-.5.5H6.5a.5.5,0,0,1-.5-.5V10.51A.56.56,0,0,1,6.32,10l8.33-2.81a.91.91,0,0,1,.7,0L23.68,10A.51.51,0,0,1,24,10.51Zm0,11.9v.5a.25.25,0,0,1-.25.25H6.25A.25.25,0,0,1,6,22.91v-.5a.25.25,0,0,1,.25-.25H7v-2a1.08,1.08,0,0,1,1.14-1H8.5v-6h1v6h3v-6h1v6h3v-6h1v6h3v-6h1v6h.36a1.08,1.08,0,0,1,1.14,1v2h.75A.25.25,0,0,1,24,22.41ZM23,10.87,15,8.16,7,10.87v.29H23ZM22,20.2a.29.29,0,0,0-.14,0H8.14a.29.29,0,0,0-.14,0v2H22Z"></path>
+                                    </svg> Governments
+                                </li>
+                            </ul>
+                        </div>
+                        <div class="col-6 col-md-4 col-lg-3 mt-3 mt-lg-0">
+                            <ul class="industries-point">
+                                <li>
+                                    <svg xmlns="http://www.w3.org/2000/svg" id="Layer_1" data-name="Layer 1" viewBox="0 0 30 30">
+                                        <path d="M17.5,19.66h-.41v1.85a1.65,1.65,0,0,1-1.65,1.65h-.88a1.65,1.65,0,0,1-1.65-1.65V19.66H12.5A1.5,1.5,0,0,1,11,17.82l1.25-5.14a1.73,1.73,0,0,1,.52-.83l.15-.1a2.75,2.75,0,1,1,4.08,0l.15.1a1.81,1.81,0,0,1,.52.83L19,17.82A1.5,1.5,0,0,1,17.5,19.66ZM18,18.05l-1.25-5.14a.53.53,0,0,0-.49-.38h-.39a3.58,3.58,0,0,1-.86.13,3.51,3.51,0,0,1-.86-.13h-.39a.53.53,0,0,0-.49.38L12,18.05a.5.5,0,0,0,.49.61h1.41v2.85a.65.65,0,0,0,.65.65h.88a.65.65,0,0,0,.65-.65V18.66H17.5A.5.5,0,0,0,18,18.05ZM13.25,9.91A1.75,1.75,0,1,0,15,8.16,1.75,1.75,0,0,0,13.25,9.91Z"></path>
+                                    </svg> Fashion
+                                </li>
+                                <li>
+                                    <svg xmlns="http://www.w3.org/2000/svg" id="Layer_1" data-name="Layer 1" viewBox="0 0 30 30">
+                                        <path d="M8,16.16h8v1H6a1,1,0,0,0,1,1h9v1H7a2,2,0,0,1-2-2v-.5a.5.5,0,0,1,.5-.5H7v-8a1,1,0,0,1,1-1H20a1,1,0,0,1,1,1v2H20v-2H8Zm17-4v10a1,1,0,0,1-1,1H18a1,1,0,0,1-1-1v-10a1,1,0,0,1,1-1h6A1,1,0,0,1,25,12.16Zm-1,0H18v10h6Z"></path>
+                                    </svg> Technology
+                                </li>
+                                <li>
+                                    <svg xmlns="http://www.w3.org/2000/svg" id="Layer_1" data-name="Layer 1" viewBox="0 0 30 30">
+                                        <path d="M25,16.16v2.5a.5.5,0,0,1-.5.5H23a3,3,0,0,1-6,0H13a3,3,0,0,1-6,0H5.5a.5.5,0,0,1-.5-.5v-3.5a2,2,0,0,1,2-2L8.5,9.42a2,2,0,0,1,1.85-1.26h6.19a2.27,2.27,0,0,1,1.56.75l3.4,4.25H22A3,3,0,0,1,25,16.16Zm-1,0a2,2,0,0,0-2-2H7a1,1,0,0,0-1,1v3H7.18a3,3,0,0,1,5.64,0h4.36a3,3,0,0,1,5.64,0H24Zm-12,3a2,2,0,1,0-2,2A2,2,0,0,0,12,19.16Zm-3.92-6H13v-4H10.35a1,1,0,0,0-.92.63Zm5.92,0h6.22l-2.9-3.62a1,1,0,0,0-.78-.38H14Zm8,6a2,2,0,1,0-2,2A2,2,0,0,0,22,19.16Z"></path>
+                                    </svg> Car Rental
+                                </li>
+                                <li>
+                                    <svg id="fi_2415292" enable-background="new 0 0 50 50" height="512" viewBox="0 0 50 50" width="512" xmlns="http://www.w3.org/2000/svg">
+                                        <g>
+                                            <path d="m48 38.2h-29.4l-1.1-4.1h24.1c.4 0 .8-.3.9-.6l6.5-16.3c.1-.3.1-.7-.1-.9-.2-.3-.5-.4-.8-.4h-4.5c-.6-7.2-6.5-12.8-13.7-12.8s0 0-.1 0c-7 0-13.1 5.4-13.6 12.8h-3.7l-3.4-12.5c-.1-.5-.5-.8-1-.8h-6.1c-.6 0-1 .4-1 1s.4 1 1 1h5.4l9.5 34.8c.1.4.5.7 1 .7h2c-.5.7-.8 1.6-.8 2.6 0 2.5 2.1 4.6 4.6 4.6s4.6-2.1 4.6-4.6c0-1-.3-1.8-.8-2.6h10.9c-.5.7-.8 1.6-.8 2.6 0 2.5 2.1 4.6 4.6 4.6s4.6-2.1 4.6-4.6c0-1-.3-1.8-.8-2.6h2c.6 0 1-.4 1-1s-.5-.9-1-.9zm-6.5-22.4h-4.2c0-1-.1-2.1-.3-3h3.8c.4.9.6 2 .7 3zm-4.5 5c.2-1 .3-2 .3-3h4.2c-.1 1.1-.3 2.1-.7 3zm2.9 2c-1.2 2.1-3.1 3.7-5.3 4.7.9-1.3 1.6-2.9 2-4.7zm0-12h-3.3c-.5-1.9-1.2-3.5-2-4.7 2.2.9 4.1 2.6 5.3 4.7zm-9-5.5c1.5.6 2.9 2.6 3.7 5.5h-3.7zm0 7.5h4.1c.2.9.3 1.9.3 3h-4.5v-3zm0 5h4.5c0 1.1-.2 2.1-.3 3h-4.1v-3zm0 5h3.7c-.8 2.9-2.2 4.9-3.7 5.5zm-2-17.5v5.5h-3.7c.8-2.9 2.2-4.9 3.7-5.5zm-4.2 15.5c-.2-.9-.3-2-.3-3h4.5v3zm4.2 2v5.5c-1.5-.6-2.9-2.6-3.7-5.5zm-5.8 0c.5 1.9 1.2 3.5 2 4.7-2.2-1-4.1-2.7-5.3-4.7zm-4.2-2c-.3-1-.6-2-.7-3h4.2c0 1 .1 2.1.3 3zm5.5-5c0-1.1.2-2.1.3-3h4.1v3zm.7-9.8c-.9 1.3-1.6 2.9-2 4.7h-3.3c1.2-2 3.1-3.7 5.3-4.7zm-6.2 6.8h3.8c-.2 1-.2 2-.3 3h-4.2c.1-1 .3-2.1.7-3zm-2 19.3-3.9-14.3h3.2c.5 7.3 6.6 12.7 13.6 12.8h.1c7 0 13.1-5.5 13.6-12.8h3l-5.7 14.3zm6.7 13.3c-1.4 0-2.6-1.2-2.6-2.6s1.2-2.6 2.6-2.6 2.6 1.2 2.6 2.6-1.2 2.6-2.6 2.6zm18.4 0c-1.4 0-2.6-1.2-2.6-2.6s1.2-2.6 2.6-2.6 2.6 1.2 2.6 2.6-1.1 2.6-2.6 2.6z"></path>
+                                        </g>
+                                    </svg> Sports
+                                </li>
+                                <li>
+                                    <svg xmlns="http://www.w3.org/2000/svg" id="Layer_1" data-name="Layer 1" viewBox="0 0 30 30">
+                                        <path d="M23,12.66a2,2,0,0,1-2,2H20v7.5a1,1,0,0,1-1,1H17a1,1,0,0,1-1-1v-3H13v3a1,1,0,0,1-1,1H10a1,1,0,0,1-1-1v-5a3.45,3.45,0,0,1,.42-1.5A2.53,2.53,0,0,1,7,13.16a.5.5,0,0,1,1,0,1.5,1.5,0,0,0,1.5,1.5h.85a3.54,3.54,0,0,1,1.65-.5h2.5L7.09,8A.28.28,0,0,1,7,7.8a.31.31,0,0,1,.06-.16l.32-.39a.28.28,0,0,1,.19-.09.31.31,0,0,1,.16.06L15.5,13.7v-5a.5.5,0,0,1,.5-.5h0a.56.56,0,0,1,.35.15l.86.85h2.17a1.11,1.11,0,0,1,.9.56l.22.44h2a.5.5,0,0,1,.5.5Zm-11,2.5a2,2,0,0,0-2,2v5h2v-4h3v-3Zm4,.08v2.92h1v4h2V16Zm3.88-4.08-.5-1H16.79l-.29-.29v4.47L19,15v-1.3h2a1,1,0,0,0,1-1v-1.5Zm-1.38.5a.5.5,0,0,1-.5-.5.5.5,0,0,1,1,0A.5.5,0,0,1,18.5,11.66Z"></path>
+                                    </svg> Animal Care
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="container">
+                <div class="row">
+                    <div class="col-12">
+                        <div class="d-flex justify-content-center wow fadeInUp mt-4" data-wow-delay=".7s">
+                            <div class="main-button">
+                                <a href="tel:+971551135229" class="theme-btn">
+                                    <span>Call Us</span>
+                                </a>
+                            </div>
+                            <div class="main-button">
+                                <a data-bs-toggle="modal" data-bs-target="#myModal" class="ms-3">
+                                    <span class="theme-btn">Schedule A Call</span>
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+    </div>
+    </section>
+    <!-- End Industries -->
+
+
+
+    <!-- gifs cards -->
+    <div class="container mt-5">
+        <div class="row ">
+
+            <div class="col-md-4 Our-Creative-Process mt-5">
+                <p>Our Creative</p>
+
+                <p style="color:#009291">Portfolio</p>
+            </div>
+            <div class="col-md-8 pb-5 ps-4">
+                <div class="row wow fadeInUp mt-5" data-wow-delay=".2s">
+                    <div class="col-12">
+                        <div class="gif-slider  owl-carousel owl-theme owl-loaded owl-drag">
+                            <div class="award-item" style="border: none;">
+                                <div class="item">
+                                    <div class="card">
+                                        <div class="card-body-gifs ">
+                                            <img src="assets/img/gifs/1.gif" class=" ">
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="award-item">
+                                <div class="item">
+                                    <div class="card">
+                                        <div class="card-body-gifs">
+                                            <img src="assets/img/gifs/2.gif" class=" ">
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="award-item">
+                                <div class="item">
+                                    <div class="card">
+                                        <div class="card-body-gifs">
+                                            <img src="assets/img/gifs/3.gif" class=" ">
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="award-item">
+                                <div class="item">
+                                    <div class="card">
+                                        <div class="card-body-gifs">
+                                            <img src="assets/img/gifs/4.gif" class=" ">
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="award-item">
+                                <div class="item">
+                                    <div class="card">
+                                        <div class="card-body-gifs">
+                                            <img src="assets/img/gifs/5.gif" class=" ">
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+
+
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+
+        </div>
     </div>
 
 
-    <!-- End Portfolio -->
 
-    <!-- Start Client -->
-    <section class="clients section-padding">
-        <div class="container">
-            <div class="section-title-area">
-                <div class="section-title">
-                    <div class="sub-title wow fadeInUp">
-                        <span>Clients</span>
-                    </div>
-                    <h2 class="wow fadeInUp" data-wow-delay=".3s">
-                        Some of Our Clients
-                    </h2>
-                </div>
-            </div>
-            <div class="row justify-content-center wow fadeInUp" data-wow-delay=".5s">
-                <div class="col-lg-12">
-                    <div class="client-logo set">
-                        <div class="row">
-                            <div class="col-lg-2 col-md-3 col-sm-4 col-6 mt-4">
-                                <div class="brand-logo hoshd">
-                                    <img src="assets/img/clients/icons-01.png" alt="Client Logo" class="img-fluid d-block mx-auto" width="auto" height="auto">
-                                </div>
-                            </div>
-                            <div class="col-lg-2 col-md-3 col-sm-4 col-6 mt-4">
-                                <div class="brand-logo hoshd">
-                                    <img src="assets/img/clients/icons-02.png" alt="Client Logo" class="img-fluid d-block mx-auto" width="auto" height="auto">
-                                </div>
-                            </div>
-                            <div class="col-lg-2 col-md-3 col-sm-4 col-6 mt-4">
-                                <div class="brand-logo hoshd">
-                                    <img src="assets/img/clients/icons-03.png" alt="Client Logo" class="img-fluid d-block mx-auto" width="auto" height="auto">
-                                </div>
-                            </div>
-                            <div class="col-lg-2 col-md-3 col-sm-4 col-6 mt-4">
-                                <div class="brand-logo hoshd">
-                                    <img src="assets/img/clients/icons-04.png" alt="Client Logo" class="img-fluid d-block mx-auto" width="auto" height="auto">
-                                </div>
-                            </div>
-                            <div class="col-lg-2 col-md-3 col-sm-4 col-6 mt-4">
-                                <div class="brand-logo hoshd">
-                                    <img src="assets/img/clients/icons-05.png" alt="Client Logo" class="img-fluid d-block mx-auto" width="auto" height="auto">
-                                </div>
-                            </div>
-                            <div class="col-lg-2 col-md-3 col-sm-4 col-6 mt-4">
-                                <div class="brand-logo hoshd">
-                                    <img src="assets/img/clients/icons-06.png" alt="Client Logo" class="img-fluid d-block mx-auto" width="auto" height="auto">
-                                </div>
-                            </div>
-                            <div class="col-lg-2 col-md-3 col-sm-4 col-6 mt-4">
-                                <div class="brand-logo hoshd">
-                                    <img src="assets/img/clients/icons-07.png" alt="Client Logo" class="img-fluid d-block mx-auto" width="auto" height="auto">
-                                </div>
-                            </div>
-                            <div class="col-lg-2 col-md-3 col-sm-4 col-6 mt-4">
-                                <div class="brand-logo hoshd">
-                                    <img src="assets/img/clients/icons-08.png" alt="Client Logo" class="img-fluid d-block mx-auto" width="auto" height="auto">
-                                </div>
-                            </div>
-                            <div class="col-lg-2 col-md-3 col-sm-4 col-6 mt-4">
-                                <div class="brand-logo hoshd">
-                                    <img src="assets/img/clients/icons-09.png" alt="Client Logo" class="img-fluid d-block mx-auto" width="auto" height="auto">
-                                </div>
-                            </div>
-                            <div class="col-lg-2 col-md-3 col-sm-4 col-6 mt-4">
-                                <div class="brand-logo hoshd">
-                                    <img src="assets/img/clients/icons-10.png" alt="Client Logo" class="img-fluid d-block mx-auto" width="auto" height="auto">
-                                </div>
-                            </div>
-                            <div class="col-lg-2 col-md-3 col-sm-4 col-6 mt-4">
-                                <div class="brand-logo hoshd">
-                                    <img src="assets/img/clients/icons-11.png" alt="Client Logo" class="img-fluid d-block mx-auto" width="auto" height="auto">
-                                </div>
-                            </div>
-                            <div class="col-lg-2 col-md-3 col-sm-4 col-6 mt-4">
-                                <div class="brand-logo hoshd">
-                                    <img src="assets/img/clients/icons-12.png" alt="Client Logo" class="img-fluid d-block mx-auto" width="auto" height="auto">
-                                </div>
-                            </div>
-                            <div class="col-lg-2 col-md-3 col-sm-4 col-6 mt-4">
-                                <div class="brand-logo hoshd">
-                                    <img src="assets/img/clients/icons-13.png" alt="Client Logo" class="img-fluid d-block mx-auto" width="auto" height="auto">
-                                </div>
-                            </div>
-                            <div class="col-lg-2 col-md-3 col-sm-4 col-6 mt-4">
-                                <div class="brand-logo hoshd">
-                                    <img src="assets/img/clients/icons-14.png" alt="Client Logo" class="img-fluid d-block mx-auto" width="auto" height="auto">
-                                </div>
-                            </div>
-                            <div class="col-lg-2 col-md-3 col-sm-4 col-6 mt-4">
-                                <div class="brand-logo hoshd">
-                                    <img src="assets/img/clients/icons-15.png" alt="Client Logo" class="img-fluid d-block mx-auto" width="auto" height="auto">
-                                </div>
-                            </div>
-                            <div class="col-lg-2 col-md-3 col-sm-4 col-6 mt-4">
-                                <div class="brand-logo hoshd">
-                                    <img src="assets/img/clients/icons-16.png" alt="Client Logo" class="img-fluid d-block mx-auto" width="auto" height="auto">
-                                </div>
-                            </div>
-                            <div class="col-lg-2 col-md-3 col-sm-4 col-6 mt-4">
-                                <div class="brand-logo hoshd">
-                                    <img src="assets/img/clients/icons-17.png" alt="Client Logo" class="img-fluid d-block mx-auto" width="auto" height="auto">
-                                </div>
-                            </div>
-                            <div class="col-lg-2 col-md-3 col-sm-4 col-6 mt-4">
-                                <div class="brand-logo hoshd">
-                                    <img src="assets/img/clients/icons-18.png" alt="Client Logo" class="img-fluid d-block mx-auto" width="auto" height="auto">
-                                </div>
-                            </div>
-                            <div class="col-lg-2 col-md-3 col-sm-4 col-6 mt-4">
-                                <div class="brand-logo hoshd">
-                                    <img src="assets/img/clients/icons-19.png" alt="Client Logo" class="img-fluid d-block mx-auto" width="auto" height="auto">
-                                </div>
-                            </div>
-                            <div class="col-lg-2 col-md-3 col-sm-4 col-6 mt-4">
-                                <div class="brand-logo hoshd">
-                                    <img src="assets/img/clients/icons-20.png" alt="Client Logo" class="img-fluid d-block mx-auto" width="auto" height="auto">
-                                </div>
-                            </div>
-                            <div class="col-lg-2 col-md-3 col-sm-4 col-6 mt-4">
-                                <div class="brand-logo hoshd">
-                                    <img src="assets/img/clients/icons-21.png" alt="Client Logo" class="img-fluid d-block mx-auto" width="auto" height="auto">
-                                </div>
-                            </div>
-                            <div class="col-lg-2 col-md-3 col-sm-4 col-6 mt-4">
-                                <div class="brand-logo hoshd">
-                                    <img src="assets/img/clients/icons-22.png" alt="Client Logo" class="img-fluid d-block mx-auto" width="auto" height="auto">
-                                </div>
-                            </div>
-                            <div class="col-lg-2 col-md-3 col-sm-4 col-6 mt-4">
-                                <div class="brand-logo hoshd">
-                                    <img src="assets/img/clients/icons-23.png" alt="Client Logo" class="img-fluid d-block mx-auto" width="auto" height="auto">
-                                </div>
-                            </div>
-                            <div class="col-lg-2 col-md-3 col-sm-4 col-6 mt-4">
-                                <div class="brand-logo hoshd">
-                                    <img src="assets/img/clients/icons-24.png" alt="Client Logo" class="img-fluid d-block mx-auto" width="auto" height="auto">
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section>
-    <!-- End Client -->
-  
-    <!-- Start Industries -->
-    <section class="case-study-section fix section-padding">
-        <div class="overlay-shape">
-            <img src="assets/img/case-studies/overlay-shape.png" alt="img">
-        </div>
-        <div class="left-shape float-bob-x">
-            <img src="assets/img/case-studies/left-shape.png" alt="img">
-        </div>
-        <div class="right-shape float-bob-x">
-            <img src="assets/img/case-studies/right-shaape.png" alt="img">
-        </div>
-        <div class="container">
-            <div class="section-title-area">
-                <div class="section-title">
-                    <div class="sub-title wow fadeInUp">
-                        <span>Industries We Serve</span>
-                    </div>
-                    <h2 class="wow fadeInUp" data-wow-delay=".3s">Digital Marketing Solutions for Every Industry</h2>
-                </div>
-            </div>
-            <p class="mt-3 mt-md-0 wow fadeInUp" data-wow-delay=".5s">At <b>AppsNation</b>, we help businesses of all sizes and sectors grow online. From startups to established brands, our <b>AI-driven digital marketing services</b> deliver results across multiple industries.</p>
-            <div class="industries wow fadeInUp mt-4" data-wow-delay="0.7s">
-                <div class="row">
-                    <div class="col-6 col-md-4 col-lg-3">
-                        <ul class="industries-point">
-                            <li>
-                                <svg xmlns="http://www.w3.org/2000/svg" id="Layer_1" data-name="Layer 1" viewBox="0 0 30 30">
-                                    <path d="M9.12,16.27a1.22,1.22,0,0,0-.5-.11H7.38A1.45,1.45,0,0,0,6,17.66a.5.5,0,0,1-1,0,2.45,2.45,0,0,1,2.38-2.5H8.62a2.22,2.22,0,0,1,1.29.41A4,4,0,0,0,9.12,16.27ZM5.5,11.66A2.5,2.5,0,1,1,8,14.16,2.5,2.5,0,0,1,5.5,11.66Zm1,0A1.5,1.5,0,1,0,8,10.16,1.5,1.5,0,0,0,6.5,11.66Zm9.17,9.5a5.82,5.82,0,0,0,1.36,1H10.5A1.5,1.5,0,0,1,9,20.66v-1.4a3.58,3.58,0,0,1,.61-2,3.46,3.46,0,0,1,2.88-1.46,4.34,4.34,0,0,1,1.29.21,4.54,4.54,0,0,0,0,1,5.15,5.15,0,0,0-1.28-.22,2.44,2.44,0,0,0-2.05,1A2.6,2.6,0,0,0,10,19.26v1.4a.5.5,0,0,0,.5.5Zm-4.17-9.5a3.49,3.49,0,0,1,6.83-1,5.28,5.28,0,0,0-.94.34,2.49,2.49,0,1,0-3.07,3.07A5.83,5.83,0,0,0,14,15,3.5,3.5,0,0,1,11.5,11.66ZM25,18.21a5.36,5.36,0,0,1-1.14,2,.73.73,0,0,1-.9.13L22.4,20a4.76,4.76,0,0,1-.69.4V21a.73.73,0,0,1-.57.71,5.45,5.45,0,0,1-1.14.12,5.54,5.54,0,0,1-1.15-.12.74.74,0,0,1-.57-.71v-.59a4.76,4.76,0,0,1-.69-.4l-.51.29a.74.74,0,0,1-.91-.13,5.36,5.36,0,0,1-1.14-2,.73.73,0,0,1,.33-.85l.52-.29a3.57,3.57,0,0,1,0-.8l-.52-.3a.72.72,0,0,1-.33-.85,5.24,5.24,0,0,1,1.14-2,.73.73,0,0,1,.9-.14l.52.3a3.65,3.65,0,0,1,.69-.4v-.6a.72.72,0,0,1,.57-.7,5.21,5.21,0,0,1,2.29,0,.71.71,0,0,1,.57.7v.6a4,4,0,0,1,.69.4l.52-.3a.73.73,0,0,1,.9.14,5.26,5.26,0,0,1,1.15,2,.74.74,0,0,1-.33.85l-.52.29a5.34,5.34,0,0,1,0,.8l.51.3A.72.72,0,0,1,25,18.21ZM23,15.74l.92-.53A4.2,4.2,0,0,0,23.23,14l-.92.53a3.51,3.51,0,0,0-1.6-.92V12.52a4.83,4.83,0,0,0-1.42,0v1.07a3.58,3.58,0,0,0-1.6.92L16.77,14a4.2,4.2,0,0,0-.71,1.23l.92.53a3.74,3.74,0,0,0,0,1.85l-.92.53a4.33,4.33,0,0,0,.71,1.23l.92-.53a3.51,3.51,0,0,0,1.6.92V20.8a3.77,3.77,0,0,0,1.42,0V19.74a3.58,3.58,0,0,0,1.6-.92l.92.53a4.43,4.43,0,0,0,.71-1.23L23,17.59A3.74,3.74,0,0,0,23,15.74Zm-1,.92a2,2,0,1,1-2-2A2,2,0,0,1,22,16.66Zm-1,0a1,1,0,1,0-1,1A1,1,0,0,0,21,16.66Z"></path>
-                                </svg> Engineering
-                            </li>
-                            <li>
-                                <svg xmlns="http://www.w3.org/2000/svg" id="Layer_1" data-name="Layer 1" viewBox="0 0 30 30">
-                                    <path d="M25,21.67a1.73,1.73,0,0,1-.18.7,1.68,1.68,0,0,1-1.35.79H6.53a1.68,1.68,0,0,1-1.35-.79,1.45,1.45,0,0,1,.06-1.5l8.47-13a1.6,1.6,0,0,1,2.58,0l8.47,13.05A1.74,1.74,0,0,1,25,21.67Zm-1,0a.61.61,0,0,0-.08-.26l-8.46-13a.56.56,0,0,0-.92,0L6.08,21.41a.45.45,0,0,0,0,.48.57.57,0,0,0,.46.27h17a.57.57,0,0,0,.46-.27A.6.6,0,0,0,24,21.67Zm-9.5-2h0v1a.5.5,0,0,1-1,0v-1l-1.45-.94-.57,2.1a.53.53,0,0,1-.48.37h0l-.13,0a.53.53,0,0,1-.37-.48.51.51,0,0,1,0-.13l.93-3.42L14,18.79A1.09,1.09,0,0,1,14.5,19.63Zm7.22.76a.65.65,0,0,1,.08.27.5.5,0,0,1-.5.5H15.5L16,19.83a.65.65,0,0,1,.56-.39h.68L15,18.08h0l-3.25-2a.56.56,0,0,1-.24-.42.6.6,0,0,1,.1-.3l.36-.49a1.7,1.7,0,0,1,1.2-.6,1.84,1.84,0,0,1,.33,0l.77.23a1.5,1.5,0,0,1,1.11,1.17l.33,1.65,2.48,1.53.89-1.33a.46.46,0,0,1,.18-.16l.23-.06h0a.75.75,0,0,1,.16,0,.36.36,0,0,1,.26.19Zm-7.19-3.77-.14-.74A.5.5,0,0,0,14,15.5H14l-.73-.21h-.08a.57.57,0,0,0-.4.2l0,0ZM13.75,13h0a.88.88,0,1,1,.88.88h0A.87.87,0,0,1,13.75,13Zm6.63,7.15-.91-1.42L18.63,20l-.11.16Z"></path>
-                                </svg> Construction
-                            </li>
-                            <li>
-                                <svg xmlns="http://www.w3.org/2000/svg" id="Layer_1" data-name="Layer 1" viewBox="0 0 30 30">
-                                    <path d="M12.21,22.16a3.84,3.84,0,0,0,.63,1H8a1,1,0,0,1-1-.92l-1-10v-.06H5.25A.25.25,0,0,1,5,11.91v-.5a.25.25,0,0,1,.25-.25h5.36l.81-3.24a1,1,0,0,1,1-.76h1.36a.25.25,0,0,1,.25.25v.5a.25.25,0,0,1-.25.25H12.39l-.75,3h4.11a.25.25,0,0,1,.25.25v.5a.25.25,0,0,1-.25.25H7l1,10Zm12.36-2.11A1.52,1.52,0,0,1,25,21a2.13,2.13,0,0,1-2.13,2.12H15.12A2.12,2.12,0,0,1,13,21a1.52,1.52,0,0,1,.43-1A2,2,0,0,1,13,18.91a2,2,0,0,1,.58-1.29A2.06,2.06,0,0,1,13,16.28a2.11,2.11,0,0,1,.36-1.08A7,7,0,0,1,19,12.66a7,7,0,0,1,5.65,2.54A2.19,2.19,0,0,1,25,16.28a2.1,2.1,0,0,1-.58,1.34A2,2,0,0,1,25,18.91,2,2,0,0,1,24.57,20.05Zm-9.68-2.89h8.22a.87.87,0,0,0,.72-1.38A6,6,0,0,0,19,13.66a6.05,6.05,0,0,0-4.84,2.12A.88.88,0,0,0,14.89,17.16ZM24,18.91a.76.76,0,0,0-.75-.75h-8.5a.75.75,0,1,0,0,1.5h8.5A.75.75,0,0,0,24,18.91ZM24,21a.38.38,0,0,0-.38-.38H14.37A.38.38,0,0,0,14,21a1.12,1.12,0,0,0,1.12,1.12h7.75A1.13,1.13,0,0,0,24,21Zm-8-5.38a.5.5,0,0,1,.5-.5.51.51,0,0,1,.5.5.5.5,0,0,1-.5.5A.5.5,0,0,1,16,15.66Zm2.5-.5a.5.5,0,0,1,.5-.5.51.51,0,0,1,.5.5.5.5,0,0,1-.5.5A.5.5,0,0,1,18.5,15.16Zm2.5.5a.5.5,0,0,1,.5-.5.51.51,0,0,1,.5.5.5.5,0,0,1-.5.5A.5.5,0,0,1,21,15.66Z"></path>
-                                </svg> Food &amp; Beverage
-                            </li>
-                            <li>
-                                <svg xmlns="http://www.w3.org/2000/svg" id="Layer_1" data-name="Layer 1" viewBox="0 0 30 30">
-                                    <path d="M13.2,16.77a4,4,0,0,1,.8,2.4v3.75a.25.25,0,0,1-.25.25h-.5a.25.25,0,0,1-.25-.25V19.17a3,3,0,0,0-.61-1.82l-1.32-1.82a.5.5,0,0,0-.81.59l1,1.32,0,0C12,18.7,10.17,20.17,9,18.79L7,16.36V11.69a.5.5,0,1,0-1,0V17a.51.51,0,0,0,.11.31l3.34,4.18A2.77,2.77,0,0,1,10,22.89a.25.25,0,0,1-.25.27h-.5A.24.24,0,0,1,9,23a1.86,1.86,0,0,0-.32-.85L5.33,17.93A1.48,1.48,0,0,1,5,17V11.66a1.49,1.49,0,0,1,1.52-1.49A1.55,1.55,0,0,1,8,11.72V16l1.94,2.3a.27.27,0,0,0,.42-.34l-.89-1.23a1.52,1.52,0,0,1,.07-1.91,1.5,1.5,0,0,1,2.33.12Zm5.6-5.35L15.39,15a.54.54,0,0,1-.79,0l-3.4-3.57a2.59,2.59,0,0,1,.17-3.71,2.18,2.18,0,0,1,1.45-.55,2.61,2.61,0,0,1,1.83.8l.35.36L15.34,8a2.64,2.64,0,0,1,1.83-.79,2.16,2.16,0,0,1,1.45.55A2.58,2.58,0,0,1,18.8,11.42ZM18,8.47a1.22,1.22,0,0,0-.82-.31,1.61,1.61,0,0,0-1.11.49L15,9.75,14,8.65a1.61,1.61,0,0,0-1.12-.48,1.19,1.19,0,0,0-.82.31,1.58,1.58,0,0,0-.11,2.25L15,14l3.09-3.24A1.58,1.58,0,0,0,18,8.47ZM25,17a1.43,1.43,0,0,1-.33.93L21.33,22.1A1.82,1.82,0,0,0,21,23a.24.24,0,0,1-.25.21h-.5a.25.25,0,0,1-.25-.27,2.77,2.77,0,0,1,.54-1.41l3.34-4.18A.51.51,0,0,0,24,17V11.66a.5.5,0,1,0-1,0v4.68l-2,2.42c-1.15,1.39-3-.08-2.21-1.32,0,0,0,0,0,0l.95-1.32a.48.48,0,0,0-.11-.69.49.49,0,0,0-.7.11l-1.32,1.82A3,3,0,0,0,17,19.16v3.75a.25.25,0,0,1-.25.25h-.5a.25.25,0,0,1-.25-.25V19.16a4,4,0,0,1,.8-2.4l1.32-1.82a1.51,1.51,0,0,1,2.33-.13,1.52,1.52,0,0,1,.08,1.92L19.64,18a.27.27,0,0,0,.42.33L22,16V11.72a1.56,1.56,0,0,1,1.47-1.56A1.51,1.51,0,0,1,25,11.66Z"></path>
-                                </svg> Health Care
-                            </li>
-                            <li>
-                                <svg xmlns="http://www.w3.org/2000/svg" id="Layer_1" data-name="Layer 1" viewBox="0 0 30 30">
-                                    <path d="M13.75,18.36a3.43,3.43,0,0,0,.48.93l-3.18,3.18a2.39,2.39,0,0,1-3.36,0,2.39,2.39,0,0,1,0-3.36l4.57-4.57.71.71L8.4,19.82a1.38,1.38,0,0,0,0,1.94,1.4,1.4,0,0,0,1.94,0Zm9,2.39-2.12,2.12a1,1,0,0,1-1.42,0L15.28,19A2.49,2.49,0,0,1,15,15.84l-2.68-2.68H10l-3-4,2-2,4,3v2.3l2.67,2.67a2.48,2.48,0,0,1,3.15.32l3.89,3.89A1,1,0,0,1,22.71,20.75ZM12,10.66,9.09,8.49l-.77.77,2.18,2.9H12v-1.5Zm-2.5,9.5a.51.51,0,0,1,.5.5.5.5,0,0,1-1,0A.51.51,0,0,1,9.5,20.16Zm5.19-7.43L14,12V9.92a4.67,4.67,0,0,1,5.42-2.61.84.84,0,0,1,.61.6.86.86,0,0,1-.22.83l-2,2,.23,1.38,1.38.23,2-2a.87.87,0,0,1,.84-.22.88.88,0,0,1,.6.61,4.7,4.7,0,0,1-1.24,4.48,4.61,4.61,0,0,1-.91.7L20,15.19a3.88,3.88,0,0,0,.94-.68,3.66,3.66,0,0,0,1-3.26l-2.16,2.16L17.18,13l-.43-2.59,2.17-2.17a3.68,3.68,0,0,0-4.23,4.51ZM22,20l-3.89-3.89a1.5,1.5,0,0,0-2.12,0,1.52,1.52,0,0,0-.44,1.06A1.5,1.5,0,0,0,16,18.27l3.89,3.89Z"></path>
-                                </svg> Facility Management
-                            </li>
-                        </ul>
-                    </div>
-                    <div class="col-6 col-md-4 col-lg-3">
-                        <ul class="industries-point">
-                            <li>
-                                <svg xmlns="http://www.w3.org/2000/svg" id="Layer_1" data-name="Layer 1" viewBox="0 0 30 30">
-                                    <path d="M11,22.66a.5.5,0,0,1-1,0,1.45,1.45,0,0,0-1.38-1.5H7.38A1.45,1.45,0,0,0,6,22.66a.5.5,0,0,1-1,0,2.45,2.45,0,0,1,2.38-2.5H8.62A2.45,2.45,0,0,1,11,22.66Zm-5.5-6A2.5,2.5,0,1,1,8,19.16,2.5,2.5,0,0,1,5.5,16.66ZM7,13.33a3.53,3.53,0,0,0-1,.47V8.66a1.5,1.5,0,0,1,1.5-1.5h15A1.5,1.5,0,0,1,24,8.66V13.8a3.53,3.53,0,0,0-1-.47V8.66a.5.5,0,0,0-.5-.5H7.5a.5.5,0,0,0-.5.5Zm-.5,3.33A1.5,1.5,0,1,0,8,15.16,1.5,1.5,0,0,0,6.5,16.66Zm11.5,6a.5.5,0,0,1-1,0,1.45,1.45,0,0,0-1.38-1.5H14.38A1.45,1.45,0,0,0,13,22.66a.5.5,0,0,1-1,0,2.45,2.45,0,0,1,2.38-2.5h1.24A2.45,2.45,0,0,1,18,22.66Zm-3-8.5a2.5,2.5,0,1,1-2.5,2.5A2.5,2.5,0,0,1,15,14.16Zm0,1a1.5,1.5,0,1,0,1.5,1.5A1.5,1.5,0,0,0,15,15.16Zm10,7.5a.5.5,0,0,1-1,0,1.45,1.45,0,0,0-1.38-1.5H21.38A1.45,1.45,0,0,0,20,22.66a.5.5,0,0,1-1,0,2.45,2.45,0,0,1,2.38-2.5h1.24A2.45,2.45,0,0,1,25,22.66Zm-.5-6a2.5,2.5,0,1,1-2.5-2.5A2.49,2.49,0,0,1,24.5,16.66Zm-1,0a1.5,1.5,0,1,0-1.5,1.5A1.5,1.5,0,0,0,23.5,16.66Z"></path>
-                                </svg> Human Resource
-                            </li>
-                            <li>
-                                <svg xmlns="http://www.w3.org/2000/svg" id="Layer_1" data-name="Layer 1" viewBox="0 0 30 30">
-                                    <path d="M23,20a3.28,3.28,0,0,1-3.43,3.12H10.43A3.28,3.28,0,0,1,7,20c0-.61-.29-5.36,5.53-9.07L11.17,8.72A1,1,0,0,1,12,7.16h6a1,1,0,0,1,.83,1.56L17.47,11C23.26,14.66,23,19.44,23,20ZM22,20c0-1.88-.64-5.43-5.28-8.29H13.28C8.63,14.53,8,18.06,8,19.93V20a2.29,2.29,0,0,0,2.43,2.12h9.14A2.29,2.29,0,0,0,22,20Zm-8.46-9.29h2.92L18,8.16H12ZM17,18.33a1.51,1.51,0,0,1-1.46,1.52v.54a.27.27,0,0,1-.27.27h-.54a.27.27,0,0,1-.27-.27v-.54a2.28,2.28,0,0,1-1.07-.39.27.27,0,0,1-.11-.21.28.28,0,0,1,.09-.19l.4-.38a.32.32,0,0,1,.19-.07.3.3,0,0,1,.15.05,1,1,0,0,0,.44.12h.95a.43.43,0,0,0,.41-.44.45.45,0,0,0-.3-.43l-1.53-.45A1.52,1.52,0,0,1,13,16a1.51,1.51,0,0,1,1.45-1.52v-.55a.28.28,0,0,1,.27-.27h.55a.27.27,0,0,1,.27.27v.55a2.42,2.42,0,0,1,1.07.38.3.3,0,0,1,.1.22.33.33,0,0,1-.08.19l-.4.38a.32.32,0,0,1-.19.07.3.3,0,0,1-.15-.05,1.11,1.11,0,0,0-.44-.12H14.5a.42.42,0,0,0-.4.44.44.44,0,0,0,.29.43l1.54.45A1.53,1.53,0,0,1,17,18.33Z"></path>
-                                </svg> Banking &amp; Finance
-                            </li>
-                            <li>
-                                <svg xmlns="http://www.w3.org/2000/svg" id="Layer_1" data-name="Layer 1" viewBox="0 0 30 30">
-                                    <path d="M23,14.52a.31.31,0,0,1-.06.16l-.31.39a.29.29,0,0,1-.2.09.28.28,0,0,1-.15-.06l-1.28-1v7.59a.5.5,0,0,1-.5.5h-4a.5.5,0,0,1-.5-.5v-4H14v4a.5.5,0,0,1-.5.5h-4a.5.5,0,0,1-.5-.5V14.06l-1.28,1a.25.25,0,0,1-.15.06.26.26,0,0,1-.2-.1l-.31-.38A.31.31,0,0,1,7,14.52a.26.26,0,0,1,.09-.19l7.28-5.94A1.09,1.09,0,0,1,15,8.17a1.12,1.12,0,0,1,.63.22l7.28,5.94A.26.26,0,0,1,23,14.52Zm-3-1.28L15,9.16l-5,4.08v7.92h3v-4a.5.5,0,0,1,.5-.5h3a.5.5,0,0,1,.5.5v4h3Z"></path>
-                                </svg> Real Estate
-                            </li>
-                            <li>
-                                <svg xmlns="http://www.w3.org/2000/svg" id="Layer_1" data-name="Layer 1" viewBox="0 0 30 30">
-                                    <path d="M9,20.16A4,4,0,0,1,5,16.5a1,1,0,0,1,.17-.61l3.41-5.5a.5.5,0,0,1,.84,0l3.41,5.5a1,1,0,0,1,.17.61A4,4,0,0,1,9,20.16Zm0-1a3,3,0,0,0,2.83-2H6.16A3,3,0,0,0,9,19.16Zm-2.82-3h5.66L9,11.61ZM22,22.41v.5a.25.25,0,0,1-.25.25H8.25A.25.25,0,0,1,8,22.91v-.5a.25.25,0,0,1,.25-.25H14.5V11.09A2,2,0,0,1,13,9.16H8.25A.25.25,0,0,1,8,8.91v-.5a.25.25,0,0,1,.25-.25h5a1.76,1.76,0,0,1,.6-.65,2,2,0,0,1,2.24,0,1.76,1.76,0,0,1,.6.65h5a.25.25,0,0,1,.25.25v.5a.25.25,0,0,1-.25.25H17a2,2,0,0,1-1.5,1.93V22.16h6.25A.25.25,0,0,1,22,22.41ZM15,10.16a1,1,0,1,0-1-1A1,1,0,0,0,15,10.16ZM25,16.5a4,4,0,0,1-8,0,1,1,0,0,1,.17-.61l3.41-5.5a.5.5,0,0,1,.84,0l3.41,5.5A1,1,0,0,1,25,16.5Zm-1.17.66H18.16a3,3,0,0,0,5.67,0Zm0-1L21,11.61l-2.82,4.55Z"></path>
-                                </svg> Law Firm
-                            </li>
-                            <li>
-                                <svg xmlns="http://www.w3.org/2000/svg" id="Layer_1" data-name="Layer 1" viewBox="0 0 30 30">
-                                    <path d="M23,12.66v8a1.5,1.5,0,0,1-1.5,1.5H8.5A1.5,1.5,0,0,1,7,20.66v-8a1.5,1.5,0,0,1,1.5-1.5H12V8.91a.76.76,0,0,1,.75-.75h4.5a.75.75,0,0,1,.75.75v2.25h3.5A1.5,1.5,0,0,1,23,12.66Zm-1,0a.5.5,0,0,0-.5-.5H8.5a.5.5,0,0,0-.5.5v2.5H22Zm0,3.5H17v1.25a.75.75,0,0,1-.75.75h-2.5a.75.75,0,0,1-.75-.75V16.16H8v4.5a.5.5,0,0,0,.5.5h13a.5.5,0,0,0,.5-.5Zm-9-5h4v-2H13Zm3,6v-1H14v1Z"></path>
-                                </svg> Business Setup
-                            </li>
-                        </ul>
-                    </div>
-                    <div class="col-6 col-md-4 col-lg-3 mt-3 mt-md-0">
-                        <ul class="industries-point">
-                            <li>
-                                <svg xmlns="http://www.w3.org/2000/svg" id="Layer_1" data-name="Layer 1" viewBox="0 0 30 30">
-                                    <path d="M24,15.16c0,1.48-2,2-3.55,2H17.06l-1,2a.38.38,0,0,1,.37.38v1.25a.37.37,0,0,1-.38.37H15l-.83,1.59a.86.86,0,0,1-.73.41H11.7a.86.86,0,0,1-.83-1l.88-5c-.65,0-1.28-.09-1.84-.16l-1,1.81a.88.88,0,0,1-.73.41H6.93a.86.86,0,0,1-.84-1l.42-2.09A1.15,1.15,0,0,1,6,15.16a1.14,1.14,0,0,1,.51-.9l-.42-2.09a.86.86,0,0,1,.84-1H8.18a.88.88,0,0,1,.73.41v0l1,1.79c.56-.07,1.19-.13,1.84-.16l-.88-5a.86.86,0,0,1,.83-1.05h1.7a.86.86,0,0,1,.74.44L15,9.16h1a.38.38,0,0,1,.38.38v1.25a.38.38,0,0,1-.37.37l1,2h3.39C21.94,13.17,24,13.68,24,15.16Zm-1,0c0-.65-1.53-1-2.55-1h-4l-3.13-6H11.88l1,6a24.26,24.26,0,0,0-3.55.29L8.09,12.15h-1l.61,3-.61,3h1l1.29-2.31a23.93,23.93,0,0,0,3.55.29l-1,6h1.43l3.13-6h4C21.25,16.15,23,15.89,23,15.16Z"></path>
-                                </svg> Travel &amp; Tourism
-                            </li>
-                            <li>
-                                <svg xmlns="http://www.w3.org/2000/svg" id="Layer_1" data-name="Layer 1" viewBox="0 0 30 30">
-                                    <path d="M25,20.41v.5a.25.25,0,0,1-.25.25H21.91a1.7,1.7,0,0,1,.09.5,1.5,1.5,0,0,1-3,0,1.7,1.7,0,0,1,.09-.5H12.91a1.7,1.7,0,0,1,.09.5,1.5,1.5,0,0,1-3,0,1.7,1.7,0,0,1,.09-.5H8.25A.25.25,0,0,1,8,20.91V8.16H5.25A.25.25,0,0,1,5,7.91v-.5a.25.25,0,0,1,.25-.25h3.5A.25.25,0,0,1,9,7.41V20.16H24.75A.25.25,0,0,1,25,20.41ZM11,17.16v-6a1,1,0,0,1,1-1h2V8.66a1.5,1.5,0,0,1,1.5-1.5h3A1.5,1.5,0,0,1,20,8.66v1.5h2a1,1,0,0,1,1,1v6a1,1,0,0,1-1,1H12A1,1,0,0,1,11,17.16Zm1,4.5a.5.5,0,1,0-1,0,.5.5,0,0,0,1,0Zm0-4.5h2v-6H12Zm3-7h4V8.66a.5.5,0,0,0-.5-.5h-3a.5.5,0,0,0-.5.5Zm0,7h4v-6H15Zm5,0h2v-6H20Zm1,4.5a.5.5,0,1,0-1,0,.5.5,0,0,0,1,0Z"></path>
-                                </svg> Hospitality
-                            </li>
-                            <li>
-                                <svg xmlns="http://www.w3.org/2000/svg" id="Layer_1" data-name="Layer 1" viewBox="0 0 30 30">
-                                    <path d="M22.87,13.47l-.18.36a1.49,1.49,0,0,1-.53.58,2.54,2.54,0,0,1,.34,1.25v4a1.5,1.5,0,0,1-1.5,1.5h-.5a1.5,1.5,0,0,1-1.5-1.5v-.5H11v.5a1.5,1.5,0,0,1-1.5,1.5H9a1.5,1.5,0,0,1-1.5-1.5v-4a2.45,2.45,0,0,1,.35-1.25,1.38,1.38,0,0,1-.54-.58l-.18-.36a1.24,1.24,0,0,1,.06-1.21,1.22,1.22,0,0,1,1.06-.6H9.8l.26-.77a2.49,2.49,0,0,1,2.37-1.73h5.14A2.51,2.51,0,0,1,20,10.89l.25.77h1.55a1.26,1.26,0,0,1,1.12,1.81Zm-14.31.17a3,3,0,0,1,.72-.36l.2-.62H8.25A.25.25,0,0,0,8,13l.18.36A.51.51,0,0,0,8.56,13.64Zm12.94,2a1.5,1.5,0,0,0-1.5-1.5H10a1.5,1.5,0,0,0-1.5,1.5v2.5h13v-2.5ZM10,19.16H8.5v.5a.5.5,0,0,0,.5.5h.5a.5.5,0,0,0,.5-.5Zm2.5-2.75c0,.38-.18,1-1.41,1h-.31a1.26,1.26,0,1,1,0-2.5A1.82,1.82,0,0,1,12.5,16.41Zm-.75,0c0-.3-.58-.75-1-.75s-.65.2-.65.5.26.5.65.5h.31C11.42,16.66,11.75,16.64,11.75,16.41Zm-1.38-3.25h9.26l-.64-2a1.49,1.49,0,0,0-1.42-1H12.43a1.49,1.49,0,0,0-1.42,1Zm10.25,3a1.28,1.28,0,0,1-1.4,1.25h-.31c-1.23,0-1.41-.62-1.41-1a1.82,1.82,0,0,1,1.72-1.5A1.29,1.29,0,0,1,20.62,16.16Zm-.74,0c0-.3-.26-.5-.66-.5s-1,.45-1,.75.33.25.66.25h.31C19.62,16.66,19.88,16.46,19.88,16.16Zm1.62,3H20v.5a.5.5,0,0,0,.5.5H21a.5.5,0,0,0,.5-.5ZM22,12.78a.25.25,0,0,0-.21-.12H20.52l.2.62a2.32,2.32,0,0,1,.72.36.51.51,0,0,0,.35-.25L22,13A.25.25,0,0,0,22,12.78Z"></path>
-                                </svg> Automotive
-                            </li>
-                            <li>
-                                <svg xmlns="http://www.w3.org/2000/svg" id="Layer_1" data-name="Layer 1" viewBox="0 0 30 30">
-                                    <path d="M23,10.66v3a1.5,1.5,0,0,1-1.5,1.5H15a.5.5,0,0,0-.5.5v1.5H15a1,1,0,0,1,1,1v4a1,1,0,0,1-1,1H13a1,1,0,0,1-1-1v-4a1,1,0,0,1,1-1h.5v-1.5a1.5,1.5,0,0,1,1.5-1.5h6.5a.5.5,0,0,0,.5-.5v-3a.5.5,0,0,0-.5-.5H20v.5a1.5,1.5,0,0,1-1.5,1.5H8.5A1.5,1.5,0,0,1,7,10.66v-2a1.5,1.5,0,0,1,1.5-1.5h10A1.5,1.5,0,0,1,20,8.66v.5h1.5A1.5,1.5,0,0,1,23,10.66Zm-4-2a.5.5,0,0,0-.5-.5H8.5a.5.5,0,0,0-.5.5v2a.5.5,0,0,0,.5.5h10a.5.5,0,0,0,.5-.5v-2Zm-4,9.5H13v4h2Z"></path>
-                                </svg> E-commerce
-                            </li>
-                            <li>
-                                <svg xmlns="http://www.w3.org/2000/svg" id="Layer_1" data-name="Layer 1" viewBox="0 0 30 30">
-                                    <path d="M24,10.51v1.15a.5.5,0,0,1-.5.5H6.5a.5.5,0,0,1-.5-.5V10.51A.56.56,0,0,1,6.32,10l8.33-2.81a.91.91,0,0,1,.7,0L23.68,10A.51.51,0,0,1,24,10.51Zm0,11.9v.5a.25.25,0,0,1-.25.25H6.25A.25.25,0,0,1,6,22.91v-.5a.25.25,0,0,1,.25-.25H7v-2a1.08,1.08,0,0,1,1.14-1H8.5v-6h1v6h3v-6h1v6h3v-6h1v6h3v-6h1v6h.36a1.08,1.08,0,0,1,1.14,1v2h.75A.25.25,0,0,1,24,22.41ZM23,10.87,15,8.16,7,10.87v.29H23ZM22,20.2a.29.29,0,0,0-.14,0H8.14a.29.29,0,0,0-.14,0v2H22Z"></path>
-                                </svg> Governments
-                            </li>
-                        </ul>
-                    </div>
-                    <div class="col-6 col-md-4 col-lg-3 mt-3 mt-lg-0">
-                        <ul class="industries-point">
-                            <li>
-                                <svg xmlns="http://www.w3.org/2000/svg" id="Layer_1" data-name="Layer 1" viewBox="0 0 30 30">
-                                    <path d="M17.5,19.66h-.41v1.85a1.65,1.65,0,0,1-1.65,1.65h-.88a1.65,1.65,0,0,1-1.65-1.65V19.66H12.5A1.5,1.5,0,0,1,11,17.82l1.25-5.14a1.73,1.73,0,0,1,.52-.83l.15-.1a2.75,2.75,0,1,1,4.08,0l.15.1a1.81,1.81,0,0,1,.52.83L19,17.82A1.5,1.5,0,0,1,17.5,19.66ZM18,18.05l-1.25-5.14a.53.53,0,0,0-.49-.38h-.39a3.58,3.58,0,0,1-.86.13,3.51,3.51,0,0,1-.86-.13h-.39a.53.53,0,0,0-.49.38L12,18.05a.5.5,0,0,0,.49.61h1.41v2.85a.65.65,0,0,0,.65.65h.88a.65.65,0,0,0,.65-.65V18.66H17.5A.5.5,0,0,0,18,18.05ZM13.25,9.91A1.75,1.75,0,1,0,15,8.16,1.75,1.75,0,0,0,13.25,9.91Z"></path>
-                                </svg> Fashion
-                            </li>
-                            <li>
-                                <svg xmlns="http://www.w3.org/2000/svg" id="Layer_1" data-name="Layer 1" viewBox="0 0 30 30">
-                                    <path d="M8,16.16h8v1H6a1,1,0,0,0,1,1h9v1H7a2,2,0,0,1-2-2v-.5a.5.5,0,0,1,.5-.5H7v-8a1,1,0,0,1,1-1H20a1,1,0,0,1,1,1v2H20v-2H8Zm17-4v10a1,1,0,0,1-1,1H18a1,1,0,0,1-1-1v-10a1,1,0,0,1,1-1h6A1,1,0,0,1,25,12.16Zm-1,0H18v10h6Z"></path>
-                                </svg> Technology
-                            </li>
-                            <li>
-                                <svg xmlns="http://www.w3.org/2000/svg" id="Layer_1" data-name="Layer 1" viewBox="0 0 30 30">
-                                    <path d="M25,16.16v2.5a.5.5,0,0,1-.5.5H23a3,3,0,0,1-6,0H13a3,3,0,0,1-6,0H5.5a.5.5,0,0,1-.5-.5v-3.5a2,2,0,0,1,2-2L8.5,9.42a2,2,0,0,1,1.85-1.26h6.19a2.27,2.27,0,0,1,1.56.75l3.4,4.25H22A3,3,0,0,1,25,16.16Zm-1,0a2,2,0,0,0-2-2H7a1,1,0,0,0-1,1v3H7.18a3,3,0,0,1,5.64,0h4.36a3,3,0,0,1,5.64,0H24Zm-12,3a2,2,0,1,0-2,2A2,2,0,0,0,12,19.16Zm-3.92-6H13v-4H10.35a1,1,0,0,0-.92.63Zm5.92,0h6.22l-2.9-3.62a1,1,0,0,0-.78-.38H14Zm8,6a2,2,0,1,0-2,2A2,2,0,0,0,22,19.16Z"></path>
-                                </svg> Car Rental
-                            </li>
-                            <li>
-                                <svg id="fi_2415292" enable-background="new 0 0 50 50" height="512" viewBox="0 0 50 50" width="512" xmlns="http://www.w3.org/2000/svg">
-                                    <g>
-                                        <path d="m48 38.2h-29.4l-1.1-4.1h24.1c.4 0 .8-.3.9-.6l6.5-16.3c.1-.3.1-.7-.1-.9-.2-.3-.5-.4-.8-.4h-4.5c-.6-7.2-6.5-12.8-13.7-12.8s0 0-.1 0c-7 0-13.1 5.4-13.6 12.8h-3.7l-3.4-12.5c-.1-.5-.5-.8-1-.8h-6.1c-.6 0-1 .4-1 1s.4 1 1 1h5.4l9.5 34.8c.1.4.5.7 1 .7h2c-.5.7-.8 1.6-.8 2.6 0 2.5 2.1 4.6 4.6 4.6s4.6-2.1 4.6-4.6c0-1-.3-1.8-.8-2.6h10.9c-.5.7-.8 1.6-.8 2.6 0 2.5 2.1 4.6 4.6 4.6s4.6-2.1 4.6-4.6c0-1-.3-1.8-.8-2.6h2c.6 0 1-.4 1-1s-.5-.9-1-.9zm-6.5-22.4h-4.2c0-1-.1-2.1-.3-3h3.8c.4.9.6 2 .7 3zm-4.5 5c.2-1 .3-2 .3-3h4.2c-.1 1.1-.3 2.1-.7 3zm2.9 2c-1.2 2.1-3.1 3.7-5.3 4.7.9-1.3 1.6-2.9 2-4.7zm0-12h-3.3c-.5-1.9-1.2-3.5-2-4.7 2.2.9 4.1 2.6 5.3 4.7zm-9-5.5c1.5.6 2.9 2.6 3.7 5.5h-3.7zm0 7.5h4.1c.2.9.3 1.9.3 3h-4.5v-3zm0 5h4.5c0 1.1-.2 2.1-.3 3h-4.1v-3zm0 5h3.7c-.8 2.9-2.2 4.9-3.7 5.5zm-2-17.5v5.5h-3.7c.8-2.9 2.2-4.9 3.7-5.5zm-4.2 15.5c-.2-.9-.3-2-.3-3h4.5v3zm4.2 2v5.5c-1.5-.6-2.9-2.6-3.7-5.5zm-5.8 0c.5 1.9 1.2 3.5 2 4.7-2.2-1-4.1-2.7-5.3-4.7zm-4.2-2c-.3-1-.6-2-.7-3h4.2c0 1 .1 2.1.3 3zm5.5-5c0-1.1.2-2.1.3-3h4.1v3zm.7-9.8c-.9 1.3-1.6 2.9-2 4.7h-3.3c1.2-2 3.1-3.7 5.3-4.7zm-6.2 6.8h3.8c-.2 1-.2 2-.3 3h-4.2c.1-1 .3-2.1.7-3zm-2 19.3-3.9-14.3h3.2c.5 7.3 6.6 12.7 13.6 12.8h.1c7 0 13.1-5.5 13.6-12.8h3l-5.7 14.3zm6.7 13.3c-1.4 0-2.6-1.2-2.6-2.6s1.2-2.6 2.6-2.6 2.6 1.2 2.6 2.6-1.2 2.6-2.6 2.6zm18.4 0c-1.4 0-2.6-1.2-2.6-2.6s1.2-2.6 2.6-2.6 2.6 1.2 2.6 2.6-1.1 2.6-2.6 2.6z"></path>
-                                    </g>
-                                </svg> Sports
-                            </li>
-                            <li>
-                                <svg xmlns="http://www.w3.org/2000/svg" id="Layer_1" data-name="Layer 1" viewBox="0 0 30 30">
-                                    <path d="M23,12.66a2,2,0,0,1-2,2H20v7.5a1,1,0,0,1-1,1H17a1,1,0,0,1-1-1v-3H13v3a1,1,0,0,1-1,1H10a1,1,0,0,1-1-1v-5a3.45,3.45,0,0,1,.42-1.5A2.53,2.53,0,0,1,7,13.16a.5.5,0,0,1,1,0,1.5,1.5,0,0,0,1.5,1.5h.85a3.54,3.54,0,0,1,1.65-.5h2.5L7.09,8A.28.28,0,0,1,7,7.8a.31.31,0,0,1,.06-.16l.32-.39a.28.28,0,0,1,.19-.09.31.31,0,0,1,.16.06L15.5,13.7v-5a.5.5,0,0,1,.5-.5h0a.56.56,0,0,1,.35.15l.86.85h2.17a1.11,1.11,0,0,1,.9.56l.22.44h2a.5.5,0,0,1,.5.5Zm-11,2.5a2,2,0,0,0-2,2v5h2v-4h3v-3Zm4,.08v2.92h1v4h2V16Zm3.88-4.08-.5-1H16.79l-.29-.29v4.47L19,15v-1.3h2a1,1,0,0,0,1-1v-1.5Zm-1.38.5a.5.5,0,0,1-.5-.5.5.5,0,0,1,1,0A.5.5,0,0,1,18.5,11.66Z"></path>
-                                </svg> Animal Care
-                            </li>
-                        </ul>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <div class="container">
-            <div class="row">
-                <div class="col-12">
-                    <div class="d-flex justify-content-center wow fadeInUp mt-4" data-wow-delay=".7s">
-                        <div class="main-button">
-                            <a href="tel:+97142415963" class="theme-btn">
-                                <span>Call Us</span>
-                            </a>
-                        </div>
-                        <div class="main-button">
-                            <a data-bs-toggle="modal" data-bs-target="#myModal" class="ms-3">
-                                <span class="theme-btn">Schedule A Call</span>
-                            </a>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
 
-        </div>
-    </section>
-    <!-- End Industries -->
+    <!--End gifs cards -->
+
+
 
     <!-- Start Team -->
     <section class="team-section fix section-padding">
@@ -1394,7 +1487,7 @@
                                 </div> -->
                             <div class="d-flex">
                                 <div class="main-button wow fadeInUp" data-wow-delay=".3s">
-                                    <a href="tel:+97142415963" class="theme-btn">
+                                    <a href="tel:+971551135229" class="theme-btn">
                                         <span>Call Us</span>
                                     </a>
                                 </div>
@@ -1411,133 +1504,6 @@
         </div>
     </section>
     <!-- End Team -->
-  <!-- contact box -->
-   <section class="my-3">
-        <div class="container-fluide">
-            <div class="row bg-dark p-3 text-white justify-content-center justify-content-md-between align-items-center">
-
-                <div class="col-12 col-md-3 mb-3 mb-md-0 d-flex justify-content-center justify-content-md-end">
-                    <a  data-bs-toggle="modal" data-bs-target="#myModal"  class="theme-btn let-s-talk-btn">
-                        <span>Let’s Talk to Discuss Growth Opportunities</span>
-                    </a>
-                </div>
-
-                <div class="col-12 col-md-3 mb-3 mb-md-0 d-flex flex-column flex-md-row align-items-center justify-content-center justify-content-md-start">
-                    <div class="icon-wrapper me-md-2 mb-2 mb-md-0">
-                        <svg width="42" height="46" viewBox="0 0 42 46" fill="none" xmlns="http://www.w3.org/2000/svg">
-                            <path d="M4.12767 7.98468C7.39341 4.37053 11.373 1.95603 16.1577 0.968975C22.5981 -0.367351 28.5523 0.862676 33.9598 4.6135C34.0357 4.67424 34.1117 4.7198 34.2028 4.76535C34.218 4.76535 34.2332 4.76535 34.2788 4.76535C34.2788 4.1883 34.294 3.64163 34.2788 3.09495C34.2636 2.85198 34.3395 2.76087 34.5978 2.76087C35.5243 2.76087 36.4509 2.74568 37.3774 2.71531C37.6357 2.70012 37.6964 2.82161 37.6964 3.04939C37.7268 5.35759 37.7572 7.66579 37.8027 9.97399C37.8027 10.2929 37.6205 10.2777 37.4078 10.3081C35.4787 10.4903 33.5649 10.6573 31.6358 10.8396C31.5295 10.8547 31.408 10.8547 31.3016 10.8547C30.208 10.9459 30.208 10.9459 30.1321 9.86769C30.0865 9.2299 30.0409 8.57692 29.9498 7.93913C29.9042 7.6506 29.965 7.5443 30.2839 7.52912C30.7852 7.51393 31.2865 7.43801 31.9548 7.37726C31.6814 7.17985 31.5143 7.05837 31.332 6.93688C23.4487 1.83455 13.211 3.15569 6.83139 10.1107C6.49723 10.4751 6.33014 10.4447 6.01116 10.141C5.41877 9.57916 4.796 9.06286 4.15805 8.54655C3.91501 8.34914 3.89983 8.22765 4.12767 7.98468ZM31.1801 15.456C30.1169 18.4475 29.084 21.4391 28.0359 24.4306C27.3524 26.3895 26.6537 28.3485 25.9853 30.3074C25.8638 30.6567 25.7119 30.7782 25.3474 30.763C24.5879 30.7326 23.8436 30.7478 22.993 30.7478C23.798 28.47 24.5727 26.2832 25.3322 24.0965C26.3347 21.2265 27.3372 18.3716 28.3245 15.5015C28.446 15.1371 28.6131 15.0004 29.008 15.0156C29.6308 15.0611 30.2536 15.046 30.8763 15.0156C31.2713 14.9852 31.3016 15.0915 31.1801 15.456ZM21.5956 26.8299C21.1247 26.8147 21.0184 26.9818 21.0487 27.407C21.0791 27.8625 21.0487 28.3181 21.0639 28.7737C21.0639 29.0166 20.988 29.1077 20.7298 29.0926C19.8792 29.0774 19.0285 29.0774 18.1779 29.0926C17.8741 29.0926 17.8438 28.9711 17.8438 28.7129C17.859 28.227 17.8286 27.7259 17.859 27.2399C17.8741 26.9058 17.7526 26.8299 17.4488 26.8299C15.7021 26.8451 13.9705 26.8147 12.2237 26.8451C11.7376 26.8603 11.6768 26.6932 11.6313 26.2377C11.5249 25.1291 11.8743 24.2636 12.5426 23.3828C13.9401 21.5605 15.2616 19.6472 16.5982 17.7793C16.7957 17.4908 17.0083 17.3541 17.3729 17.3541C18.3146 17.3845 19.2564 17.3693 20.3197 17.3693C18.7096 19.6927 17.1602 21.8946 15.5502 24.2028C16.3248 24.2028 17.0235 24.2028 17.7071 24.2028C17.9805 24.2028 17.9349 24.0206 17.9349 23.8536C17.9349 23.4132 17.9501 22.988 17.9349 22.5476C17.9197 22.2743 18.0109 22.1831 18.2843 22.1983C19.1045 22.2135 19.9095 22.2135 20.7298 22.1983C20.988 22.1983 21.0487 22.2894 21.0487 22.5324C21.0336 22.988 21.0639 23.4435 21.0336 23.8991C21.0184 24.1421 21.1247 24.2484 21.3677 24.218C21.3981 24.218 21.4437 24.218 21.4741 24.218C21.8994 24.2636 22.4766 24.0206 22.7044 24.3243C22.9171 24.6128 22.7803 25.1595 22.7803 25.5847C22.8107 26.8299 22.8107 26.8603 21.5956 26.8299ZM1.43913 28.6674C1.43913 28.6522 1.43913 28.6218 1.43913 28.6066C1.22648 27.4677 1.65178 26.6629 2.54796 25.934C3.77831 24.9317 4.88714 23.7776 6.04154 22.6843C6.48204 22.2591 6.84658 21.7883 6.87696 21.1202C6.90734 20.4368 6.61874 20.042 5.96559 19.8901C4.99347 19.6624 4.15805 19.9205 3.52009 20.6798C3.33781 20.8924 3.2163 20.9227 2.97327 20.7861C2.39607 20.4368 1.80368 20.1027 1.1961 19.799C0.84674 19.6168 0.907498 19.4649 1.10496 19.2068C2.00114 18.0223 3.23149 17.4149 4.67449 17.2175C5.64661 17.0808 6.63393 17.1264 7.59087 17.4149C10.1579 18.2045 11.0541 20.8164 9.50474 23.0183C8.77565 24.051 7.77314 24.8102 6.87696 25.691C6.64912 25.9188 6.40609 26.1162 6.05673 26.4503C7.49973 26.4503 8.77565 26.4655 10.0668 26.4351C10.4465 26.4351 10.6136 26.511 10.5832 26.9362C10.5528 27.5133 10.568 28.1055 10.5832 28.6977C10.5984 28.9863 10.5224 29.0926 10.2035 29.0926C7.42378 29.0774 4.64411 29.0774 1.84925 29.0926C1.49989 29.0926 1.39356 28.9711 1.43913 28.6674ZM7.57568 40.9524C7.57568 41.4991 7.56049 42.0154 7.57568 42.5317C7.59087 42.8506 7.5453 43.0025 7.16556 43.0025C6.29976 42.9873 5.41877 43.0025 4.55297 43.0481C4.26437 43.0632 4.15805 42.9873 4.15805 42.6836C4.14286 40.3906 4.09729 38.0976 4.05172 35.8197C4.05172 35.516 4.18842 35.4857 4.41627 35.4705C6.34533 35.3034 8.2592 35.1212 10.1883 34.939C10.3402 34.9238 10.4921 34.9238 10.644 34.9086C11.6313 34.8023 11.6313 34.8023 11.7072 35.7742C11.768 36.4727 11.8135 37.1713 11.9047 37.8698C11.9351 38.1431 11.8591 38.2342 11.5857 38.2494C11.0844 38.2798 10.568 38.3405 9.89967 38.4013C11.4338 39.5098 12.9679 40.3298 14.6236 40.8461C22.4614 43.291 29.2663 41.5447 35.0079 35.6831C35.3269 35.349 35.4788 35.3034 35.8281 35.6375C36.5116 36.2753 37.2559 36.8827 37.9698 37.4902C31.1649 45.6144 17.859 48.4541 7.57568 40.9524ZM40.5217 20.6494C39.3217 23.2917 38.2129 25.9795 37.0736 28.6522C36.9369 28.9711 36.7699 29.1077 36.4205 29.0926C35.4028 29.0622 34.3851 29.0774 33.2763 29.0774C34.6129 26.0099 35.9041 23.0487 37.2255 19.9964C36.2382 19.9964 35.3269 19.9964 34.4003 19.9964C34.2028 19.9964 34.1269 20.0875 34.1421 20.2698C34.1421 20.3001 34.1421 20.3457 34.1421 20.3761C34.1269 20.8316 34.294 21.4542 34.0509 21.682C33.7472 21.9857 33.1244 21.7731 32.6383 21.7883C31.3168 21.8035 31.3168 21.7883 31.3168 20.4672C31.3168 19.556 31.332 18.6449 31.3168 17.7338C31.3168 17.4301 31.408 17.339 31.7118 17.339C34.7041 17.3542 37.6964 17.3542 40.6887 17.339C40.9622 17.339 41.0381 17.4149 41.0533 17.6882C41.0533 18.736 40.9622 19.6927 40.5217 20.6494Z" fill="#009291"></path>
-                        </svg>
-                    </div>
-                    <a href="mailto:sales@appsnation.co" class="theme-btn">
-                        <span>we are available 24/7!</span>
-                    </a>
-                </div>
-
-                <div class="col-12 col-md-3 mb-3 mb-md-0 d-flex flex-column flex-md-row align-items-center justify-content-center justify-content-md-start">
-                    <div class="icon-wrapper me-md-2 mb-2 mb-md-0">
-                        <svg width="46" height="46" viewBox="0 0 46 46" fill="none" xmlns="http://www.w3.org/2000/svg">
-                            <path d="M32.749 3.10645H12.3584C10.8071 3.10645 9.5459 4.36768 9.5459 5.91895V39.6689C9.5459 41.2202 10.8071 42.4814 12.3584 42.4814H32.749C34.3003 42.4814 35.5615 41.2202 35.5615 39.6689V5.91895C35.5615 4.36768 34.3003 3.10645 32.749 3.10645ZM32.3975 39.3174H12.71V6.27051H32.3975V39.3174ZM20.7959 34.835C20.7959 35.3012 20.9811 35.7483 21.3108 36.0779C21.6404 36.4076 22.0875 36.5928 22.5537 36.5928C23.0199 36.5928 23.467 36.4076 23.7967 36.0779C24.1263 35.7483 24.3115 35.3012 24.3115 34.835C24.3115 34.3688 24.1263 33.9217 23.7967 33.592C23.467 33.2623 23.0199 33.0771 22.5537 33.0771C22.0875 33.0771 21.6404 33.2623 21.3108 33.592C20.9811 33.9217 20.7959 34.3688 20.7959 34.835Z" fill="#009291"></path>
-                        </svg>
-                    </div>
-                    <a href="tel:+97142415963" class="theme-btn">
-                        <span>+97142415963</span>
-                    </a>
-                </div>
-
-                <div class="col-12 col-md-3 mb-3 mb-md-0 d-flex flex-column flex-md-row align-items-center justify-content-center justify-content-md-start">
-                    <div class="icon-wrapper me-md-2 mb-2 mb-md-0">
-                        <svg width="48" height="49" viewBox="0 0 48 49" fill="none" xmlns="http://www.w3.org/2000/svg">
-                            <g clip-path="url(#clip0_2585_170)">
-                                <path d="M44.7065 25.1665L35.4665 20.9132V8.72652C35.4622 8.47085 35.3846 8.22179 35.2427 8.00902C35.1009 7.79626 34.9009 7.62877 34.6665 7.52652L24.6665 2.92652C24.491 2.8453 24.2999 2.80322 24.1065 2.80322C23.9131 2.80322 23.722 2.8453 23.5465 2.92652L13.5465 7.52652C13.315 7.63363 13.1192 7.80487 12.9821 8.01993C12.845 8.23498 12.7725 8.48484 12.7731 8.73986V20.9265L3.57314 25.1665C3.3417 25.2736 3.14583 25.4449 3.00877 25.6599C2.8717 25.875 2.79918 26.1248 2.79981 26.3799V39.4199C2.79918 39.6749 2.8717 39.9247 3.00877 40.1398C3.14583 40.3548 3.3417 40.5261 3.57314 40.6332L13.5731 45.2332C13.7487 45.3144 13.9397 45.3565 14.1331 45.3565C14.3265 45.3565 14.5176 45.3144 14.6931 45.2332L24.1331 40.8865L33.5731 45.2332C33.7487 45.3144 33.9397 45.3565 34.1331 45.3565C34.3265 45.3565 34.5176 45.3144 34.6931 45.2332L44.6931 40.6332C44.9246 40.5261 45.1205 40.3548 45.2575 40.1398C45.3946 39.9247 45.4671 39.6749 45.4665 39.4199V26.3799C45.4683 26.1263 45.3978 25.8774 45.2631 25.6625C45.1285 25.4476 44.9354 25.2756 44.7065 25.1665ZM40.9598 26.3799L34.1465 29.4865L27.3331 26.3799L34.1465 23.2465L40.9598 26.3799ZM24.1331 5.59319L30.9465 8.72652L24.1331 11.8599L17.3331 8.72652L24.1331 5.59319ZM14.1331 23.2332L20.9465 26.3665L14.1331 29.4865L7.31981 26.3799L14.1331 23.2332ZM22.7998 38.5532L14.1331 42.5532L5.46648 38.5532V28.4599L13.5731 32.1532C13.745 32.2305 13.9314 32.2704 14.1198 32.2704C14.3083 32.2704 14.4946 32.2305 14.6665 32.1532L22.7731 28.4199L22.7998 38.5532ZM15.4665 20.9132V10.8199L23.5731 14.5532C23.7487 14.6344 23.9397 14.6765 24.1331 14.6765C24.3265 14.6765 24.5176 14.6344 24.6931 14.5532L32.7998 10.8199V20.9265L24.1331 24.9265L15.4665 20.9132ZM42.8131 38.5665L34.1465 42.5665L25.4665 38.5665V28.4465L33.5865 32.1532C33.7565 32.2285 33.9405 32.2674 34.1265 32.2674C34.3125 32.2674 34.4964 32.2285 34.6665 32.1532L42.7731 28.4199L42.8131 38.5665Z" fill="#009291"></path>
-                            </g>
-                            <defs>
-                                <clipPath id="clip0_2585_170">
-                                    <rect width="48" height="48" fill="white" transform="translate(0 0.15332)"></rect>
-                                </clipPath>
-                            </defs>
-                        </svg>
-                    </div>
-                    <a href="#" class="theme-btn"> <span>Live Chat</span>
-                    </a>
-                </div>
-
-            </div>
-        </div>
-    </section>
-    <!--End contact box -->
-    <!-- gifs cards -->
-    <div class="container">
-        <div class="row ">
-
-            <div class="col-md-4 Our-Creative-Process">
-                <p>Our</p>
-                <p>Creative</p>
-                <p>Products</p>
-            </div>
-            <div class="col-md-8 pb-5 ps-4">
-                <div class="row wow fadeInUp mt-5" data-wow-delay=".5s">
-                    <div class="col-12">
-                        <div class="awards-slider owl-carousel owl-theme owl-loaded owl-drag">
-                            <div class="award-item">
-                                <div class="item">
-                                    <div class="card">
-                                        <div class="card-body">
-                                            <img src="assets/img/gifs/1.gif" class="award-img" width="auto" height="auto">
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="award-item">
-                                <div class="item">
-                                    <div class="card">
-                                        <div class="card-body">
-                                            <img src="assets/img/gifs/2.gif" class="award-img" width="auto" height="auto">
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="award-item">
-                                <div class="item">
-                                    <div class="card">
-                                        <div class="card-body">
-                                            <img src="assets/img/gifs/3.gif" class="award-img" width="auto" height="auto">
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="award-item">
-                                <div class="item">
-                                    <div class="card">
-                                        <div class="card-body">
-                                            <img src="assets/img/gifs/4.gif" class="award-img" width="auto" height="auto">
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="award-item">
-                                <div class="item">
-                                    <div class="card">
-                                        <div class="card-body">
-                                            <img src="assets/img/gifs/5.gif" class="award-img" width="auto" height="auto">
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-
-
-                        </div>
-                    </div>
-                </div>
-            </div>
-
-
-        </div>
-    </div>
-
-
-
-
-    <!--End gifs cards -->
 
 
     <!-- Start Badges -->
@@ -1760,12 +1726,13 @@
                     </p>
                 </div>
                 <div class="row mt-4 mt-lg-0 wow fadeInUp" data-wow-delay=".5s">
-                    <div class="col-md-6 col-lg-3">
-                        <iframe width="100%" height="500" src="https://www.youtube.com/embed/fOcCXiQw3Nw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-                    </div>
                     <div class="col-md-6 col-lg-3 mt-3 mt-md-0">
                         <iframe width="100%" height="500" src="https://www.youtube.com/embed/d7BDBcb5__4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
                     </div>
+                    <div class="col-md-6 col-lg-3">
+                        <iframe width="100%" height="500" src="https://www.youtube.com/embed/fOcCXiQw3Nw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+                    </div>
+
                     <div class="col-md-6 col-lg-3 mt-3 mt-lg-0">
                         <iframe width="100%" height="500" src="https://www.youtube.com/embed/G8Sg86NGyfw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
                     </div>
@@ -1884,13 +1851,13 @@
                     <h4 class="pt-4 text-white text-center text-lg-start">Riyadh, KSA</h4>
                     <p class="pt-3 text-white text-center text-lg-start">Floor 3, Building 7264, Ibn Al Fourat, Riyadh, KSA</p>
                 </div>
-                <div class="col-lg-4 mt-md-5 mt-sm-5">
-                    <h5 class="text-center">Call Us At <br>
-                        <a href="tel:+97142415963">+971 4 241 5963</a>
-                    </h5>
-                    <h5 class="text-center my-3">24/7 Support <br>
+                <div class="col-lg-4 mt-md-5 mt-sm-5 my-5">
+                    <h6 class="text-center text-white fs-4">Call Us At <br>
+                        <a href="tel:+971551135229"> +971551135229</a>
+                    </h6>
+                    <h6 class="text-center  text-white fs-4">24/7 Support <br>
                         <a href="mailto:sales@appsnation.co">sales@appsnation.co</a>
-                    </h5>
+                    </h6>
                 </div>
                 <div class="col-lg-4 mt-4 mt-lg-0">
                     <h4 class="pt-4 text-white text-center text-lg-end">California, USA</h4>
@@ -1899,11 +1866,10 @@
                     <p class="pt-3 text-white text-center text-lg-end">1001 S Main St, Kalispell, MT 59901, USA</p>
                 </div>
             </div>
-
         </div>
     </footer>
     <!-- End Footer -->
-
+    <!-- 
     <div class="modal" id="myModal">
         <div class="modal-dialog modal-xl modal-dialog-centered">
             <div class="modal-content">
@@ -1953,9 +1919,80 @@
                 </div>
             </div>
         </div>
+    </div> -->
+    <!-- Modal Trigger Button (Example) -->
+    <button type="button" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#myModal">
+        Open Modal
+    </button>
+
+    <!-- Modal -->
+    <div class="modal fade" id="myModal" tabindex="-1" aria-hidden="true">
+        <div class="modal-dialog modal-xl modal-dialog-centered">
+            <div class="modal-content position-relative">
+
+                <button type="button" class="btn-close modalCloseButton position-absolute top-0 end-0 m-3"
+                    data-bs-dismiss="modal" aria-label="Close" style="z-index: 9999; " >
+                </button>
+
+                <div class="modal-body">
+                    <div class="row">
+                        <div class="col-lg-5 pe-lg-0">
+                            <div class="background">
+                                <h2 class="text-white mb-2">Let's start a project together</h2>
+                                <p class="text-white mb-2">
+                                    We'll contact you within a couple of hours to schedule a meeting to discuss your goals.
+                                </p>
+                                <img src="assets/img/portfolio/cartex.webp" alt="" class="img-fluid">
+                            </div>
+                        </div>
+
+                        <div class="col-lg-7 ps-lg-0 my-auto">
+                            <div class="form-block header-quote-form">
+                                <form id="contactForm" method="post" data-bs-toggle="validator" action="form_submit.php">
+                                    <input type="hidden" name="_token" value="vJbHhszTSBUDasAiVb6To1mO8NuAeGYjmRD3GpQD">
+
+                                    <div class="row">
+                                        <div class="form-group col-sm-6">
+                                            <input type="text" name="full_name" id="full_name" placeholder="Enter Full Name"
+                                                required data-error="Please fill Out" maxlength="50" class="form-control">
+                                        </div>
+                                        <div class="form-group col-sm-6">
+                                            <input type="text" id="mobile" name="mobile" placeholder="Enter Mobile"
+                                                required data-error="Please fill Out" maxlength="20" class="form-control">
+                                        </div>
+                                    </div>
+
+                                    <div class="row">
+                                        <div class="form-group col-sm-12">
+                                            <input type="email" name="email" id="email" placeholder="Enter Email"
+                                                required maxlength="50" class="form-control">
+                                        </div>
+                                    </div>
+
+                                    <div class="row">
+                                        <div class="form-group col-12">
+                                            <textarea id="message" name="message" rows="3" placeholder="Enter Your Message"
+                                                required maxlength="500" class="form-control"></textarea>
+                                        </div>
+                                    </div>
+
+                                    <button type="submit" class="btn button-arounder lnk mt-3">
+                                        Schedule a Call <i class="fas fa-chevron-right fa-icon"></i>
+                                    </button>
+                                </form>
+
+                                <div id="responseMessage" class="mt-3"></div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+        </div>
     </div>
 
-    <a href="https://wa.me/+923432003860" class="whatsapp-sticky" target="_blank" rel="noopener noreferrer">
+
+    <a href="https://wa.me/+971551135229" class="whatsapp-sticky" target="_blank" rel="noopener noreferrer">
         <i class="fa-brands fa-whatsapp"></i>
     </a>
 
@@ -1991,7 +2028,7 @@
         })();
     </script>
 
-    <script>
+    <!-- <script>
         document.addEventListener('DOMContentLoaded', function() {
             const modalForm = document.querySelector('#myModal form[action="form_submit.php"]');
             if (!modalForm) return;
@@ -2041,6 +2078,54 @@
                         submitBtn.innerHTML = originalBtnHtml;
                     }
                 }
+            });
+        });
+    </script> -->
+    <script>
+        document.addEventListener('DOMContentLoaded', function() {
+            const modalForm = document.querySelector('#myModal form');
+
+            if (modalForm) {
+                modalForm.addEventListener('submit', async function(e) {
+                    e.preventDefault();
+
+                    const container = modalForm.closest('.form-block') || modalForm.parentElement;
+                    const responseEl = container ? container.querySelector('#responseMessage') : document.getElementById('responseMessage');
+                    const submitBtn = modalForm.querySelector('button[type="submit"]');
+                    const originalBtnHtml = submitBtn ? submitBtn.innerHTML : null;
+
+                    if (responseEl) responseEl.innerHTML = '<div class="alert alert-info">Sending...</div>';
+                    if (submitBtn) {
+                        submitBtn.disabled = true;
+                        submitBtn.innerHTML = 'Sending...';
+                    }
+
+                    // Simulate form submission (replace with your actual endpoint)
+                    setTimeout(() => {
+                        if (responseEl) {
+                            responseEl.innerHTML = '<div class="alert alert-success">Thank you! Your message has been submitted successfully.</div>';
+                        }
+
+                        // Reset form
+                        modalForm.reset();
+
+                        // Re-enable button
+                        if (submitBtn) {
+                            submitBtn.disabled = false;
+                            submitBtn.innerHTML = originalBtnHtml;
+                        }
+
+                        // Optionally close modal after successful submission
+                        // const modal = bootstrap.Modal.getInstance(document.getElementById('myModal'));
+                        // modal.hide();
+                    }, 1500);
+                });
+            }
+
+            // Additional close functionality for custom button
+            document.getElementById('customCloseBtn').addEventListener('click', function() {
+                const modal = bootstrap.Modal.getInstance(document.getElementById('myModal'));
+                modal.hide();
             });
         });
     </script>

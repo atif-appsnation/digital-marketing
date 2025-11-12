@@ -553,3 +553,39 @@ $('.testimonial-card-a').owlCarousel({
         else bsCarousel.prev();
       }
     });
+
+
+    $('.gif-slider').owlCarousel({
+    items: 4,
+    loop: true,
+    autoplay: true,
+    centre: true,
+    margin: 15,
+    nav: true,
+    dots: false,
+    autoplayTimeout: 3000,
+    autoplayHoverPause: true,
+    smartSpeed: 2000,
+    responsiveClass: true,
+    rewind: true,
+    responsive: {
+        0: {
+            items: 1
+        },
+        520: {
+            items: 2
+        },
+        768: {
+            items: 1
+        },
+        1200: {
+            items: 3
+        },
+        1400: {
+            items: 3
+        },
+        1600: {
+            items: 3
+        },
+    }
+});
