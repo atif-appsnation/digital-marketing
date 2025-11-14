@@ -576,10 +576,10 @@ $('.testimonial-card-a').owlCarousel({
             items: 2
         },
         768: {
-            items: 1
+            items: 2
         },
         1200: {
-            items: 3
+            items: 2
         },
         1400: {
             items: 3

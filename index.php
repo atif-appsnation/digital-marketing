@@ -124,13 +124,7 @@
                             <img src="assets/img/logo/appsnation-black-logo.webp" alt="logo-img">
                         </a>
                     </div>
-                    <div class="mobile-version     main-button ">
-                        <a href="tel:+971551135229" class="theme-btn" style="background-color:#000000; ">
-                            <span class="text-white">
-                                 <!-- <i class="fa-solid fa-phone fa-beat fa-lg" style="color: #ffffff; "></i> -->
-                              Call Us </span>
-                        </a>
-                    </div>
+                     
                     <div class="header-right d-flex justify-content-end align-items-center">
                         <div class="mean__menu-wrapper">
                             <div class="main-menu">
@@ -565,47 +559,68 @@
             <img src="assets/img/about/left-shape.png" alt="img">
         </div>
         <div class="container">
-            <div class="about-wrapper">
-                <div class="row">
-                    <div class="col-lg-6">
-                        <div class="about-image">
-                            <div class="video-container">
-                                <iframe
-                                    src="https://www.youtube.com/embed/djZV4wG8j_c?autoplay=1&loop=1&mute=1&playlist=djZV4wG8j_c"
-                                    title="YouTube video"
-                                    frameborder="0"
-                                    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-                                    allowfullscreen>
-                                </iframe>
-                            </div>
+    <div class="about-wrapper">
+        <div class="row d-flex align-items-center">
+
+            <!-- LEFT SIDE — VIDEO -->
+            <div class="col-lg-6 d-flex justify-content-center justify-content-lg-start">
+                <article style="display: flex; justify-content: center; align-items: center; width: 100%;">
+                    <div id="video-wrapper" style="position: relative; width: 360px; height: 540px; border-radius: 18px; overflow: hidden;">
+                        
+                        <!-- Updated Video -->
+                        <iframe id="player" frameborder="0" allowfullscreen
+                            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+                            referrerpolicy="strict-origin-when-cross-origin"
+                            width="360" height="540"
+                            src="https://www.youtube.com/embed/djZV4wG8j_c?autoplay=1&mute=1&loop=1&playlist=djZV4wG8j_c&controls=0&rel=0&modestbranding=1&playsinline=1&enablejsapi=1">
+                        </iframe>
+
+                        <!-- CLICK OVERLAY (Unmute) -->
+                        <div id="overlay"
+                            style="position: absolute; top: 0px; left: 0px; width: 100%; height: 100%;
+                            cursor: pointer; background: rgba(0,0,0,0);">
                         </div>
                     </div>
-                    <div class="col-lg-6 mt-4 mt-lg-0">
-                        <div class="about-content">
-                            <div class="section-title">
-                                <div class="sub-title bg-color-2 wow fadeInUp">
-                                    <span class="text-white">ABOUT COMPANY</span>
-                                </div>
-                                <h2 class="wow fadeInUp text-white" data-wow-delay=".3s">Your AI-Powered Digital Marketing Agency in Dubai</h2>
-                            </div>
-                            <p class="mt-3 mt-md-0 wow fadeInUp text-white" data-wow-delay=".5s">At <b>AppsNation</b>, we combine creativity, strategy, and AI-driven marketing to help businesses grow online. From <b>SEO and Google Ads</b> to <b>social media marketing, content creation, and video campaigns</b>, we deliver measurable results for <b>startups, e-commerce stores, clinics, interior design brands, and more</b>.</p>
-                            <div class="d-flex mt-4 wow fadeInUp" data-wow-delay=".7s">
-                                <div class="main-button">
-                                    <a href="tel:+971551135229" class="theme-btn">
-                                        <span>Call Us</span>
-                                    </a>
-                                </div>
-                                <div class="main-button">
-                                    <a data-bs-toggle="modal" data-bs-target="#myModal" class="ms-3">
-                                        <span class="theme-btn">Schedule A Call</span>
-                                    </a>
-                                </div>
-                            </div>
+                </article>
+            </div>
+
+            <!-- RIGHT SIDE — CONTENT -->
+            <div class="col-lg-6 mt-4 mt-lg-0">
+                <div class="about-content">
+                    <div class="section-title">
+                        <div class="sub-title bg-color-2 wow fadeInUp">
+                            <span class="text-white">ABOUT COMPANY</span>
+                        </div>
+                        <h2 class="wow fadeInUp text-white" data-wow-delay=".3s">
+                            Your AI-Powered Digital Marketing Agency in Dubai
+                        </h2>
+                    </div>
+
+                    <p class="mt-3 mt-md-0 wow fadeInUp text-white" data-wow-delay=".5s">
+                        At <b>AppsNation</b>, we combine creativity, strategy, and AI-driven marketing
+                        to help businesses grow online. From <b>SEO and Google Ads</b> to
+                        <b>social media marketing, content creation, and video campaigns</b>, we deliver
+                        measurable results for <b>startups, e-commerce stores, clinics, interior design brands, and more</b>.
+                    </p>
+
+                    <div class="d-flex mt-4 wow fadeInUp" data-wow-delay=".7s">
+                        <div class="main-button">
+                            <a href="tel:+971551135229" class="theme-btn">
+                                <span>Call Us</span>
+                            </a>
+                        </div>
+                        <div class="main-button">
+                            <a data-bs-toggle="modal" data-bs-target="#myModal" class="ms-3 theme-btn">
+                                <span>Schedule A Call</span>
+                            </a>
                         </div>
                     </div>
                 </div>
             </div>
+
         </div>
+    </div>
+</div>
     </section>
     <!-- End About -->
 
@@ -837,15 +852,15 @@
                 <!-- Slide 1 -->
                 <div class="carousel-item active">
                     <div class="row align-items-center bg-white">
-                        <div class="col-md-6 text-center p-4">
+                        <div class="col-sm-12 col-md-12 col-lg-6 text-center p-4">
                             <img src="assets/img/case-studies/new-case studay/1.png"
                                 class="img-fluid rounded-3 " alt="Tiger">
                         </div>
-                        <div class="col-md-6 p-4">
+                        <div class="col-sm-12 col-md-12 col-lg-6 p-4">
                             <h4 class="pt-3 case-study-heading">How Our <span style="color:#009291">Google Ads</span> Delivered 168 Qualified Leads for AED 8M+ Properties</h4>
                             <p class="pt-3 case-study-text">Apps Nation helped a luxury real estate developer in Dubai generate <b>168 high-quality leads</b> through a Google Ads campaign targeting properties starting from <b>AED 8 million</b>. With a total spend of <b>AED 129K</b> and a <b>CPL of AED 773</b>, the campaign achieved exceptional ROI through data-driven targeting, Smart Bidding, and premium ad creatives tailored for affluent buyers.</p>
                             <hr class="w-4" style="color:#009291">
-                            <p class="pt-3 case-study-heading fs-5" style="color:gray"> 2 month progress</p>
+                           
 
                             <div class="stats-container my-5 md-ms-5">
                                 <div class="row">
@@ -876,15 +891,15 @@
                 <!-- Slide 2 -->
                 <div class="carousel-item">
                     <div class="row align-items-center bg-white">
-                        <div class="col-md-6 text-center p-4">
+                        <div class="col-sm-12 col-md-12 col-lg-6 text-center p-4">
                             <img src="assets/img/case-studies/new-case studay/2.png"
                                 class="img-fluid rounded-3" alt="Lion">
                         </div>
-                        <div class="col-md-6 p-4">
+                        <div class="col-sm-12 col-md-12 col-lg-6 p-4">
                             <h4 class="pt-3 case-study-heading">33 Quality Leads Generated for Luxury <span style="color:#009291"> Real Estate</span> with Minimal Spend</h4>
                             <p class="pt-3 case-study-text">Through precise audience targeting and performance optimization, Apps Nation achieved <b>33 qualified property inquiries</b> for Danube Properties with a limited budget of <b>AED 5.63K</b>. Focused on <b>luxury real estate buyers in Dubai</b>, the campaign maintained a <b>CPL under AED 175</b>, leveraging Smart Bidding and strategic demographic insights to maximize ROI.</p>
                             <hr style="color:#009291">
-                            <p class="pt-3 case-study-heading fs-5" style="color:gray"> 2 month progress</p>
+                           
                             <div class="stats-container my-5 md-ms-5">
                                 <div class="row">
                                     <div class="col-6 stat-item">
@@ -914,15 +929,15 @@
                 <!-- Slide 3 -->
                 <div class="carousel-item">
                     <div class="row align-items-center bg-white">
-                        <div class="col-md-6 text-center p-4">
+                        <div class="col-sm-12 col-md-12 col-lg-6 text-center p-4">
                             <img src="assets/img/case-studies/new-case studay/3.png"
                                 class="img-fluid rounded-3  " alt="Rat">
                         </div>
-                        <div class="col-md-6 p-4">
+                        <div class="col-sm-12 col-md-12 col-lg-6 p-4">
                             <h4 class="pt-3 case-study-heading">How Apps Nation Generated 567+ Leads for an <span style="color:#009291">Aesthetic Clinic in Dubai</span> </h4>
                             <p class="pt-3 case-study-text">AppsNation ran multiple Meta ad campaigns for treatments like <b>BBL Moxi, Ultherapy, EMS, and Chemical Peel</b>, driving strong engagement and consistent conversions. Through targeted creatives and data-driven optimization, the campaigns delivered <b>567+ leads</b> at an average <b>cost per lead between AED 75–130</b>, achieving excellent ROI for high-intent audiences.</p>
                             <hr>
-                            <p class="pt-3 case-study-heading fs-5" style="color:gray"> 2 month progress</p>
+                           
                             <div class="stats-container my-5 md-ms-5">
                                 <div class="row">
                                     <div class="col-6 stat-item">
@@ -951,15 +966,15 @@
                 <!-- Slide 4 -->
                 <div class="carousel-item">
                     <div class="row align-items-center bg-white">
-                        <div class="col-md-6 text-center p-4">
+                        <div class="col-sm-12 col-md-12 col-lg-6 text-center p-4">
                             <img src="assets/img/case-studies/new-case studay/4.png"
                                 class="img-fluid rounded-3 " alt="Owl">
                         </div>
-                        <div class="col-md-6 p-4">
+                        <div class="col-sm-12 col-md-12 col-lg-6 p-4">
                             <h4 class="pt-3 case-study-heading">152K+ Conversions for a <span style="color:#009291"> Rent-a-Car Company in Dubai</span> </h4>
                             <p class="pt-3 case-study-text">Quick Digital Solutions successfully managed a large-scale Google Ads campaign for a Dubai-based rent-a-car company. The campaigns focused on maximizing lead generation through Search, Display, and Performance Max strategies — ensuring high visibility, strong engagement, and cost-efficient conversions across multiple ad groups.</p>
                             <hr style="color:#009291">
-                            <p class="pt-3 case-study-heading fs-5" style="color:gray"> 2 month progress</p>
+                           
                             <div class="stats-container my-5 md-ms-5">
                                 <div class="row">
                                     <div class="col-6 stat-item">
@@ -987,15 +1002,15 @@
                 <!-- Slide 5 -->
                 <div class="carousel-item">
                     <div class="row align-items-center bg-white">
-                        <div class="col-md-6 text-center p-4">
+                        <div class="col-sm-12 col-md-12 col-lg-6 text-center p-4">
                             <img src="assets/img/case-studies/new-case studay/5.png"
                                 class="img-fluid rounded-3" alt="Owl">
                         </div>
-                        <div class="col-md-6 p-4">
+                        <div class="col-sm-12 col-md-12 col-lg-6 p-4">
                             <h4 class="pt-3 case-study-heading">73+ Leads Generated for a <span style="color:#009291"> Spa in Dubai </span> via Meta Ads</h4>
                             <p class="pt-3 case-study-text">Quick Digital Solutions managed targeted Meta (Facebook & Instagram) campaigns for a <b>spa brand in Dubai</b>, focused on generating <b>WhatsApp and Messenger inquiries</b> for treatments and services. By optimizing creatives, audience segments, and delivery strategy, the campaigns delivered consistent conversions at a strong cost efficiency.</p>
                             <hr style="color:#009291">
-                            <p class="pt-3 case-study-heading fs-5" style="color:gray"> 2 month progress</p>
+                           
                             <div class="stats-container my-5 md-ms-5">
                                 <div class="row">
                                     <div class="col-6 stat-item">
@@ -1058,7 +1073,7 @@
                 <div class="row justify-content-center wow fadeInUp" data-wow-delay=".5s">
                     <div class="col-lg-12">
                         <div class="client-logo set">
-                            <div class="row">
+                            <div class="row ">
                                 <div class="col-lg-2 col-md-3 col-sm-4 col-6 mt-4">
                                     <div class="brand-logo hoshd">
                                         <img src="assets/img/clients/icons-01.png" alt="Client Logo" class="img-fluid d-block mx-auto" width="auto" height="auto">
@@ -1208,8 +1223,8 @@
                 <p class="mt-3 mt-md-0 wow fadeInUp" data-wow-delay=".5s">At <b>AppsNation</b>, we help businesses of all sizes and sectors grow online. From startups to established brands, our <b>AI-driven digital marketing services</b> deliver results across multiple industries.</p>
                 <div class="industries wow fadeInUp mt-4" data-wow-delay="0.7s">
 
-                    <div class="row">
-                        <div class="col-6 col-md-4 col-lg-3">
+                    <div class="row ">
+                        <div class="col-6 col-md-4 col-lg-3 ">
                             <ul class="industries-point">
                                 <li>
                                     <svg xmlns="http://www.w3.org/2000/svg" id="Layer_1" data-name="Layer 1" viewBox="0 0 30 30">
@@ -1296,7 +1311,7 @@
                                 </li>
                             </ul>
                         </div>
-                        <div class="col-6 col-md-4 col-lg-3 mt-3 mt-lg-0">
+                        <div class="col-6 col-md-4 col-lg-3 mt-3 mt-lg-0 hidden-industries">
                             <ul class="industries-point">
                                 <li>
                                     <svg xmlns="http://www.w3.org/2000/svg" id="Layer_1" data-name="Layer 1" viewBox="0 0 30 30">
@@ -1921,7 +1936,7 @@
             </div>
         </div>
     </div> -->
-   
+
 
     <!-- Modal -->
     <div class="modal fade" id="myModal" tabindex="-1" aria-hidden="true">
@@ -1929,7 +1944,7 @@
             <div class="modal-content position-relative">
 
                 <button type="button" class="btn-close modalCloseButton position-absolute top-0 end-0 m-3"
-                    data-bs-dismiss="modal" aria-label="Close" style="z-index: 9999; " >
+                    data-bs-dismiss="modal" aria-label="Close" style="z-index: 9999; ">
                 </button>
 
                 <div class="modal-body">
@@ -1990,6 +2005,9 @@
     </div>
 
 
+    <a href="https://wa.me/+971551135229" class="Phone-sticky" target="_blank" rel="noopener noreferrer">
+       <i class="fa-solid fa-phone fa-flip-horizontal" style="color: #ffffff;"></i> 
+    </a>
     <a href="https://wa.me/+971551135229" class="whatsapp-sticky" target="_blank" rel="noopener noreferrer">
         <i class="fa-brands fa-whatsapp"></i>
     </a>
@@ -2127,6 +2145,43 @@
             });
         });
     </script>
+
+
+
+<!-- iframe youtube  video script -->
+ <script>
+    // Load YouTube API
+    var tag = document.createElement('script');
+    tag.src = "https://www.youtube.com/iframe_api";
+    document.getElementsByTagName('script')[0].parentNode.insertBefore(tag, null);
+
+    var player;
+    function onYouTubeIframeAPIReady() {
+        player = new YT.Player('player', {
+            height: '540',
+            width: '360',
+            videoId: 'djZV4wG8j_c',   // Updated ID
+            playerVars: {
+                autoplay: 1,
+                mute: 1,
+                loop: 1,
+                playlist: 'djZV4wG8j_c', // Updated playlist
+                controls: 0,
+                rel: 0,
+                modestbranding: 1,
+                playsinline: 1
+            }
+        });
+    }
+
+    // CLICK → Unmute video
+    document.getElementById('overlay').addEventListener('click', function () {
+        if (player && player.unMute) {
+            player.unMute();
+            this.style.display = 'none';
+        }
+    });
+</script>
 </body>
 
 </html>
