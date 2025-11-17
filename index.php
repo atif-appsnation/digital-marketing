@@ -2005,7 +2005,7 @@
     </div>
 
 
-    <a href="https://wa.me/+971551135229" class="Phone-sticky" target="_blank" rel="noopener noreferrer">
+    <a href="tel:+971551135229" class="Phone-sticky" target="_blank" rel="noopener noreferrer">
        <i class="fa-solid fa-phone fa-flip-horizontal" style="color: #ffffff;"></i> 
     </a>
     <a href="https://wa.me/+971551135229" class="whatsapp-sticky" target="_blank" rel="noopener noreferrer">
