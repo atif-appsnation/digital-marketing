@@ -553,7 +553,7 @@ $('.testimonial-card-a').owlCarousel({
         else bsCarousel.prev();
       }
     });
-
+// End by hassan portfoilo section 
 
     $('.gif-slider').owlCarousel({
     items: 4,
@@ -589,3 +589,24 @@ $('.testimonial-card-a').owlCarousel({
         },
     }
 });
+/* by hassan video testimonials slides */
+
+$('.video-carousel').owlCarousel({
+    items: 3,
+    loop: true,
+    autoplay: true,
+    center: true,
+    margin: 25,
+    nav: false,
+    dots: true,
+    autoplayTimeout: 3500,
+    autoplayHoverPause: true,
+    smartSpeed: 900,
+    responsive: {
+        0: { items: 1 },
+        600: { items: 1 },
+        768: { items: 2 },
+        1200: { items: 3 }
+    }
+});
+/* End hassan video testimonials slides */

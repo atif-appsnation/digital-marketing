@@ -288,7 +288,7 @@
     </section>
     <!-- End Hero -->
 
-    <!-- Start Marquee -->
+    <!-- Start  Marquee -->
     <div class="marquee-section-1">
         <div class="mycustom-marque style-2">
             <div class="scrolling-wrap">
@@ -626,8 +626,8 @@
 
 
     <!-- Start Portfolio -->
-    <!-- <section class="portfolio">
-            <div class="scrollHalf">
+<!-- <section class="portfolio">
+               <div class="scrollHalf">
 				<div class="scrollHalf__grupo row h-100" data-scroll>
 					<div class="scrollHalf__grupo__imagen col-12 col-sm-12 col-md-12 col-lg-6 col-xl-6 mt-auto mb-auto website-first-cs">
 						<img src="assets/img/case-studies/new-case studay/1.jpg" class="img-fluid" alt="Case Study" />
@@ -803,8 +803,8 @@
                         </table>
 					</div>
 				</div>
-			</div>
-            <div class="container">
+			  </div>
+             <div class="container">
                 <div class="row">
                     <div class="col-12">
                         <div class="d-flex justify-content-center wow fadeInUp mt-4" data-wow-delay=".7s">
@@ -821,7 +821,7 @@
                         </div>
                     </div>
                 </div>
-            </div>
+              </div>
             
         </section> -->
 
@@ -1035,14 +1035,13 @@
 
                         </div>
                     </div>
-                    <!-- ✅ Indicators (Dots at Bottom) -->
-
+                   
                 </div>
 
 
 
 
-            </div>
+         </div>
 
             <!-- Indicators -->
             <div class="carousel-indicators ps-5 ">
@@ -1052,7 +1051,7 @@
                 <button type="button" data-bs-target="#animalCarousel" data-bs-slide-to="3"></button>
                 <button type="button" data-bs-target="#animalCarousel" data-bs-slide-to="4"></button>
             </div>
-        </div>
+    </div>
 
 
         <!-- End Portfolio -->
@@ -1364,7 +1363,7 @@
                 </div>
             </div>
 
-    </div>
+           </div>
     </section>
     <!-- End Industries -->
 
@@ -1741,6 +1740,42 @@
                         The a long established fact that a reader will be distracted <br> the readable content of page when looking at layout the <br> point of using lorem Ipsum
                     </p>
                 </div>
+
+
+                <div class="row mt-5 wow fadeIn">
+    <div class="col-12">
+        <div class="video-carousel owl-carousel owl-theme">
+
+            <div class="video-card">
+                <div class="video-frame">
+                  <iframe width="100%" height="500" src="https://www.youtube.com/embed/d7BDBcb5__4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+                </div>
+            </div>
+
+            <div class="video-card">
+                <div class="video-frame">
+                  <iframe width="100%" height="500" src="https://www.youtube.com/embed/fOcCXiQw3Nw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+                </div>
+            </div>
+
+            <div class="video-card">
+                <div class="video-frame">
+                 <iframe width="100%" height="500" src="https://www.youtube.com/embed/G8Sg86NGyfw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+                </div>
+            </div>
+
+            <div class="video-card">
+                <div class="video-frame">
+                     <iframe width="100%" height="500" src="https://www.youtube.com/embed/XA98Ttygx3E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+                </div>
+            </div>
+
+        </div>
+    </div>
+</div>
+
+
+<!-- 
                 <div class="row mt-4 mt-lg-0 wow fadeInUp" data-wow-delay=".5s">
                     <div class="col-md-6 col-lg-3 mt-3 mt-md-0">
                         <iframe width="100%" height="500" src="https://www.youtube.com/embed/d7BDBcb5__4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -1755,7 +1790,7 @@
                     <div class="col-md-6 col-lg-3 mt-3 mt-lg-0">
                         <iframe width="100%" height="500" src="https://www.youtube.com/embed/XA98Ttygx3E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
                     </div>
-                </div>
+                </div> -->
             </div>
             <div class="d-flex justify-content-center wow fadeInUp mt-4" data-wow-delay=".7s">
                 <div class="main-button">
